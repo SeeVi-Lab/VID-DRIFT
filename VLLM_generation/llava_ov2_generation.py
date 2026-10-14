@@ -43,7 +43,7 @@ class LlavaOneVision2:
 def add_args(ap):
     ap.add_argument("--video-max-pixels", type=int, default=200704,
                     help="per-frame pixel cap set on the video processor (model card value)")
-    ap.set_defaults(nframes=64)
+    ap.set_defaults(nframes=32)
 
 
 if __name__ == "__main__":

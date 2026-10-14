@@ -59,7 +59,7 @@ class Molmo2:
 def add_args(ap):
     ap.add_argument("--device-map", default="auto",
                     help='"auto" (split across visible GPUs) or a single GPU such as "cuda:0"')
-    ap.set_defaults(nframes=128)
+    ap.set_defaults(nframes=32)
 
 
 if __name__ == "__main__":

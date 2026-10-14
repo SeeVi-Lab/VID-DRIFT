@@ -1,0 +1,22 @@
+4 models x 12 conditions, 362 fully paired items
+
+ALL_Score_avg (x100)
+                                                clean  downscale_12  downscale_16  downscale_4  h265_28  h265_45  h265_51  jpeg_10  jpeg_40  jpeg_5  streamproxy_x4_crf35  streamproxy_x8_crf45
+OpenGVLab/InternVL3-8B-hf                        75.4          65.5          58.3         75.1     73.2     69.9     61.0     73.2     74.6    72.7                  64.6                  46.4
+Qwen/Qwen3-VL-8B-Instruct                        67.4          54.4          52.8         64.4     64.1     57.5     54.1     63.0     64.1    63.3                  58.8                  40.9
+allenai/Molmo2-8B                                76.8          61.6          57.7         70.7     72.7     66.6     59.1     74.0     74.3    74.3                  61.6                  41.2
+lmms-lab-encoder/LLaVA-OneVision-2-8B-Instruct   70.4          58.6          54.4         67.1     66.6     63.3     54.4     65.2     67.4    67.1                  59.4                  39.0
+
+MCQ_ACC (x100)
+                                                clean  downscale_12  downscale_16  downscale_4  h265_28  h265_45  h265_51  jpeg_10  jpeg_40  jpeg_5  streamproxy_x4_crf35  streamproxy_x8_crf45
+OpenGVLab/InternVL3-8B-hf                        75.4          65.5          58.3         75.1     73.2     69.9     61.0     73.2     74.6    72.7                  64.6                  46.4
+Qwen/Qwen3-VL-8B-Instruct                        67.4          54.4          52.8         64.4     64.1     57.5     54.1     63.0     64.1    63.3                  58.8                  40.9
+allenai/Molmo2-8B                                76.8          61.6          57.7         70.7     72.7     66.6     59.1     74.0     74.3    74.3                  61.6                  41.2
+lmms-lab-encoder/LLaVA-OneVision-2-8B-Instruct   70.4          58.6          54.4         67.1     66.6     63.3     54.4     65.2     67.4    67.1                  59.4                  39.0
+
+                                                parse_rate  identical_across_conditions
+model                                                                                  
+OpenGVLab/InternVL3-8B-hf                              1.0                        0.251
+Qwen/Qwen3-VL-8B-Instruct                              1.0                        0.243
+allenai/Molmo2-8B                                      1.0                        0.268
+lmms-lab-encoder/LLaVA-OneVision-2-8B-Instruct         1.0                        0.304

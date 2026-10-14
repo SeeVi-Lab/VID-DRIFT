@@ -1,0 +1,970 @@
+Manifest rows after filter (datasets=['mvbench'], conditions=['clean', 'downscale_12', 'downscale_16', 'downscale_4', 'h265_28', 'h265_45', 'h265_51', 'jpeg_10', 'jpeg_40', 'jpeg_5', 'streamproxy_x4_crf35', 'streamproxy_x8_crf45']): 5335
+Question kinds (generic protocol): {'mcq': 5335}
+NOTE: manifest has no clean rows; built 484 from each item's video_path.
+Folders checked (unit | folder | found / missing):
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/FunQA_test/test/test_creative  9 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/FunQA_test/test/test_humor  13 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/FunQA_test/test/test_magic  9 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/baptizing  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/biting  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/boiling  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/bubbling  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/buttoning  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/clawing  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/dining  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/drilling  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/driving  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/extinguishing  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/flying  2 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/gambling  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/guarding  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/handwriting  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/mopping  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/operating  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/punting  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/rafting  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/raining  2 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/saluting  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/screwing  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/sliding  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/stirring  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/stretching  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/clevrer/video_validation  132 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/data0613/star/Charades_v1_480  2 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/perception/videos  107 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/scene_qa/video  26 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/ssv2_video  26 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/sta/sta_video  23 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/star/Charades_v1_480  85 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/vlnqa/forward  6 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/vlnqa/left  10 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/vlnqa/right  7 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/vlnqa/stop  3 / 0
+  downscale_12/degraded    /data/jpk322/VID-DRIFT/downsamples/MVBench/downscale_12  484 / 1
+  downscale_12/restored    /data/jpk322/VID-DRIFT/restored/MVBench/downscale_12/SwiftVR  387 / 98
+  downscale_16/degraded    /data/jpk322/VID-DRIFT/downsamples/MVBench/downscale_16  484 / 1
+  downscale_16/restored    /data/jpk322/VID-DRIFT/restored/MVBench/downscale_16/SwiftVR  402 / 83
+  downscale_4/degraded     /data/jpk322/VID-DRIFT/downsamples/MVBench/downscale_4  484 / 1
+  downscale_4/restored     /data/jpk322/VID-DRIFT/restored/MVBench/downscale_4/SwiftVR  401 / 84
+  h265_28/degraded         /data/jpk322/VID-DRIFT/downsamples/MVBench/h265_28  468 / 17
+  h265_28/restored         /data/jpk322/VID-DRIFT/restored/MVBench/h265_28/SwiftVR  386 / 99
+  h265_45/degraded         /data/jpk322/VID-DRIFT/downsamples/MVBench/h265_45  467 / 18
+  h265_45/restored         /data/jpk322/VID-DRIFT/restored/MVBench/h265_45/SwiftVR  385 / 100
+  h265_51/degraded         /data/jpk322/VID-DRIFT/downsamples/MVBench/h265_51  468 / 17
+  h265_51/restored         /data/jpk322/VID-DRIFT/restored/MVBench/h265_51/SwiftVR  386 / 99
+  jpeg_10/degraded         /data/jpk322/VID-DRIFT/downsamples/MVBench/jpeg_10  484 / 1
+  jpeg_10/restored         /data/jpk322/VID-DRIFT/restored/MVBench/jpeg_10/SwiftVR  400 / 85
+  jpeg_40/degraded         /data/jpk322/VID-DRIFT/downsamples/MVBench/jpeg_40  484 / 1
+  jpeg_40/restored         /data/jpk322/VID-DRIFT/restored/MVBench/jpeg_40/SwiftVR  401 / 84
+  jpeg_5/degraded          /data/jpk322/VID-DRIFT/downsamples/MVBench/jpeg_5  484 / 1
+  jpeg_5/restored          /data/jpk322/VID-DRIFT/restored/MVBench/jpeg_5/SwiftVR  400 / 85
+  streamproxy_x4_crf35/degraded /data/jpk322/VID-DRIFT/downsamples/MVBench/streamproxy_x4_crf35  482 / 3
+  streamproxy_x4_crf35/restored /data/jpk322/VID-DRIFT/restored/MVBench/streamproxy_x4_crf35/SwiftVR  402 / 83
+  streamproxy_x8_crf45/degraded /data/jpk322/VID-DRIFT/downsamples/MVBench/streamproxy_x8_crf45  470 / 15
+  streamproxy_x8_crf45/restored /data/jpk322/VID-DRIFT/restored/MVBench/streamproxy_x8_crf45/SwiftVR  416 / 69
+  e.g. missing downscale_12/degraded: /data/jpk322/VID-DRIFT/downsamples/MVBench/downscale_12/Z7KC1.mp4
+  e.g. missing downscale_12/restored: /data/jpk322/VID-DRIFT/restored/MVBench/downscale_12/SwiftVR/214306.mp4
+  e.g. missing downscale_16/degraded: /data/jpk322/VID-DRIFT/downsamples/MVBench/downscale_16/Z7KC1.mp4
+  e.g. missing downscale_16/restored: /data/jpk322/VID-DRIFT/restored/MVBench/downscale_16/SwiftVR/103292.mp4
+  e.g. missing downscale_4/degraded: /data/jpk322/VID-DRIFT/downsamples/MVBench/downscale_4/Z7KC1.mp4
+  e.g. missing downscale_4/restored: /data/jpk322/VID-DRIFT/restored/MVBench/downscale_4/SwiftVR/214306.mp4
+  e.g. missing h265_28/degraded: /data/jpk322/VID-DRIFT/downsamples/MVBench/h265_28/14384.mp4
+  e.g. missing h265_28/restored: /data/jpk322/VID-DRIFT/restored/MVBench/h265_28/SwiftVR/14384.mp4
+  e.g. missing h265_45/degraded: /data/jpk322/VID-DRIFT/downsamples/MVBench/h265_45/14384.mp4
+  e.g. missing h265_45/restored: /data/jpk322/VID-DRIFT/restored/MVBench/h265_45/SwiftVR/14384.mp4
+  e.g. missing h265_51/degraded: /data/jpk322/VID-DRIFT/downsamples/MVBench/h265_51/14384.mp4
+  e.g. missing h265_51/restored: /data/jpk322/VID-DRIFT/restored/MVBench/h265_51/SwiftVR/14384.mp4
+  e.g. missing jpeg_10/degraded: /data/jpk322/VID-DRIFT/downsamples/MVBench/jpeg_10/Z7KC1.mp4
+  e.g. missing jpeg_10/restored: /data/jpk322/VID-DRIFT/restored/MVBench/jpeg_10/SwiftVR/video_3228.mp4
+  e.g. missing jpeg_40/degraded: /data/jpk322/VID-DRIFT/downsamples/MVBench/jpeg_40/Z7KC1.mp4
+  e.g. missing jpeg_40/restored: /data/jpk322/VID-DRIFT/restored/MVBench/jpeg_40/SwiftVR/video_3228.mp4
+  e.g. missing jpeg_5/degraded: /data/jpk322/VID-DRIFT/downsamples/MVBench/jpeg_5/Z7KC1.mp4
+  e.g. missing jpeg_5/restored: /data/jpk322/VID-DRIFT/restored/MVBench/jpeg_5/SwiftVR/video_3228.mp4
+  e.g. missing streamproxy_x4_crf35/degraded: /data/jpk322/VID-DRIFT/downsamples/MVBench/streamproxy_x4_crf35/video_6301.mp4
+  e.g. missing streamproxy_x4_crf35/restored: /data/jpk322/VID-DRIFT/restored/MVBench/streamproxy_x4_crf35/SwiftVR/214306.mp4
+  e.g. missing streamproxy_x8_crf45/degraded: /data/jpk322/VID-DRIFT/downsamples/MVBench/streamproxy_x8_crf45/103292.mp4
+  e.g. missing streamproxy_x8_crf45/restored: /data/jpk322/VID-DRIFT/restored/MVBench/streamproxy_x8_crf45/SwiftVR/103292.mp4
+Complete items (eval video exists for all 23 condition/variant units): 331 / 484
+  skipped 153 incomplete items; missing videos per unit: {'h265_45/restored': 100, 'h265_28/restored': 99, 'h265_51/restored': 99, 'downscale_12/restored': 98, 'jpeg_10/restored': 85, 'jpeg_5/restored': 85, 'downscale_4/restored': 84, 'jpeg_40/restored': 84, 'streamproxy_x4_crf35/restored': 83, 'downscale_16/restored': 83, 'streamproxy_x8_crf45/restored': 69, 'h265_45/degraded': 18, 'h265_28/degraded': 17, 'h265_51/degraded': 17, 'streamproxy_x8_crf45/degraded': 15, 'streamproxy_x4_crf35/degraded': 3, 'jpeg_10/degraded': 1, 'jpeg_5/degraded': 1, 'jpeg_40/degraded': 1, 'downscale_12/degraded': 1, 'downscale_4/degraded': 1, 'downscale_16/degraded': 1}
+To evaluate: 7635 (missing eval videos: 0) {'clean/clean': 331, 'downscale_4/degraded': 332, 'downscale_4/restored': 332, 'downscale_12/degraded': 332, 'downscale_12/restored': 332, 'downscale_16/degraded': 332, 'downscale_16/restored': 332, 'jpeg_40/degraded': 332, 'jpeg_40/restored': 332, 'jpeg_10/degraded': 332, 'jpeg_10/restored': 332, 'jpeg_5/degraded': 332, 'jpeg_5/restored': 332, 'h265_28/degraded': 332, 'h265_28/restored': 332, 'h265_45/degraded': 332, 'h265_45/restored': 332, 'h265_51/degraded': 332, 'h265_51/restored': 332, 'streamproxy_x4_crf35/degraded': 332, 'streamproxy_x4_crf35/restored': 332, 'streamproxy_x8_crf45/degraded': 332, 'streamproxy_x8_crf45/restored': 332}
+Loading allenai/Molmo2-8B ...
+Using a slow image processor as `use_fast` is unset and a slow processor was saved with this model. `use_fast=True` will be the default behavior in v4.52, even if the model was saved with a slow processor. This will result in minor differences in outputs. You'll still be able to use a slow processor with `use_fast=False`.
+Loading checkpoint shards:   0%|          | 0/8 [00:00<?, ?it/s]Loading checkpoint shards:  12%|█▎        | 1/8 [00:23<02:46, 23.75s/it]Loading checkpoint shards:  25%|██▌       | 2/8 [00:50<02:32, 25.35s/it]Loading checkpoint shards:  38%|███▊      | 3/8 [01:16<02:08, 25.61s/it]Loading checkpoint shards:  50%|█████     | 4/8 [01:41<01:42, 25.51s/it]Loading checkpoint shards:  62%|██████▎   | 5/8 [02:07<01:17, 25.67s/it]Loading checkpoint shards:  75%|███████▌  | 6/8 [02:34<00:52, 26.05s/it]Loading checkpoint shards:  88%|████████▊ | 7/8 [02:59<00:25, 25.75s/it]Loading checkpoint shards: 100%|██████████| 8/8 [03:11<00:00, 21.34s/it]Loading checkpoint shards: 100%|██████████| 8/8 [03:11<00:00, 23.91s/it]
+[molmo2] device placement: ['0', '1']; meta params: 0
+/home/jpk322/.cache/huggingface/modules/transformers_modules/allenai/Molmo2_hyphen_8B/e28fa28597e5ec5e0cca2201dd8ab33d48bc4a1b/video_processing_molmo2.py:755: UserWarning: `decord` is not installed and cannot be used to decode the video by default. Falling back to `torchcodec`.
+  warnings.warn(
+[molmo2] input tokens for first item: 857
+
+--- [clean/clean] /data/jpk322/VID-DRIFT/MVBench/video/ssv2_video/68631.webm
+PROMPT:
+Which one of these descriptions correctly matches the actions in the video?
+A. Not sure
+B. Staying in place something across a surface until it ascends down
+C. Moving something across a surface until it falls down
+Answer with the single letter of the correct option only.
+RAW: 'C'
+GOLD: 'Moving something across a surface until it falls down' -> gold='C' pred='C' score=1.0
+/home/jpk322/.cache/huggingface/modules/transformers_modules/allenai/Molmo2_hyphen_8B/e28fa28597e5ec5e0cca2201dd8ab33d48bc4a1b/video_processing_molmo2.py:755: UserWarning: `decord` is not installed and cannot be used to decode the video by default. Falling back to `torchcodec`.
+  warnings.warn(
+
+--- [downscale_4/degraded] /data/jpk322/VID-DRIFT/downsamples/MVBench/downscale_4/68631.mp4
+PROMPT:
+Which one of these descriptions correctly matches the actions in the video?
+A. Not sure
+B. Staying in place something across a surface until it ascends down
+C. Moving something across a surface until it falls down
+Answer with the single letter of the correct option only.
+RAW: 'C'
+GOLD: 'Moving something across a surface until it falls down' -> gold='C' pred='C' score=1.0
+
+--- [downscale_4/restored] /data/jpk322/VID-DRIFT/restored/MVBench/downscale_4/SwiftVR/68631.mp4
+PROMPT:
+Which one of these descriptions correctly matches the actions in the video?
+A. Not sure
+B. Staying in place something across a surface until it ascends down
+C. Moving something across a surface until it falls down
+Answer with the single letter of the correct option only.
+RAW: 'C'
+GOLD: 'Moving something across a surface until it falls down' -> gold='C' pred='C' score=1.0
+  ... 10/7635
+  ... 20/7635
+  ... 30/7635
+  ... 40/7635
+  ... 50/7635
+  ... 60/7635
+  ... 70/7635
+  ... 80/7635
+  ... 90/7635
+  ... 100/7635
+  ... 110/7635
+  ... 120/7635
+  ... 130/7635
+  ... 140/7635
+  ... 150/7635
+  ... 160/7635
+  ... 170/7635
+  ... 180/7635
+  ... 190/7635
+  ... 200/7635
+  ... 210/7635
+  ... 220/7635
+  ... 230/7635
+  ... 240/7635
+  ... 250/7635
+  ... 260/7635
+  ... 270/7635
+  ... 280/7635
+  ... 290/7635
+  ... 300/7635
+  ... 310/7635
+  ... 320/7635
+  ... 330/7635
+  ... 340/7635
+  ... 350/7635
+  ... 360/7635
+  ... 370/7635
+  ... 380/7635
+  ... 390/7635
+  ... 400/7635
+  ... 410/7635
+  ... 420/7635
+  ... 430/7635
+  ... 440/7635
+  ... 450/7635
+  ... 460/7635
+  ... 470/7635
+  ... 480/7635
+  ... 490/7635
+  ... 500/7635
+  ... 510/7635
+  ... 520/7635
+  ... 530/7635
+  ... 540/7635
+  ... 550/7635
+  ... 560/7635
+  ... 570/7635
+  ... 580/7635
+  ... 590/7635
+  ... 600/7635
+  ... 610/7635
+  ... 620/7635
+  ... 630/7635
+  ... 640/7635
+  ... 650/7635
+  ... 660/7635
+  ... 670/7635
+  ... 680/7635
+  ... 690/7635
+  ... 700/7635
+  ... 710/7635
+  ... 720/7635
+  ... 730/7635
+  ... 740/7635
+  ... 750/7635
+  ... 760/7635
+  ... 770/7635
+  ... 780/7635
+  ... 790/7635
+  ... 800/7635
+  ... 810/7635
+  ... 820/7635
+  ... 830/7635
+  ... 840/7635
+  ... 850/7635
+  ... 860/7635
+  ... 870/7635
+  ... 880/7635
+  ... 890/7635
+  ... 900/7635
+  ... 910/7635
+  ... 920/7635
+  ... 930/7635
+  ... 940/7635
+  ... 950/7635
+  ... 960/7635
+  ... 970/7635
+  ... 980/7635
+  ... 990/7635
+  ... 1000/7635
+  ... 1010/7635
+  ... 1020/7635
+  ... 1030/7635
+  ... 1040/7635
+  ... 1050/7635
+  ... 1060/7635
+  ... 1070/7635
+  ... 1080/7635
+  ... 1090/7635
+  ... 1100/7635
+  ... 1110/7635
+  ... 1120/7635
+  ... 1130/7635
+  ... 1140/7635
+  ... 1150/7635
+  ... 1160/7635
+  ... 1170/7635
+  ... 1180/7635
+  ... 1190/7635
+  ... 1200/7635
+  ... 1210/7635
+  ... 1220/7635
+  ... 1230/7635
+  ... 1240/7635
+[W1012 21:32:41.424959730 CUDACachingAllocator.cpp:3934] memory allocation failed with OOM on device 1 while trying to allocate 432013312 bytes (free: 418512896, total: 25425608704).
+  ... 1250/7635
+  ... 1260/7635
+  ... 1270/7635
+  ... 1280/7635
+  ... 1290/7635
+  ... 1300/7635
+  ... 1310/7635
+  ... 1320/7635
+  ... 1330/7635
+  ... 1340/7635
+  ... 1350/7635
+  ... 1360/7635
+  ... 1370/7635
+  ... 1380/7635
+  ... 1390/7635
+  ... 1400/7635
+  ... 1410/7635
+  ... 1420/7635
+  ... 1430/7635
+  ... 1440/7635
+  ... 1450/7635
+  ... 1460/7635
+  ... 1470/7635
+  ... 1480/7635
+  ... 1490/7635
+  ... 1500/7635
+  ... 1510/7635
+  ... 1520/7635
+  ... 1530/7635
+  ... 1540/7635
+  ... 1550/7635
+  ... 1560/7635
+  ... 1570/7635
+  ... 1580/7635
+  ... 1590/7635
+  ... 1600/7635
+  ... 1610/7635
+  ... 1620/7635
+  ... 1630/7635
+  ... 1640/7635
+  ... 1650/7635
+  ... 1660/7635
+  ... 1670/7635
+  ... 1680/7635
+  ... 1690/7635
+  ... 1700/7635
+  ... 1710/7635
+  ... 1720/7635
+  ... 1730/7635
+  ... 1740/7635
+  ... 1750/7635
+  ... 1760/7635
+  ... 1770/7635
+  ... 1780/7635
+  ... 1790/7635
+  ... 1800/7635
+  ... 1810/7635
+  ... 1820/7635
+  ... 1830/7635
+  ... 1840/7635
+  ... 1850/7635
+  ... 1860/7635
+  ... 1870/7635
+  ... 1880/7635
+  ... 1890/7635
+  ... 1900/7635
+  ... 1910/7635
+  ... 1920/7635
+  ... 1930/7635
+  ... 1940/7635
+  ... 1950/7635
+  ... 1960/7635
+  ... 1970/7635
+  ... 1980/7635
+  ... 1990/7635
+  ... 2000/7635
+  ... 2010/7635
+  ... 2020/7635
+  ... 2030/7635
+  ... 2040/7635
+  ... 2050/7635
+  ... 2060/7635
+  ... 2070/7635
+  ... 2080/7635
+  ... 2090/7635
+  ... 2100/7635
+  ... 2110/7635
+  ... 2120/7635
+  ... 2130/7635
+  ... 2140/7635
+  ... 2150/7635
+  ... 2160/7635
+  ... 2170/7635
+  ... 2180/7635
+  ... 2190/7635
+  ... 2200/7635
+  ... 2210/7635
+  ... 2220/7635
+  ... 2230/7635
+  ... 2240/7635
+  ... 2250/7635
+  ... 2260/7635
+  ... 2270/7635
+  ... 2280/7635
+  ... 2290/7635
+  ... 2300/7635
+  ... 2310/7635
+  ... 2320/7635
+  ... 2330/7635
+  ... 2340/7635
+  ... 2350/7635
+  ... 2360/7635
+  ... 2370/7635
+  ... 2380/7635
+  ... 2390/7635
+  ... 2400/7635
+  ... 2410/7635
+  ... 2420/7635
+  ... 2430/7635
+  ... 2440/7635
+  ... 2450/7635
+  ... 2460/7635
+  ... 2470/7635
+  ... 2480/7635
+  ... 2490/7635
+  ... 2500/7635
+  ... 2510/7635
+  ... 2520/7635
+  ... 2530/7635
+  ... 2540/7635
+  ... 2550/7635
+  ... 2560/7635
+  ... 2570/7635
+  ... 2580/7635
+  ... 2590/7635
+  ... 2600/7635
+  ... 2610/7635
+  ... 2620/7635
+  ... 2630/7635
+  ... 2640/7635
+  ... 2650/7635
+  ... 2660/7635
+  ... 2670/7635
+  ... 2680/7635
+  ... 2690/7635
+  ... 2700/7635
+  ... 2710/7635
+  ... 2720/7635
+  ... 2730/7635
+  ... 2740/7635
+  ... 2750/7635
+  ... 2760/7635
+  ... 2770/7635
+  ... 2780/7635
+  ... 2790/7635
+  ... 2800/7635
+  ... 2810/7635
+  ... 2820/7635
+  ... 2830/7635
+  ... 2840/7635
+  ... 2850/7635
+  ... 2860/7635
+  ... 2870/7635
+  ... 2880/7635
+  ... 2890/7635
+  ... 2900/7635
+  ... 2910/7635
+  ... 2920/7635
+  ... 2930/7635
+  ... 2940/7635
+  ... 2950/7635
+  ... 2960/7635
+  ... 2970/7635
+  ... 2980/7635
+  ... 2990/7635
+  ... 3000/7635
+  ... 3010/7635
+  ... 3020/7635
+  ... 3030/7635
+  ... 3040/7635
+  ... 3050/7635
+  ... 3060/7635
+  ... 3070/7635
+  ... 3080/7635
+  ... 3090/7635
+  ... 3100/7635
+  ... 3110/7635
+  ... 3120/7635
+  ... 3130/7635
+  ... 3140/7635
+  ... 3150/7635
+  ... 3160/7635
+  ... 3170/7635
+  ... 3180/7635
+  ... 3190/7635
+  ... 3200/7635
+  ... 3210/7635
+  ... 3220/7635
+  ... 3230/7635
+  ... 3240/7635
+  ... 3250/7635
+  ... 3260/7635
+  ... 3270/7635
+  ... 3280/7635
+  ... 3290/7635
+  ... 3300/7635
+  ... 3310/7635
+  ... 3320/7635
+  ... 3330/7635
+  ... 3340/7635
+  ... 3350/7635
+  ... 3360/7635
+  ... 3370/7635
+  ... 3380/7635
+  ... 3390/7635
+  ... 3400/7635
+  ... 3410/7635
+  ... 3420/7635
+  ... 3430/7635
+  ... 3440/7635
+  ... 3450/7635
+  ... 3460/7635
+  ... 3470/7635
+  ... 3480/7635
+  ... 3490/7635
+  ... 3500/7635
+  ... 3510/7635
+  ... 3520/7635
+  ... 3530/7635
+  ... 3540/7635
+  ... 3550/7635
+  ... 3560/7635
+  ... 3570/7635
+  ... 3580/7635
+  ... 3590/7635
+  ... 3600/7635
+  ... 3610/7635
+  ... 3620/7635
+  ... 3630/7635
+  ... 3640/7635
+  ... 3650/7635
+  ... 3660/7635
+  ... 3670/7635
+  ... 3680/7635
+  ... 3690/7635
+  ... 3700/7635
+  ... 3710/7635
+  ... 3720/7635
+  ... 3730/7635
+  ... 3740/7635
+  ... 3750/7635
+  ... 3760/7635
+  ... 3770/7635
+  ... 3780/7635
+  ... 3790/7635
+  ... 3800/7635
+  ... 3810/7635
+  ... 3820/7635
+  ... 3830/7635
+  ... 3840/7635
+  ... 3850/7635
+  ... 3860/7635
+  ... 3870/7635
+  ... 3880/7635
+  ... 3890/7635
+  ... 3900/7635
+  ... 3910/7635
+  ... 3920/7635
+  ... 3930/7635
+  ... 3940/7635
+  ... 3950/7635
+  ... 3960/7635
+  ... 3970/7635
+  ... 3980/7635
+  ... 3990/7635
+  ... 4000/7635
+  ... 4010/7635
+  ... 4020/7635
+  ... 4030/7635
+  ... 4040/7635
+  ... 4050/7635
+  ... 4060/7635
+  ... 4070/7635
+  ... 4080/7635
+  ... 4090/7635
+  ... 4100/7635
+  ... 4110/7635
+  ... 4120/7635
+  ... 4130/7635
+  ... 4140/7635
+  ... 4150/7635
+  ... 4160/7635
+  ... 4170/7635
+  ... 4180/7635
+  ... 4190/7635
+  ... 4200/7635
+  ... 4210/7635
+  ... 4220/7635
+  ... 4230/7635
+  ... 4240/7635
+  ... 4250/7635
+  ... 4260/7635
+  ... 4270/7635
+  ... 4280/7635
+  ... 4290/7635
+  ... 4300/7635
+  ... 4310/7635
+  ... 4320/7635
+  ... 4330/7635
+  ... 4340/7635
+  ... 4350/7635
+  ... 4360/7635
+  ... 4370/7635
+  ... 4380/7635
+  ... 4390/7635
+  ... 4400/7635
+  ... 4410/7635
+  ... 4420/7635
+  ... 4430/7635
+  ... 4440/7635
+  ... 4450/7635
+  ... 4460/7635
+  ... 4470/7635
+  ... 4480/7635
+  ... 4490/7635
+  ... 4500/7635
+  ... 4510/7635
+  ... 4520/7635
+  ... 4530/7635
+  ... 4540/7635
+  ... 4550/7635
+  ... 4560/7635
+  ... 4570/7635
+  ... 4580/7635
+  ... 4590/7635
+  ... 4600/7635
+  ... 4610/7635
+  ... 4620/7635
+  ... 4630/7635
+  ... 4640/7635
+  ... 4650/7635
+  ... 4660/7635
+  ... 4670/7635
+  ... 4680/7635
+  ... 4690/7635
+  ... 4700/7635
+  ... 4710/7635
+  ... 4720/7635
+  ... 4730/7635
+  ... 4740/7635
+  ... 4750/7635
+  ... 4760/7635
+  ... 4770/7635
+  ... 4780/7635
+  ... 4790/7635
+  ... 4800/7635
+  ... 4810/7635
+  ... 4820/7635
+  ... 4830/7635
+  ... 4840/7635
+  ... 4850/7635
+  ... 4860/7635
+  ... 4870/7635
+  ... 4880/7635
+  ... 4890/7635
+  ... 4900/7635
+  ... 4910/7635
+  ... 4920/7635
+  ... 4930/7635
+  ... 4940/7635
+  ... 4950/7635
+  ... 4960/7635
+  ... 4970/7635
+  ... 4980/7635
+  ... 4990/7635
+  ... 5000/7635
+  ... 5010/7635
+  ... 5020/7635
+  ... 5030/7635
+  ... 5040/7635
+  ... 5050/7635
+  ... 5060/7635
+  ... 5070/7635
+  ... 5080/7635
+  ... 5090/7635
+  ... 5100/7635
+  ... 5110/7635
+  ... 5120/7635
+  ... 5130/7635
+  ... 5140/7635
+  ... 5150/7635
+  ... 5160/7635
+  ... 5170/7635
+  ... 5180/7635
+  ... 5190/7635
+  ... 5200/7635
+  ... 5210/7635
+  ... 5220/7635
+  ... 5230/7635
+  ... 5240/7635
+  ... 5250/7635
+  ... 5260/7635
+  ... 5270/7635
+  ... 5280/7635
+  ... 5290/7635
+  ... 5300/7635
+  ... 5310/7635
+  ... 5320/7635
+  ... 5330/7635
+  ... 5340/7635
+  ... 5350/7635
+  ... 5360/7635
+  ... 5370/7635
+  ... 5380/7635
+  ... 5390/7635
+  ... 5400/7635
+  ... 5410/7635
+  ... 5420/7635
+  ... 5430/7635
+  ... 5440/7635
+  ... 5450/7635
+  ... 5460/7635
+  ... 5470/7635
+  ... 5480/7635
+  ... 5490/7635
+  ... 5500/7635
+  ... 5510/7635
+  ... 5520/7635
+  ... 5530/7635
+  ... 5540/7635
+  ... 5550/7635
+  ... 5560/7635
+  ... 5570/7635
+  ... 5580/7635
+  ... 5590/7635
+  ... 5600/7635
+  ... 5610/7635
+  ... 5620/7635
+  ... 5630/7635
+  ... 5640/7635
+  ... 5650/7635
+  ... 5660/7635
+  ... 5670/7635
+  ... 5680/7635
+  ... 5690/7635
+  ... 5700/7635
+  ... 5710/7635
+  ... 5720/7635
+  ... 5730/7635
+  ... 5740/7635
+  ... 5750/7635
+  ... 5760/7635
+  ... 5770/7635
+  ... 5780/7635
+  ... 5790/7635
+  ... 5800/7635
+  ... 5810/7635
+  ... 5820/7635
+  ... 5830/7635
+  ... 5840/7635
+  ... 5850/7635
+  ... 5860/7635
+  ... 5870/7635
+  ... 5880/7635
+  ... 5890/7635
+  ... 5900/7635
+  ... 5910/7635
+  ... 5920/7635
+  ... 5930/7635
+  ... 5940/7635
+  ... 5950/7635
+  ... 5960/7635
+  ... 5970/7635
+  ... 5980/7635
+  ... 5990/7635
+  ... 6000/7635
+  ... 6010/7635
+  ... 6020/7635
+  ... 6030/7635
+  ... 6040/7635
+  ... 6050/7635
+  ... 6060/7635
+  ... 6070/7635
+  ... 6080/7635
+  ... 6090/7635
+  ... 6100/7635
+  ... 6110/7635
+  ... 6120/7635
+  ... 6130/7635
+  ... 6140/7635
+  ... 6150/7635
+  ... 6160/7635
+  ... 6170/7635
+  ... 6180/7635
+  ... 6190/7635
+  ... 6200/7635
+  ... 6210/7635
+  ... 6220/7635
+  ... 6230/7635
+  ... 6240/7635
+  ... 6250/7635
+  ... 6260/7635
+  ... 6270/7635
+  ... 6280/7635
+  ... 6290/7635
+  ... 6300/7635
+  ... 6310/7635
+  ... 6320/7635
+  ... 6330/7635
+  ... 6340/7635
+  ... 6350/7635
+  ... 6360/7635
+  ... 6370/7635
+  ... 6380/7635
+  ... 6390/7635
+  ... 6400/7635
+  ... 6410/7635
+  ... 6420/7635
+  ... 6430/7635
+  ... 6440/7635
+  ... 6450/7635
+  ... 6460/7635
+  ... 6470/7635
+  ... 6480/7635
+  ... 6490/7635
+  ... 6500/7635
+  ... 6510/7635
+  ... 6520/7635
+  ... 6530/7635
+  ... 6540/7635
+  ... 6550/7635
+  ... 6560/7635
+  ... 6570/7635
+  ... 6580/7635
+  ... 6590/7635
+  ... 6600/7635
+  ... 6610/7635
+  ... 6620/7635
+  ... 6630/7635
+  ... 6640/7635
+  ... 6650/7635
+  ... 6660/7635
+  ... 6670/7635
+  ... 6680/7635
+  ... 6690/7635
+  ... 6700/7635
+  ... 6710/7635
+  ... 6720/7635
+  ... 6730/7635
+  ... 6740/7635
+  ... 6750/7635
+  ... 6760/7635
+  ... 6770/7635
+  ... 6780/7635
+  ... 6790/7635
+  ... 6800/7635
+  ... 6810/7635
+  ... 6820/7635
+  ... 6830/7635
+  ... 6840/7635
+  ... 6850/7635
+  ... 6860/7635
+  ... 6870/7635
+  ... 6880/7635
+  ... 6890/7635
+  ... 6900/7635
+  ... 6910/7635
+  ... 6920/7635
+  ... 6930/7635
+  ... 6940/7635
+  ... 6950/7635
+  ... 6960/7635
+  ... 6970/7635
+  ... 6980/7635
+  ... 6990/7635
+  ... 7000/7635
+  ... 7010/7635
+  ... 7020/7635
+  ... 7030/7635
+  ... 7040/7635
+  ... 7050/7635
+  ... 7060/7635
+  ... 7070/7635
+  ... 7080/7635
+  ... 7090/7635
+  ... 7100/7635
+  ... 7110/7635
+  ... 7120/7635
+  ... 7130/7635
+  ... 7140/7635
+  ... 7150/7635
+  ... 7160/7635
+  ... 7170/7635
+  ... 7180/7635
+  ... 7190/7635
+  ... 7200/7635
+  ... 7210/7635
+  ... 7220/7635
+  ... 7230/7635
+  ... 7240/7635
+  ... 7250/7635
+  ... 7260/7635
+  ... 7270/7635
+  ... 7280/7635
+  ... 7290/7635
+  ... 7300/7635
+  ... 7310/7635
+  ... 7320/7635
+  ... 7330/7635
+  ... 7340/7635
+  ... 7350/7635
+  ... 7360/7635
+  ... 7370/7635
+  ... 7380/7635
+  ... 7390/7635
+  ... 7400/7635
+  ... 7410/7635
+  ... 7420/7635
+  ... 7430/7635
+  ... 7440/7635
+  ... 7450/7635
+  ... 7460/7635
+  ... 7470/7635
+  ... 7480/7635
+  ... 7490/7635
+  ... 7500/7635
+  ... 7510/7635
+  ... 7520/7635
+  ... 7530/7635
+  ... 7540/7635
+  ... 7550/7635
+  ... 7560/7635
+  ... 7570/7635
+  ... 7580/7635
+  ... 7590/7635
+  ... 7600/7635
+  ... 7610/7635
+  ... 7620/7635
+  ... 7630/7635
+
+=== allenai/Molmo2-8B [molmo2_results]: all scored rows (x100; MAcc = accuracy over MCQ items) ===
+                                           n  MAcc  ALL_Score_avg
+condition            variant                                     
+clean                clean             331.0  75.8           75.8
+downscale_4          degraded          331.0  73.7           73.7
+                     restored:SwiftVR  331.0  74.3           74.3
+downscale_12         degraded          331.0  61.3           61.3
+                     restored:SwiftVR  331.0  60.7           60.7
+downscale_16         degraded          331.0  55.0           55.0
+                     restored:SwiftVR  331.0  54.1           54.1
+jpeg_40              degraded          331.0  71.9           71.9
+                     restored:SwiftVR  331.0  74.3           74.3
+jpeg_10              degraded          331.0  72.8           72.8
+                     restored:SwiftVR  331.0  74.6           74.6
+jpeg_5               degraded          331.0  70.7           70.7
+                     restored:SwiftVR  331.0  74.9           74.9
+h265_28              degraded          331.0  77.0           77.0
+                     restored:SwiftVR  331.0  76.1           76.1
+h265_45              degraded          331.0  67.1           67.1
+                     restored:SwiftVR  331.0  70.4           70.4
+h265_51              degraded          331.0  59.8           59.8
+                     restored:SwiftVR  331.0  61.3           61.3
+streamproxy_x4_crf35 degraded          331.0  64.7           64.7
+                     restored:SwiftVR  331.0  63.4           63.4
+streamproxy_x8_crf45 degraded          331.0  42.0           42.0
+                     restored:SwiftVR  331.0  38.7           38.7
+
+=== allenai/Molmo2-8B [molmo2_results]: paired, 331 items present in all 23 condition/variant units (x100) ===
+                                       MAcc  ALL_Score_avg
+condition            variant                              
+clean                clean             75.8           75.8
+downscale_4          degraded          73.7           73.7
+                     restored:SwiftVR  74.3           74.3
+downscale_12         degraded          61.3           61.3
+                     restored:SwiftVR  60.7           60.7
+downscale_16         degraded          55.0           55.0
+                     restored:SwiftVR  54.1           54.1
+jpeg_40              degraded          71.9           71.9
+                     restored:SwiftVR  74.3           74.3
+jpeg_10              degraded          72.8           72.8
+                     restored:SwiftVR  74.6           74.6
+jpeg_5               degraded          70.7           70.7
+                     restored:SwiftVR  74.9           74.9
+h265_28              degraded          77.0           77.0
+                     restored:SwiftVR  76.1           76.1
+h265_45              degraded          67.1           67.1
+                     restored:SwiftVR  70.4           70.4
+h265_51              degraded          59.8           59.8
+                     restored:SwiftVR  61.3           61.3
+streamproxy_x4_crf35 degraded          64.7           64.7
+                     restored:SwiftVR  63.4           63.4
+streamproxy_x8_crf45 degraded          42.0           42.0
+                     restored:SwiftVR  38.7           38.7
+items with identical raw_output in every unit: 19.3%
+parse_ok rate: 100.0%
+Most common raw outputs (first 40 chars):
+raw_output
+B    2103
+C    2029
+A    1909
+D    1572
+
+=== Restoration transitions (MCQ items with clean, degraded and restored all scored) ===
+RIE = clean ok, degraded ok, restored wrong | RIC = clean ok, degraded wrong, restored ok
+*_any = same degraded->restored flip regardless of clean | p = exact McNemar, degraded vs restored
+           run             model            condition upscaler  n_paired  MAcc_clean  MAcc_degraded  MAcc_restored  RIE  RIC  RIE_any  RIC_any  net_any  p_mcnemar
+molmo2_results allenai/Molmo2-8B          downscale_4  SwiftVR       331        75.8           73.7           74.3   10   10       16       18        2     0.8642
+molmo2_results allenai/Molmo2-8B         downscale_12  SwiftVR       331        75.8           61.3           60.7   31   28       37       35       -2     0.9063
+molmo2_results allenai/Molmo2-8B         downscale_16  SwiftVR       331        75.8           55.0           54.1   35   38       44       41       -3     0.8284
+molmo2_results allenai/Molmo2-8B              jpeg_40  SwiftVR       331        75.8           71.9           74.3    9   15       16       24        8     0.2682
+molmo2_results allenai/Molmo2-8B              jpeg_10  SwiftVR       331        75.8           72.8           74.6    7   15       15       21        6     0.4050
+molmo2_results allenai/Molmo2-8B               jpeg_5  SwiftVR       331        75.8           70.7           74.9    5   18       11       25       14     0.0288
+molmo2_results allenai/Molmo2-8B              h265_28  SwiftVR       331        75.8           77.0           76.1   12    3       16       13       -3     0.7111
+molmo2_results allenai/Molmo2-8B              h265_45  SwiftVR       331        75.8           67.1           70.4   13   21       17       28       11     0.1352
+molmo2_results allenai/Molmo2-8B              h265_51  SwiftVR       331        75.8           59.8           61.3   18   24       25       30        5     0.5901
+molmo2_results allenai/Molmo2-8B streamproxy_x4_crf35  SwiftVR       331        75.8           64.7           63.4   25   18       30       26       -4     0.6889
+molmo2_results allenai/Molmo2-8B streamproxy_x8_crf45  SwiftVR       331        75.8           42.0           38.7   28   19       35       24      -11     0.1925

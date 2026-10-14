@@ -1,0 +1,1187 @@
+Manifest rows after filter (datasets=['mvbench'], conditions=['clean', 'downscale_12', 'downscale_16', 'downscale_4', 'h265_28', 'h265_45', 'h265_51', 'jpeg_10', 'jpeg_40', 'jpeg_5', 'streamproxy_x4_crf35', 'streamproxy_x8_crf45']): 5335
+Question kinds (generic protocol): {'mcq': 5335}
+NOTE: manifest has no clean rows; built 484 from each item's video_path.
+Folders checked (unit | folder | found / missing):
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/FunQA_test/test/test_creative  9 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/FunQA_test/test/test_humor  13 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/FunQA_test/test/test_magic  9 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/baptizing  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/biting  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/boiling  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/bubbling  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/buttoning  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/clawing  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/dining  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/drilling  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/driving  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/extinguishing  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/flying  2 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/gambling  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/guarding  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/handwriting  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/mopping  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/operating  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/punting  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/rafting  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/raining  2 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/saluting  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/screwing  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/sliding  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/stirring  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/stretching  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/clevrer/video_validation  132 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/data0613/star/Charades_v1_480  2 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/perception/videos  107 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/scene_qa/video  26 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/ssv2_video  26 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/sta/sta_video  23 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/star/Charades_v1_480  85 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/vlnqa/forward  6 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/vlnqa/left  10 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/vlnqa/right  7 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/vlnqa/stop  3 / 0
+  downscale_12/degraded    /data/jpk322/VID-DRIFT/downsamples/MVBench/downscale_12  484 / 1
+  downscale_12/restored    /data/jpk322/VID-DRIFT/restored/MVBench/downscale_12/FlashVSR  393 / 92
+  downscale_16/degraded    /data/jpk322/VID-DRIFT/downsamples/MVBench/downscale_16  484 / 1
+  downscale_16/restored    /data/jpk322/VID-DRIFT/restored/MVBench/downscale_16/FlashVSR  393 / 92
+  downscale_4/degraded     /data/jpk322/VID-DRIFT/downsamples/MVBench/downscale_4  484 / 1
+  downscale_4/restored     /data/jpk322/VID-DRIFT/restored/MVBench/downscale_4/FlashVSR  393 / 92
+  h265_28/degraded         /data/jpk322/VID-DRIFT/downsamples/MVBench/h265_28  468 / 17
+  h265_28/restored         /data/jpk322/VID-DRIFT/restored/MVBench/h265_28/FlashVSR  378 / 107
+  h265_45/degraded         /data/jpk322/VID-DRIFT/downsamples/MVBench/h265_45  467 / 18
+  h265_45/restored         /data/jpk322/VID-DRIFT/restored/MVBench/h265_45/FlashVSR  377 / 108
+  h265_51/degraded         /data/jpk322/VID-DRIFT/downsamples/MVBench/h265_51  468 / 17
+  h265_51/restored         /data/jpk322/VID-DRIFT/restored/MVBench/h265_51/FlashVSR  378 / 107
+  jpeg_10/degraded         /data/jpk322/VID-DRIFT/downsamples/MVBench/jpeg_10  484 / 1
+  jpeg_10/restored         /data/jpk322/VID-DRIFT/restored/MVBench/jpeg_10/FlashVSR  393 / 92
+  jpeg_40/degraded         /data/jpk322/VID-DRIFT/downsamples/MVBench/jpeg_40  484 / 1
+  jpeg_40/restored         /data/jpk322/VID-DRIFT/restored/MVBench/jpeg_40/FlashVSR  393 / 92
+  jpeg_5/degraded          /data/jpk322/VID-DRIFT/downsamples/MVBench/jpeg_5  484 / 1
+  jpeg_5/restored          /data/jpk322/VID-DRIFT/restored/MVBench/jpeg_5/FlashVSR  393 / 92
+  streamproxy_x4_crf35/degraded /data/jpk322/VID-DRIFT/downsamples/MVBench/streamproxy_x4_crf35  482 / 3
+  streamproxy_x4_crf35/restored /data/jpk322/VID-DRIFT/restored/MVBench/streamproxy_x4_crf35/FlashVSR  393 / 92
+  streamproxy_x8_crf45/degraded /data/jpk322/VID-DRIFT/downsamples/MVBench/streamproxy_x8_crf45  470 / 15
+  streamproxy_x8_crf45/restored /data/jpk322/VID-DRIFT/restored/MVBench/streamproxy_x8_crf45/FlashVSR  380 / 105
+  e.g. missing downscale_12/degraded: /data/jpk322/VID-DRIFT/downsamples/MVBench/downscale_12/Z7KC1.mp4
+  e.g. missing downscale_12/restored: /data/jpk322/VID-DRIFT/restored/MVBench/downscale_12/FlashVSR/93560.mp4
+  e.g. missing downscale_16/degraded: /data/jpk322/VID-DRIFT/downsamples/MVBench/downscale_16/Z7KC1.mp4
+  e.g. missing downscale_16/restored: /data/jpk322/VID-DRIFT/restored/MVBench/downscale_16/FlashVSR/93560.mp4
+  e.g. missing downscale_4/degraded: /data/jpk322/VID-DRIFT/downsamples/MVBench/downscale_4/Z7KC1.mp4
+  e.g. missing downscale_4/restored: /data/jpk322/VID-DRIFT/restored/MVBench/downscale_4/FlashVSR/93560.mp4
+  e.g. missing h265_28/degraded: /data/jpk322/VID-DRIFT/downsamples/MVBench/h265_28/14384.mp4
+  e.g. missing h265_28/restored: /data/jpk322/VID-DRIFT/restored/MVBench/h265_28/FlashVSR/14384.mp4
+  e.g. missing h265_45/degraded: /data/jpk322/VID-DRIFT/downsamples/MVBench/h265_45/14384.mp4
+  e.g. missing h265_45/restored: /data/jpk322/VID-DRIFT/restored/MVBench/h265_45/FlashVSR/14384.mp4
+  e.g. missing h265_51/degraded: /data/jpk322/VID-DRIFT/downsamples/MVBench/h265_51/14384.mp4
+  e.g. missing h265_51/restored: /data/jpk322/VID-DRIFT/restored/MVBench/h265_51/FlashVSR/14384.mp4
+  e.g. missing jpeg_10/degraded: /data/jpk322/VID-DRIFT/downsamples/MVBench/jpeg_10/Z7KC1.mp4
+  e.g. missing jpeg_10/restored: /data/jpk322/VID-DRIFT/restored/MVBench/jpeg_10/FlashVSR/93560.mp4
+  e.g. missing jpeg_40/degraded: /data/jpk322/VID-DRIFT/downsamples/MVBench/jpeg_40/Z7KC1.mp4
+  e.g. missing jpeg_40/restored: /data/jpk322/VID-DRIFT/restored/MVBench/jpeg_40/FlashVSR/93560.mp4
+  e.g. missing jpeg_5/degraded: /data/jpk322/VID-DRIFT/downsamples/MVBench/jpeg_5/Z7KC1.mp4
+  e.g. missing jpeg_5/restored: /data/jpk322/VID-DRIFT/restored/MVBench/jpeg_5/FlashVSR/93560.mp4
+  e.g. missing streamproxy_x4_crf35/degraded: /data/jpk322/VID-DRIFT/downsamples/MVBench/streamproxy_x4_crf35/video_6301.mp4
+  e.g. missing streamproxy_x4_crf35/restored: /data/jpk322/VID-DRIFT/restored/MVBench/streamproxy_x4_crf35/FlashVSR/93560.mp4
+  e.g. missing streamproxy_x8_crf45/degraded: /data/jpk322/VID-DRIFT/downsamples/MVBench/streamproxy_x8_crf45/103292.mp4
+  e.g. missing streamproxy_x8_crf45/restored: /data/jpk322/VID-DRIFT/restored/MVBench/streamproxy_x8_crf45/FlashVSR/103292.mp4
+Complete items (eval video exists for all 23 condition/variant units): 364 / 484
+  skipped 120 incomplete items; missing videos per unit: {'h265_45/restored': 108, 'h265_51/restored': 107, 'h265_28/restored': 107, 'streamproxy_x8_crf45/restored': 105, 'jpeg_10/restored': 92, 'jpeg_40/restored': 92, 'streamproxy_x4_crf35/restored': 92, 'downscale_12/restored': 92, 'downscale_16/restored': 92, 'jpeg_5/restored': 92, 'downscale_4/restored': 92, 'h265_45/degraded': 18, 'h265_51/degraded': 17, 'h265_28/degraded': 17, 'streamproxy_x8_crf45/degraded': 15, 'streamproxy_x4_crf35/degraded': 3, 'jpeg_40/degraded': 1, 'jpeg_5/degraded': 1, 'downscale_12/degraded': 1, 'downscale_16/degraded': 1, 'downscale_4/degraded': 1, 'jpeg_10/degraded': 1}
+To evaluate: 8394 (missing eval videos: 0) {'clean/clean': 364, 'downscale_4/degraded': 365, 'downscale_4/restored': 365, 'downscale_12/degraded': 365, 'downscale_12/restored': 365, 'downscale_16/degraded': 365, 'downscale_16/restored': 365, 'jpeg_40/degraded': 365, 'jpeg_40/restored': 365, 'jpeg_10/degraded': 365, 'jpeg_10/restored': 365, 'jpeg_5/degraded': 365, 'jpeg_5/restored': 365, 'h265_28/degraded': 365, 'h265_28/restored': 365, 'h265_45/degraded': 365, 'h265_45/restored': 365, 'h265_51/degraded': 365, 'h265_51/restored': 365, 'streamproxy_x4_crf35/degraded': 365, 'streamproxy_x4_crf35/restored': 365, 'streamproxy_x8_crf45/degraded': 365, 'streamproxy_x8_crf45/restored': 365}
+Loading Qwen/Qwen3-VL-8B-Instruct ...
+Fetching 4 files:   0%|          | 0/4 [00:00<?, ?it/s]Fetching 4 files: 100%|██████████| 4/4 [00:00<00:00, 1131.68it/s]
+Loading weights:   0%|          | 0/750 [00:00<?, ?it/s]Loading weights:   3%|▎         | 26/750 [00:00<00:03, 226.50it/s]Loading weights:   7%|▋         | 49/750 [00:00<00:03, 188.85it/s]Loading weights:   9%|▉         | 70/750 [00:00<00:03, 184.91it/s]Loading weights:  12%|█▏        | 93/750 [00:00<00:03, 190.42it/s]Loading weights:  15%|█▌        | 114/750 [00:00<00:03, 190.35it/s]Loading weights:  18%|█▊        | 135/750 [00:00<00:03, 188.28it/s]Loading weights:  21%|██        | 154/750 [00:00<00:03, 185.62it/s]Loading weights:  23%|██▎       | 173/750 [00:00<00:03, 186.47it/s]Loading weights:  26%|██▌       | 192/750 [00:01<00:03, 185.36it/s]Loading weights:  29%|██▊       | 214/750 [00:01<00:02, 188.93it/s]Loading weights:  31%|███▏      | 235/750 [00:01<00:02, 188.95it/s]Loading weights:  34%|███▍      | 257/750 [00:01<00:02, 196.93it/s]Loading weights:  37%|███▋      | 277/750 [00:01<00:02, 197.75it/s]Loading weights:  40%|███▉      | 297/750 [00:01<00:02, 194.71it/s]Loading weights:  42%|████▏     | 317/750 [00:01<00:02, 191.51it/s]Loading weights:  45%|████▍     | 337/750 [00:01<00:02, 187.97it/s]Loading weights:  48%|████▊     | 358/750 [00:01<00:02, 186.69it/s]Loading weights:  51%|█████     | 379/750 [00:01<00:01, 189.78it/s]Loading weights:  57%|█████▋    | 431/750 [00:02<00:01, 283.10it/s]Loading weights:  83%|████████▎ | 623/750 [00:02<00:00, 753.53it/s]Loading weights:  99%|█████████▉| 743/750 [00:02<00:00, 877.53it/s]Loading weights: 100%|██████████| 750/750 [00:02<00:00, 325.67it/s]
+qwen-vl-utils using torchcodec to read video.
+[transformers] Qwen3VL video processing does not apply the per-frame pixel cap the reference implementation (qwen-vl-utils) applies, so some videos cost far more tokens than they would there. In v5.22 the capped behavior will become the default and `cap_pixels_per_frame` will be removed. Pass `cap_pixels_per_frame=True` to adopt the reference behavior now, or `False` to keep the current behavior and silence this warning.
+
+--- [clean/clean] /data/jpk322/VID-DRIFT/MVBench/video/ssv2_video/68631.webm
+PROMPT:
+Which one of these descriptions correctly matches the actions in the video?
+A. Not sure
+B. Staying in place something across a surface until it ascends down
+C. Moving something across a surface until it falls down
+Answer with the single letter of the correct option only.
+RAW: 'C'
+GOLD: 'Moving something across a surface until it falls down' -> gold='C' pred='C' score=1.0
+
+--- [downscale_4/degraded] /data/jpk322/VID-DRIFT/downsamples/MVBench/downscale_4/68631.mp4
+PROMPT:
+Which one of these descriptions correctly matches the actions in the video?
+A. Not sure
+B. Staying in place something across a surface until it ascends down
+C. Moving something across a surface until it falls down
+Answer with the single letter of the correct option only.
+RAW: 'C'
+GOLD: 'Moving something across a surface until it falls down' -> gold='C' pred='C' score=1.0
+
+--- [downscale_4/restored] /data/jpk322/VID-DRIFT/restored/MVBench/downscale_4/FlashVSR/68631.mp4
+PROMPT:
+Which one of these descriptions correctly matches the actions in the video?
+A. Not sure
+B. Staying in place something across a surface until it ascends down
+C. Moving something across a surface until it falls down
+Answer with the single letter of the correct option only.
+RAW: 'C'
+GOLD: 'Moving something across a surface until it falls down' -> gold='C' pred='C' score=1.0
+  ... 10/8394
+  ... 20/8394
+  ... 30/8394
+  ... 40/8394
+  ... 50/8394
+  ... 60/8394
+  ... 70/8394
+  ... 80/8394
+  ... 90/8394
+  ... 100/8394
+  ... 110/8394
+  ... 120/8394
+  ... 130/8394
+  ... 140/8394
+  ... 150/8394
+  ... 160/8394
+  ... 170/8394
+  ... 180/8394
+  ... 190/8394
+  ... 200/8394
+  ... 210/8394
+  ... 220/8394
+  ... 230/8394
+  ... 240/8394
+  ... 250/8394
+  ... 260/8394
+  ... 270/8394
+  ... 280/8394
+  ... 290/8394
+  ... 300/8394
+  ... 310/8394
+  ... 320/8394
+  ... 330/8394
+  ... 340/8394
+  ... 350/8394
+  ... 360/8394
+  ... 370/8394
+  ... 380/8394
+  ... 390/8394
+  ... 400/8394
+  ... 410/8394
+  ... 420/8394
+  ... 430/8394
+  ... 440/8394
+  ... 450/8394
+  ... 460/8394
+  ... 470/8394
+  ... 480/8394
+  ... 490/8394
+  ... 500/8394
+  ... 510/8394
+  ... 520/8394
+  ... 530/8394
+  ... 540/8394
+  ... 550/8394
+  ... 560/8394
+  ... 570/8394
+  ... 580/8394
+  ... 590/8394
+  ... 600/8394
+  ... 610/8394
+  ... 620/8394
+  ... 630/8394
+  ... 640/8394
+  ... 650/8394
+  ... 660/8394
+  ... 670/8394
+  ... 680/8394
+  ... 690/8394
+  ... 700/8394
+  ... 710/8394
+  ... 720/8394
+  ... 730/8394
+  ... 740/8394
+  ... 750/8394
+  ... 760/8394
+  ... 770/8394
+  ... 780/8394
+  ... 790/8394
+  ... 800/8394
+  ... 810/8394
+  ... 820/8394
+  ... 830/8394
+  ... 840/8394
+  ... 850/8394
+  ... 860/8394
+  ... 870/8394
+  ... 880/8394
+  ... 890/8394
+  ... 900/8394
+  ... 910/8394
+  ... 920/8394
+  ... 930/8394
+  ... 940/8394
+  ... 950/8394
+  ... 960/8394
+  ... 970/8394
+  ... 980/8394
+  ... 990/8394
+  ... 1000/8394
+  ... 1010/8394
+  ... 1020/8394
+  ... 1030/8394
+  ... 1040/8394
+  ... 1050/8394
+  ... 1060/8394
+  ... 1070/8394
+  ... 1080/8394
+  ... 1090/8394
+  ... 1100/8394
+  ... 1110/8394
+  ... 1120/8394
+  ... 1130/8394
+  ... 1140/8394
+  ... 1150/8394
+  ... 1160/8394
+  ... 1170/8394
+  ... 1180/8394
+  ... 1190/8394
+  ... 1200/8394
+  ... 1210/8394
+  ... 1220/8394
+  ... 1230/8394
+  ... 1240/8394
+  ... 1250/8394
+  ... 1260/8394
+  ... 1270/8394
+  ... 1280/8394
+  ... 1290/8394
+  ... 1300/8394
+  ... 1310/8394
+  ... 1320/8394
+  ... 1330/8394
+  ... 1340/8394
+  ... 1350/8394
+  ... 1360/8394
+  ... 1370/8394
+  ... 1380/8394
+  ... 1390/8394
+  ... 1400/8394
+  ... 1410/8394
+  ... 1420/8394
+  ... 1430/8394
+  ... 1440/8394
+  ... 1450/8394
+  ... 1460/8394
+  ... 1470/8394
+  ... 1480/8394
+  ... 1490/8394
+  ... 1500/8394
+  ... 1510/8394
+  ... 1520/8394
+  ... 1530/8394
+  ... 1540/8394
+  ... 1550/8394
+  ... 1560/8394
+  ... 1570/8394
+  ... 1580/8394
+  ... 1590/8394
+  ... 1600/8394
+  ... 1610/8394
+  ... 1620/8394
+  ... 1630/8394
+  ... 1640/8394
+  ... 1650/8394
+  ... 1660/8394
+  ... 1670/8394
+  ... 1680/8394
+  ... 1690/8394
+  ... 1700/8394
+  ... 1710/8394
+  ... 1720/8394
+  ... 1730/8394
+  ... 1740/8394
+  ... 1750/8394
+  ... 1760/8394
+  ... 1770/8394
+  ... 1780/8394
+  ... 1790/8394
+  ... 1800/8394
+  ... 1810/8394
+  ... 1820/8394
+  ... 1830/8394
+  ... 1840/8394
+  ... 1850/8394
+  ... 1860/8394
+  ... 1870/8394
+  ... 1880/8394
+  ... 1890/8394
+  ... 1900/8394
+  ... 1910/8394
+  ... 1920/8394
+  ... 1930/8394
+  ... 1940/8394
+  ... 1950/8394
+  ... 1960/8394
+  ... 1970/8394
+  ... 1980/8394
+  ... 1990/8394
+  ... 2000/8394
+  ... 2010/8394
+  ... 2020/8394
+  ... 2030/8394
+  ... 2040/8394
+  ... 2050/8394
+  ... 2060/8394
+  ... 2070/8394
+  ... 2080/8394
+  ... 2090/8394
+  ... 2100/8394
+  ... 2110/8394
+  ... 2120/8394
+  ... 2130/8394
+  ... 2140/8394
+  ... 2150/8394
+  ... 2160/8394
+  ... 2170/8394
+  ... 2180/8394
+  ... 2190/8394
+  ... 2200/8394
+  ... 2210/8394
+  ... 2220/8394
+  ... 2230/8394
+  ... 2240/8394
+  ... 2250/8394
+  ... 2260/8394
+  ... 2270/8394
+  ... 2280/8394
+  ... 2290/8394
+  ... 2300/8394
+  ... 2310/8394
+  ... 2320/8394
+  ... 2330/8394
+  ... 2340/8394
+  ... 2350/8394
+  ... 2360/8394
+  ... 2370/8394
+  ... 2380/8394
+  ... 2390/8394
+  ... 2400/8394
+  ... 2410/8394
+  ... 2420/8394
+  ... 2430/8394
+  ... 2440/8394
+  ... 2450/8394
+  ... 2460/8394
+  ... 2470/8394
+  ... 2480/8394
+  ... 2490/8394
+  ... 2500/8394
+  ... 2510/8394
+  ... 2520/8394
+  ... 2530/8394
+  ... 2540/8394
+  ... 2550/8394
+  ... 2560/8394
+  ... 2570/8394
+  ... 2580/8394
+  ... 2590/8394
+  ... 2600/8394
+  ... 2610/8394
+  ... 2620/8394
+  ... 2630/8394
+  ... 2640/8394
+  ... 2650/8394
+  ... 2660/8394
+  ... 2670/8394
+  ... 2680/8394
+  ... 2690/8394
+  ... 2700/8394
+  ... 2710/8394
+  ... 2720/8394
+  ... 2730/8394
+  ... 2740/8394
+  ... 2750/8394
+  ... 2760/8394
+  ... 2770/8394
+  ... 2780/8394
+  ... 2790/8394
+  ... 2800/8394
+  ... 2810/8394
+  ... 2820/8394
+  ... 2830/8394
+  ... 2840/8394
+  ... 2850/8394
+  ... 2860/8394
+  ... 2870/8394
+  ... 2880/8394
+  ... 2890/8394
+  ... 2900/8394
+  ... 2910/8394
+  ... 2920/8394
+  ... 2930/8394
+  ... 2940/8394
+  ... 2950/8394
+  ... 2960/8394
+  ... 2970/8394
+  ... 2980/8394
+  ... 2990/8394
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+  ... 3000/8394
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+  ... 3010/8394
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+  ... 3020/8394
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+  ... 3030/8394
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+  ... 3040/8394
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+  ... 3050/8394
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+  ... 3060/8394
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+  ... 3070/8394
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+  ... 3080/8394
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+  ... 3090/8394
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+  ... 3100/8394
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+  ... 3110/8394
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+  ... 3120/8394
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+  ... 3130/8394
+  ... 3140/8394
+  ... 3150/8394
+  ... 3160/8394
+  ... 3170/8394
+  ... 3180/8394
+  ... 3190/8394
+  ... 3200/8394
+  ... 3210/8394
+  ... 3220/8394
+  ... 3230/8394
+  ... 3240/8394
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+  ... 3250/8394
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+  ... 3260/8394
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+  ... 3270/8394
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+  ... 3280/8394
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+  ... 3290/8394
+  ... 3300/8394
+  ... 3310/8394
+  ... 3320/8394
+  ... 3330/8394
+  ... 3340/8394
+  ... 3350/8394
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 31], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 31], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+  ... 3360/8394
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 31], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 31], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 31], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 31], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 31], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+  ... 3370/8394
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 31], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 31], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 31], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 31], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 31], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+  ... 3380/8394
+  ... 3390/8394
+  ... 3400/8394
+  ... 3410/8394
+  ... 3420/8394
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+  ... 3430/8394
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+  ... 3440/8394
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+  ... 3450/8394
+  ... 3460/8394
+  ... 3470/8394
+  ... 3480/8394
+  ... 3490/8394
+  ... 3500/8394
+  ... 3510/8394
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 31], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 31], but got 32.
+  ... 3520/8394
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 31], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 31], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 31], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 31], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 31], but got 32.
+  ... 3530/8394
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 31], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 31], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 31], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 31], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 31], but got 32.
+  ... 3540/8394
+video_reader_backend torchcodec error, use torchvision as default, msg: nframes should in interval [2, 29], but got 32.
+  ... 3550/8394
+  ... 3560/8394
+  ... 3570/8394
+  ... 3580/8394
+  ... 3590/8394
+  ... 3600/8394
+  ... 3610/8394
+  ... 3620/8394
+  ... 3630/8394
+  ... 3640/8394
+  ... 3650/8394
+  ... 3660/8394
+  ... 3670/8394
+  ... 3680/8394
+  ... 3690/8394
+  ... 3700/8394
+  ... 3710/8394
+  ... 3720/8394
+  ... 3730/8394
+  ... 3740/8394
+  ... 3750/8394
+  ... 3760/8394
+  ... 3770/8394
+  ... 3780/8394
+  ... 3790/8394
+  ... 3800/8394
+  ... 3810/8394
+  ... 3820/8394
+  ... 3830/8394
+  ... 3840/8394
+  ... 3850/8394
+  ... 3860/8394
+  ... 3870/8394
+  ... 3880/8394
+  ... 3890/8394
+  ... 3900/8394
+  ... 3910/8394
+  ... 3920/8394
+  ... 3930/8394
+  ... 3940/8394
+  ... 3950/8394
+  ... 3960/8394
+  ... 3970/8394
+  ... 3980/8394
+  ... 3990/8394
+  ... 4000/8394
+  ... 4010/8394
+  ... 4020/8394
+  ... 4030/8394
+  ... 4040/8394
+  ... 4050/8394
+  ... 4060/8394
+  ... 4070/8394
+  ... 4080/8394
+  ... 4090/8394
+  ... 4100/8394
+  ... 4110/8394
+  ... 4120/8394
+  ... 4130/8394
+  ... 4140/8394
+  ... 4150/8394
+  ... 4160/8394
+  ... 4170/8394
+  ... 4180/8394
+  ... 4190/8394
+  ... 4200/8394
+  ... 4210/8394
+  ... 4220/8394
+  ... 4230/8394
+  ... 4240/8394
+  ... 4250/8394
+  ... 4260/8394
+  ... 4270/8394
+  ... 4280/8394
+  ... 4290/8394
+  ... 4300/8394
+  ... 4310/8394
+  ... 4320/8394
+  ... 4330/8394
+  ... 4340/8394
+  ... 4350/8394
+  ... 4360/8394
+  ... 4370/8394
+  ... 4380/8394
+  ... 4390/8394
+  ... 4400/8394
+  ... 4410/8394
+  ... 4420/8394
+  ... 4430/8394
+  ... 4440/8394
+  ... 4450/8394
+  ... 4460/8394
+  ... 4470/8394
+  ... 4480/8394
+  ... 4490/8394
+  ... 4500/8394
+  ... 4510/8394
+  ... 4520/8394
+  ... 4530/8394
+  ... 4540/8394
+  ... 4550/8394
+  ... 4560/8394
+  ... 4570/8394
+  ... 4580/8394
+  ... 4590/8394
+  ... 4600/8394
+  ... 4610/8394
+  ... 4620/8394
+  ... 4630/8394
+  ... 4640/8394
+  ... 4650/8394
+  ... 4660/8394
+  ... 4670/8394
+  ... 4680/8394
+  ... 4690/8394
+  ... 4700/8394
+  ... 4710/8394
+  ... 4720/8394
+  ... 4730/8394
+  ... 4740/8394
+  ... 4750/8394
+  ... 4760/8394
+  ... 4770/8394
+  ... 4780/8394
+  ... 4790/8394
+  ... 4800/8394
+  ... 4810/8394
+  ... 4820/8394
+  ... 4830/8394
+  ... 4840/8394
+  ... 4850/8394
+  ... 4860/8394
+  ... 4870/8394
+  ... 4880/8394
+  ... 4890/8394
+  ... 4900/8394
+  ... 4910/8394
+  ... 4920/8394
+  ... 4930/8394
+  ... 4940/8394
+  ... 4950/8394
+  ... 4960/8394
+  ... 4970/8394
+  ... 4980/8394
+  ... 4990/8394
+  ... 5000/8394
+  ... 5010/8394
+  ... 5020/8394
+  ... 5030/8394
+  ... 5040/8394
+  ... 5050/8394
+  ... 5060/8394
+  ... 5070/8394
+  ... 5080/8394
+  ... 5090/8394
+  ... 5100/8394
+  ... 5110/8394
+  ... 5120/8394
+  ... 5130/8394
+  ... 5140/8394
+  ... 5150/8394
+  ... 5160/8394
+  ... 5170/8394
+  ... 5180/8394
+  ... 5190/8394
+  ... 5200/8394
+  ... 5210/8394
+  ... 5220/8394
+  ... 5230/8394
+  ... 5240/8394
+  ... 5250/8394
+  ... 5260/8394
+  ... 5270/8394
+  ... 5280/8394
+  ... 5290/8394
+  ... 5300/8394
+  ... 5310/8394
+  ... 5320/8394
+  ... 5330/8394
+  ... 5340/8394
+  ... 5350/8394
+  ... 5360/8394
+  ... 5370/8394
+  ... 5380/8394
+  ... 5390/8394
+  ... 5400/8394
+  ... 5410/8394
+  ... 5420/8394
+  ... 5430/8394
+  ... 5440/8394
+  ... 5450/8394
+  ... 5460/8394
+  ... 5470/8394
+  ... 5480/8394
+  ... 5490/8394
+  ... 5500/8394
+  ... 5510/8394
+  ... 5520/8394
+  ... 5530/8394
+  ... 5540/8394
+  ... 5550/8394
+  ... 5560/8394
+  ... 5570/8394
+  ... 5580/8394
+  ... 5590/8394
+  ... 5600/8394
+  ... 5610/8394
+  ... 5620/8394
+  ... 5630/8394
+  ... 5640/8394
+  ... 5650/8394
+  ... 5660/8394
+  ... 5670/8394
+  ... 5680/8394
+  ... 5690/8394
+  ... 5700/8394
+  ... 5710/8394
+  ... 5720/8394
+  ... 5730/8394
+  ... 5740/8394
+  ... 5750/8394
+  ... 5760/8394
+  ... 5770/8394
+  ... 5780/8394
+  ... 5790/8394
+  ... 5800/8394
+  ... 5810/8394
+  ... 5820/8394
+  ... 5830/8394
+  ... 5840/8394
+  ... 5850/8394
+  ... 5860/8394
+  ... 5870/8394
+  ... 5880/8394
+  ... 5890/8394
+  ... 5900/8394
+  ... 5910/8394
+  ... 5920/8394
+  ... 5930/8394
+  ... 5940/8394
+  ... 5950/8394
+  ... 5960/8394
+  ... 5970/8394
+  ... 5980/8394
+  ... 5990/8394
+  ... 6000/8394
+  ... 6010/8394
+  ... 6020/8394
+  ... 6030/8394
+  ... 6040/8394
+  ... 6050/8394
+  ... 6060/8394
+  ... 6070/8394
+  ... 6080/8394
+  ... 6090/8394
+  ... 6100/8394
+  ... 6110/8394
+  ... 6120/8394
+  ... 6130/8394
+  ... 6140/8394
+  ... 6150/8394
+  ... 6160/8394
+  ... 6170/8394
+  ... 6180/8394
+  ... 6190/8394
+  ... 6200/8394
+  ... 6210/8394
+  ... 6220/8394
+  ... 6230/8394
+  ... 6240/8394
+  ... 6250/8394
+  ... 6260/8394
+  ... 6270/8394
+  ... 6280/8394
+  ... 6290/8394
+  ... 6300/8394
+  ... 6310/8394
+  ... 6320/8394
+  ... 6330/8394
+  ... 6340/8394
+  ... 6350/8394
+  ... 6360/8394
+  ... 6370/8394
+  ... 6380/8394
+  ... 6390/8394
+  ... 6400/8394
+  ... 6410/8394
+  ... 6420/8394
+  ... 6430/8394
+  ... 6440/8394
+  ... 6450/8394
+  ... 6460/8394
+  ... 6470/8394
+  ... 6480/8394
+  ... 6490/8394
+  ... 6500/8394
+  ... 6510/8394
+  ... 6520/8394
+  ... 6530/8394
+  ... 6540/8394
+  ... 6550/8394
+  ... 6560/8394
+  ... 6570/8394
+  ... 6580/8394
+  ... 6590/8394
+  ... 6600/8394
+  ... 6610/8394
+  ... 6620/8394
+  ... 6630/8394
+  ... 6640/8394
+  ... 6650/8394
+  ... 6660/8394
+  ... 6670/8394
+  ... 6680/8394
+  ... 6690/8394
+  ... 6700/8394
+  ... 6710/8394
+  ... 6720/8394
+  ... 6730/8394
+  ... 6740/8394
+  ... 6750/8394
+  ... 6760/8394
+  ... 6770/8394
+  ... 6780/8394
+  ... 6790/8394
+  ... 6800/8394
+  ... 6810/8394
+  ... 6820/8394
+  ... 6830/8394
+  ... 6840/8394
+  ... 6850/8394
+  ... 6860/8394
+  ... 6870/8394
+  ... 6880/8394
+  ... 6890/8394
+  ... 6900/8394
+  ... 6910/8394
+  ... 6920/8394
+  ... 6930/8394
+  ... 6940/8394
+  ... 6950/8394
+  ... 6960/8394
+  ... 6970/8394
+  ... 6980/8394
+  ... 6990/8394
+  ... 7000/8394
+  ... 7010/8394
+  ... 7020/8394
+  ... 7030/8394
+  ... 7040/8394
+  ... 7050/8394
+  ... 7060/8394
+  ... 7070/8394
+  ... 7080/8394
+  ... 7090/8394
+  ... 7100/8394
+  ... 7110/8394
+  ... 7120/8394
+  ... 7130/8394
+  ... 7140/8394
+  ... 7150/8394
+  ... 7160/8394
+  ... 7170/8394
+  ... 7180/8394
+  ... 7190/8394
+  ... 7200/8394
+  ... 7210/8394
+  ... 7220/8394
+  ... 7230/8394
+  ... 7240/8394
+  ... 7250/8394
+  ... 7260/8394
+  ... 7270/8394
+  ... 7280/8394
+  ... 7290/8394
+  ... 7300/8394
+  ... 7310/8394
+  ... 7320/8394
+  ... 7330/8394
+  ... 7340/8394
+  ... 7350/8394
+  ... 7360/8394
+  ... 7370/8394
+  ... 7380/8394
+  ... 7390/8394
+  ... 7400/8394
+  ... 7410/8394
+  ... 7420/8394
+  ... 7430/8394
+  ... 7440/8394
+  ... 7450/8394
+  ... 7460/8394
+  ... 7470/8394
+  ... 7480/8394
+  ... 7490/8394
+  ... 7500/8394
+  ... 7510/8394
+  ... 7520/8394
+  ... 7530/8394
+  ... 7540/8394
+  ... 7550/8394
+  ... 7560/8394
+  ... 7570/8394
+  ... 7580/8394
+  ... 7590/8394
+  ... 7600/8394
+  ... 7610/8394
+  ... 7620/8394
+  ... 7630/8394
+  ... 7640/8394
+  ... 7650/8394
+  ... 7660/8394
+  ... 7670/8394
+  ... 7680/8394
+  ... 7690/8394
+  ... 7700/8394
+  ... 7710/8394
+  ... 7720/8394
+  ... 7730/8394
+  ... 7740/8394
+  ... 7750/8394
+  ... 7760/8394
+  ... 7770/8394
+  ... 7780/8394
+  ... 7790/8394
+  ... 7800/8394
+  ... 7810/8394
+  ... 7820/8394
+  ... 7830/8394
+  ... 7840/8394
+  ... 7850/8394
+  ... 7860/8394
+  ... 7870/8394
+  ... 7880/8394
+  ... 7890/8394
+  ... 7900/8394
+  ... 7910/8394
+  ... 7920/8394
+  ... 7930/8394
+  ... 7940/8394
+  ... 7950/8394
+  ... 7960/8394
+  ... 7970/8394
+  ... 7980/8394
+  ... 7990/8394
+  ... 8000/8394
+  ... 8010/8394
+  ... 8020/8394
+  ... 8030/8394
+  ... 8040/8394
+  ... 8050/8394
+  ... 8060/8394
+  ... 8070/8394
+  ... 8080/8394
+  ... 8090/8394
+  ... 8100/8394
+  ... 8110/8394
+  ... 8120/8394
+  ... 8130/8394
+  ... 8140/8394
+  ... 8150/8394
+  ... 8160/8394
+  ... 8170/8394
+  ... 8180/8394
+  ... 8190/8394
+  ... 8200/8394
+  ... 8210/8394
+  ... 8220/8394
+  ... 8230/8394
+  ... 8240/8394
+  ... 8250/8394
+  ... 8260/8394
+  ... 8270/8394
+  ... 8280/8394
+  ... 8290/8394
+  ... 8300/8394
+  ... 8310/8394
+  ... 8320/8394
+  ... 8330/8394
+  ... 8340/8394
+  ... 8350/8394
+  ... 8360/8394
+  ... 8370/8394
+  ... 8380/8394
+  ... 8390/8394
+
+=== Qwen/Qwen3-VL-8B-Instruct [qwen3vl_results]: all scored rows (x100; MAcc = accuracy over MCQ items) ===
+                                            n  MAcc  ALL_Score_avg
+condition            variant                                      
+clean                clean              362.0  67.4           67.4
+downscale_4          degraded           362.0  58.0           58.0
+                     restored:FlashVSR  353.0  65.2           65.2
+downscale_12         degraded           362.0  42.5           42.5
+                     restored:FlashVSR  353.0  54.7           54.7
+downscale_16         degraded           362.0  39.5           39.5
+                     restored:FlashVSR  353.0  53.0           53.0
+jpeg_40              degraded           362.0  66.9           66.9
+                     restored:FlashVSR  353.0  65.4           65.4
+jpeg_10              degraded           362.0  66.0           66.0
+                     restored:FlashVSR  353.0  64.0           64.0
+jpeg_5               degraded           362.0  66.6           66.6
+                     restored:FlashVSR  353.0  64.3           64.3
+h265_28              degraded           362.0  67.7           67.7
+                     restored:FlashVSR  353.0  64.9           64.9
+h265_45              degraded           362.0  62.4           62.4
+                     restored:FlashVSR  353.0  57.8           57.8
+h265_51              degraded           362.0  58.0           58.0
+                     restored:FlashVSR  353.0  54.4           54.4
+streamproxy_x4_crf35 degraded           362.0  54.1           54.1
+                     restored:FlashVSR  353.0  59.5           59.5
+streamproxy_x8_crf45 degraded           362.0  40.6           40.6
+                     restored:FlashVSR  353.0  41.1           41.1
+
+=== Qwen/Qwen3-VL-8B-Instruct [qwen3vl_results]: paired, 353 items present in all 23 condition/variant units (x100) ===
+                                        MAcc  ALL_Score_avg
+condition            variant                               
+clean                clean              68.3           68.3
+downscale_4          degraded           58.6           58.6
+                     restored:FlashVSR  65.2           65.2
+downscale_12         degraded           42.5           42.5
+                     restored:FlashVSR  54.7           54.7
+downscale_16         degraded           39.4           39.4
+                     restored:FlashVSR  53.0           53.0
+jpeg_40              degraded           68.3           68.3
+                     restored:FlashVSR  65.4           65.4
+jpeg_10              degraded           67.1           67.1
+                     restored:FlashVSR  64.0           64.0
+jpeg_5               degraded           67.7           67.7
+                     restored:FlashVSR  64.3           64.3
+h265_28              degraded           68.6           68.6
+                     restored:FlashVSR  64.9           64.9
+h265_45              degraded           62.9           62.9
+                     restored:FlashVSR  57.8           57.8
+h265_51              degraded           58.4           58.4
+                     restored:FlashVSR  54.4           54.4
+streamproxy_x4_crf35 degraded           54.7           54.7
+                     restored:FlashVSR  59.5           59.5
+streamproxy_x8_crf45 degraded           40.8           40.8
+                     restored:FlashVSR  41.1           41.1
+items with identical raw_output in every unit: 16.4%
+parse_ok rate: 100.0%
+Most common raw outputs (first 40 chars):
+raw_output
+B     2692
+C     2399
+A     1654
+D     1374
+B.      31
+
+=== Restoration transitions (MCQ items with clean, degraded and restored all scored) ===
+RIE = clean ok, degraded ok, restored wrong | RIC = clean ok, degraded wrong, restored ok
+*_any = same degraded->restored flip regardless of clean | p = exact McNemar, degraded vs restored
+            run                     model            condition upscaler  n_paired  MAcc_clean  MAcc_degraded  MAcc_restored  RIE  RIC  RIE_any  RIC_any  net_any  p_mcnemar
+qwen3vl_results Qwen/Qwen3-VL-8B-Instruct          downscale_4 FlashVSR       353        68.3           58.6           65.2   21   44       33       56       23     0.0192
+qwen3vl_results Qwen/Qwen3-VL-8B-Instruct         downscale_12 FlashVSR       353        68.3           42.5           54.7   19   68       37       80       43     0.0001
+qwen3vl_results Qwen/Qwen3-VL-8B-Instruct         downscale_16 FlashVSR       353        68.3           39.4           53.0   25   79       46       94       48     0.0001
+qwen3vl_results Qwen/Qwen3-VL-8B-Instruct              jpeg_40 FlashVSR       353        68.3           68.3           65.4   29   10       36       26      -10     0.2529
+qwen3vl_results Qwen/Qwen3-VL-8B-Instruct              jpeg_10 FlashVSR       353        68.3           67.1           64.0   27   13       35       24      -11     0.1925
+qwen3vl_results Qwen/Qwen3-VL-8B-Instruct               jpeg_5 FlashVSR       353        68.3           67.7           64.3   26   13       35       23      -12     0.1480
+qwen3vl_results Qwen/Qwen3-VL-8B-Instruct              h265_28 FlashVSR       353        68.3           68.6           64.9   29   10       34       21      -13     0.1048
+qwen3vl_results Qwen/Qwen3-VL-8B-Instruct              h265_45 FlashVSR       353        68.3           62.9           57.8   28   16       37       19      -18     0.0222
+qwen3vl_results Qwen/Qwen3-VL-8B-Instruct              h265_51 FlashVSR       353        68.3           58.4           54.4   29   22       44       30      -14     0.1302
+qwen3vl_results Qwen/Qwen3-VL-8B-Instruct streamproxy_x4_crf35 FlashVSR       353        68.3           54.7           59.5   19   37       30       47       17     0.0675
+qwen3vl_results Qwen/Qwen3-VL-8B-Instruct streamproxy_x8_crf45 FlashVSR       353        68.3           40.8           41.1   35   31       47       48        1     1.0000

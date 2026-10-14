@@ -1,0 +1,22 @@
+4 models x 5 conditions, 394 fully paired items
+
+ALL_Score_avg (x100)
+                                                clean  fps_quarter  fps_eighth  fpsabs_1fps  fpsabs_0_5fps
+OpenGVLab/InternVL3-8B-hf                        73.4         75.1        75.1         71.1           69.0
+Qwen/Qwen3-VL-8B-Instruct                        63.7         63.5        63.5         61.7           60.4
+allenai/Molmo2-8B                                76.4         76.9        75.4         74.4           71.3
+lmms-lab-encoder/LLaVA-OneVision-2-8B-Instruct   68.0         68.3        67.3         67.3           64.5
+
+MCQ_ACC (x100)
+                                                clean  fps_quarter  fps_eighth  fpsabs_1fps  fpsabs_0_5fps
+OpenGVLab/InternVL3-8B-hf                        73.4         75.1        75.1         71.1           69.0
+Qwen/Qwen3-VL-8B-Instruct                        63.7         63.5        63.5         61.7           60.4
+allenai/Molmo2-8B                                76.4         76.9        75.4         74.4           71.3
+lmms-lab-encoder/LLaVA-OneVision-2-8B-Instruct   68.0         68.3        67.3         67.3           64.5
+
+                                                parse_rate  identical_across_conditions
+model                                                                                  
+OpenGVLab/InternVL3-8B-hf                              1.0                        0.779
+Qwen/Qwen3-VL-8B-Instruct                              1.0                        0.693
+allenai/Molmo2-8B                                      1.0                        0.744
+lmms-lab-encoder/LLaVA-OneVision-2-8B-Instruct         1.0                        0.772

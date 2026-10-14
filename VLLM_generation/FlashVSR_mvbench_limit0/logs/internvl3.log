@@ -1,0 +1,1040 @@
+Manifest rows after filter (datasets=['mvbench'], conditions=['clean', 'downscale_12', 'downscale_16', 'downscale_4', 'h265_28', 'h265_45', 'h265_51', 'jpeg_10', 'jpeg_40', 'jpeg_5', 'streamproxy_x4_crf35', 'streamproxy_x8_crf45']): 5335
+Question kinds (generic protocol): {'mcq': 5335}
+NOTE: manifest has no clean rows; built 484 from each item's video_path.
+Folders checked (unit | folder | found / missing):
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/FunQA_test/test/test_creative  9 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/FunQA_test/test/test_humor  13 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/FunQA_test/test/test_magic  9 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/baptizing  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/biting  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/boiling  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/bubbling  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/buttoning  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/clawing  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/dining  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/drilling  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/driving  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/extinguishing  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/flying  2 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/gambling  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/guarding  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/handwriting  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/mopping  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/operating  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/punting  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/rafting  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/raining  2 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/saluting  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/screwing  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/sliding  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/stirring  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/stretching  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/clevrer/video_validation  132 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/data0613/star/Charades_v1_480  2 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/perception/videos  107 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/scene_qa/video  26 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/ssv2_video  26 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/sta/sta_video  23 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/star/Charades_v1_480  85 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/vlnqa/forward  6 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/vlnqa/left  10 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/vlnqa/right  7 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/vlnqa/stop  3 / 0
+  downscale_12/degraded    /data/jpk322/VID-DRIFT/downsamples/MVBench/downscale_12  484 / 1
+  downscale_12/restored    /data/jpk322/VID-DRIFT/restored/MVBench/downscale_12/FlashVSR  393 / 92
+  downscale_16/degraded    /data/jpk322/VID-DRIFT/downsamples/MVBench/downscale_16  484 / 1
+  downscale_16/restored    /data/jpk322/VID-DRIFT/restored/MVBench/downscale_16/FlashVSR  393 / 92
+  downscale_4/degraded     /data/jpk322/VID-DRIFT/downsamples/MVBench/downscale_4  484 / 1
+  downscale_4/restored     /data/jpk322/VID-DRIFT/restored/MVBench/downscale_4/FlashVSR  393 / 92
+  h265_28/degraded         /data/jpk322/VID-DRIFT/downsamples/MVBench/h265_28  468 / 17
+  h265_28/restored         /data/jpk322/VID-DRIFT/restored/MVBench/h265_28/FlashVSR  378 / 107
+  h265_45/degraded         /data/jpk322/VID-DRIFT/downsamples/MVBench/h265_45  467 / 18
+  h265_45/restored         /data/jpk322/VID-DRIFT/restored/MVBench/h265_45/FlashVSR  377 / 108
+  h265_51/degraded         /data/jpk322/VID-DRIFT/downsamples/MVBench/h265_51  468 / 17
+  h265_51/restored         /data/jpk322/VID-DRIFT/restored/MVBench/h265_51/FlashVSR  378 / 107
+  jpeg_10/degraded         /data/jpk322/VID-DRIFT/downsamples/MVBench/jpeg_10  484 / 1
+  jpeg_10/restored         /data/jpk322/VID-DRIFT/restored/MVBench/jpeg_10/FlashVSR  393 / 92
+  jpeg_40/degraded         /data/jpk322/VID-DRIFT/downsamples/MVBench/jpeg_40  484 / 1
+  jpeg_40/restored         /data/jpk322/VID-DRIFT/restored/MVBench/jpeg_40/FlashVSR  393 / 92
+  jpeg_5/degraded          /data/jpk322/VID-DRIFT/downsamples/MVBench/jpeg_5  484 / 1
+  jpeg_5/restored          /data/jpk322/VID-DRIFT/restored/MVBench/jpeg_5/FlashVSR  393 / 92
+  streamproxy_x4_crf35/degraded /data/jpk322/VID-DRIFT/downsamples/MVBench/streamproxy_x4_crf35  482 / 3
+  streamproxy_x4_crf35/restored /data/jpk322/VID-DRIFT/restored/MVBench/streamproxy_x4_crf35/FlashVSR  393 / 92
+  streamproxy_x8_crf45/degraded /data/jpk322/VID-DRIFT/downsamples/MVBench/streamproxy_x8_crf45  470 / 15
+  streamproxy_x8_crf45/restored /data/jpk322/VID-DRIFT/restored/MVBench/streamproxy_x8_crf45/FlashVSR  380 / 105
+  e.g. missing downscale_12/degraded: /data/jpk322/VID-DRIFT/downsamples/MVBench/downscale_12/Z7KC1.mp4
+  e.g. missing downscale_12/restored: /data/jpk322/VID-DRIFT/restored/MVBench/downscale_12/FlashVSR/93560.mp4
+  e.g. missing downscale_16/degraded: /data/jpk322/VID-DRIFT/downsamples/MVBench/downscale_16/Z7KC1.mp4
+  e.g. missing downscale_16/restored: /data/jpk322/VID-DRIFT/restored/MVBench/downscale_16/FlashVSR/93560.mp4
+  e.g. missing downscale_4/degraded: /data/jpk322/VID-DRIFT/downsamples/MVBench/downscale_4/Z7KC1.mp4
+  e.g. missing downscale_4/restored: /data/jpk322/VID-DRIFT/restored/MVBench/downscale_4/FlashVSR/93560.mp4
+  e.g. missing h265_28/degraded: /data/jpk322/VID-DRIFT/downsamples/MVBench/h265_28/14384.mp4
+  e.g. missing h265_28/restored: /data/jpk322/VID-DRIFT/restored/MVBench/h265_28/FlashVSR/14384.mp4
+  e.g. missing h265_45/degraded: /data/jpk322/VID-DRIFT/downsamples/MVBench/h265_45/14384.mp4
+  e.g. missing h265_45/restored: /data/jpk322/VID-DRIFT/restored/MVBench/h265_45/FlashVSR/14384.mp4
+  e.g. missing h265_51/degraded: /data/jpk322/VID-DRIFT/downsamples/MVBench/h265_51/14384.mp4
+  e.g. missing h265_51/restored: /data/jpk322/VID-DRIFT/restored/MVBench/h265_51/FlashVSR/14384.mp4
+  e.g. missing jpeg_10/degraded: /data/jpk322/VID-DRIFT/downsamples/MVBench/jpeg_10/Z7KC1.mp4
+  e.g. missing jpeg_10/restored: /data/jpk322/VID-DRIFT/restored/MVBench/jpeg_10/FlashVSR/93560.mp4
+  e.g. missing jpeg_40/degraded: /data/jpk322/VID-DRIFT/downsamples/MVBench/jpeg_40/Z7KC1.mp4
+  e.g. missing jpeg_40/restored: /data/jpk322/VID-DRIFT/restored/MVBench/jpeg_40/FlashVSR/93560.mp4
+  e.g. missing jpeg_5/degraded: /data/jpk322/VID-DRIFT/downsamples/MVBench/jpeg_5/Z7KC1.mp4
+  e.g. missing jpeg_5/restored: /data/jpk322/VID-DRIFT/restored/MVBench/jpeg_5/FlashVSR/93560.mp4
+  e.g. missing streamproxy_x4_crf35/degraded: /data/jpk322/VID-DRIFT/downsamples/MVBench/streamproxy_x4_crf35/video_6301.mp4
+  e.g. missing streamproxy_x4_crf35/restored: /data/jpk322/VID-DRIFT/restored/MVBench/streamproxy_x4_crf35/FlashVSR/93560.mp4
+  e.g. missing streamproxy_x8_crf45/degraded: /data/jpk322/VID-DRIFT/downsamples/MVBench/streamproxy_x8_crf45/103292.mp4
+  e.g. missing streamproxy_x8_crf45/restored: /data/jpk322/VID-DRIFT/restored/MVBench/streamproxy_x8_crf45/FlashVSR/103292.mp4
+Complete items (eval video exists for all 23 condition/variant units): 364 / 484
+  skipped 120 incomplete items; missing videos per unit: {'h265_45/restored': 108, 'h265_51/restored': 107, 'h265_28/restored': 107, 'streamproxy_x8_crf45/restored': 105, 'downscale_4/restored': 92, 'downscale_16/restored': 92, 'jpeg_10/restored': 92, 'downscale_12/restored': 92, 'jpeg_5/restored': 92, 'jpeg_40/restored': 92, 'streamproxy_x4_crf35/restored': 92, 'h265_45/degraded': 18, 'h265_51/degraded': 17, 'h265_28/degraded': 17, 'streamproxy_x8_crf45/degraded': 15, 'streamproxy_x4_crf35/degraded': 3, 'jpeg_40/degraded': 1, 'downscale_16/degraded': 1, 'downscale_4/degraded': 1, 'jpeg_5/degraded': 1, 'jpeg_10/degraded': 1, 'downscale_12/degraded': 1}
+To evaluate: 8394 (missing eval videos: 0) {'clean/clean': 364, 'downscale_4/degraded': 365, 'downscale_4/restored': 365, 'downscale_12/degraded': 365, 'downscale_12/restored': 365, 'downscale_16/degraded': 365, 'downscale_16/restored': 365, 'jpeg_40/degraded': 365, 'jpeg_40/restored': 365, 'jpeg_10/degraded': 365, 'jpeg_10/restored': 365, 'jpeg_5/degraded': 365, 'jpeg_5/restored': 365, 'h265_28/degraded': 365, 'h265_28/restored': 365, 'h265_45/degraded': 365, 'h265_45/restored': 365, 'h265_51/degraded': 365, 'h265_51/restored': 365, 'streamproxy_x4_crf35/degraded': 365, 'streamproxy_x4_crf35/restored': 365, 'streamproxy_x8_crf45/degraded': 365, 'streamproxy_x8_crf45/restored': 365}
+Loading OpenGVLab/InternVL3-8B-hf ...
+Loading weights:   0%|          | 0/781 [00:00<?, ?it/s]Loading weights:   0%|          | 1/781 [00:09<1:59:21,  9.18s/it]Loading weights:   0%|          | 3/781 [00:09<33:55,  2.62s/it]  Loading weights:   1%|          | 5/781 [00:10<19:22,  1.50s/it]Loading weights:   1%|          | 6/781 [00:11<16:26,  1.27s/it]Loading weights:   1%|▏         | 10/781 [00:11<06:39,  1.93it/s]Loading weights:   2%|▏         | 12/781 [00:11<04:50,  2.65it/s]Loading weights:   2%|▏         | 16/781 [00:13<05:49,  2.19it/s]Loading weights:   3%|▎         | 24/781 [00:13<02:40,  4.71it/s]Loading weights:   4%|▎         | 28/781 [00:14<02:29,  5.04it/s]Loading weights:   4%|▍         | 30/781 [00:15<03:17,  3.80it/s]Loading weights:   5%|▍         | 36/781 [00:16<02:03,  6.01it/s]Loading weights:   5%|▍         | 39/781 [00:16<01:42,  7.21it/s]Loading weights:   5%|▌         | 41/781 [00:17<02:31,  4.90it/s]Loading weights:   6%|▌         | 43/781 [00:17<02:45,  4.47it/s]Loading weights:   6%|▌         | 46/781 [00:17<02:03,  5.95it/s]Loading weights:   6%|▋         | 49/781 [00:17<01:33,  7.81it/s]Loading weights:   7%|▋         | 51/781 [00:18<02:11,  5.56it/s]Loading weights:   7%|▋         | 53/781 [00:18<02:04,  5.85it/s]Loading weights:   7%|▋         | 55/781 [00:19<02:28,  4.90it/s]Loading weights:   7%|▋         | 58/781 [00:19<01:44,  6.91it/s]Loading weights:   8%|▊         | 60/781 [00:19<01:37,  7.38it/s]Loading weights:   8%|▊         | 64/781 [00:21<03:18,  3.62it/s]Loading weights:   9%|▉         | 70/781 [00:21<01:50,  6.45it/s]Loading weights:  10%|▉         | 76/781 [00:23<02:18,  5.08it/s]Loading weights:  10%|▉         | 78/781 [00:24<02:30,  4.68it/s]Loading weights:  10%|█         | 82/781 [00:24<02:01,  5.76it/s]Loading weights:  11%|█         | 86/781 [00:24<01:28,  7.84it/s]Loading weights:  11%|█▏        | 89/781 [00:25<01:52,  6.17it/s]Loading weights:  12%|█▏        | 91/781 [00:25<02:10,  5.28it/s]Loading weights:  12%|█▏        | 95/781 [00:26<01:35,  7.18it/s]Loading weights:  13%|█▎        | 100/781 [00:26<01:29,  7.60it/s]Loading weights:  13%|█▎        | 102/781 [00:27<02:24,  4.71it/s]Loading weights:  14%|█▎        | 106/781 [00:28<01:51,  6.04it/s]Loading weights:  14%|█▍        | 112/781 [00:28<01:34,  7.11it/s]Loading weights:  15%|█▍        | 114/781 [00:29<02:18,  4.83it/s]Loading weights:  15%|█▍        | 115/781 [00:29<02:11,  5.07it/s]Loading weights:  15%|█▌        | 118/781 [00:30<01:40,  6.58it/s]Loading weights:  15%|█▌        | 121/781 [00:30<01:39,  6.65it/s]Loading weights:  16%|█▌        | 124/781 [00:30<01:16,  8.56it/s]Loading weights:  16%|█▌        | 126/781 [00:32<02:34,  4.23it/s]Loading weights:  17%|█▋        | 130/781 [00:32<01:45,  6.15it/s]Loading weights:  17%|█▋        | 132/781 [00:32<01:35,  6.76it/s]Loading weights:  17%|█▋        | 134/781 [00:32<01:42,  6.30it/s]Loading weights:  17%|█▋        | 136/781 [00:33<01:53,  5.68it/s]Loading weights:  18%|█▊        | 137/781 [00:34<03:40,  2.91it/s]Loading weights:  18%|█▊        | 142/781 [00:34<01:53,  5.63it/s]Loading weights:  18%|█▊        | 144/781 [00:34<01:43,  6.15it/s]Loading weights:  19%|█▊        | 146/781 [00:35<01:44,  6.07it/s]Loading weights:  19%|█▉        | 148/781 [00:35<01:25,  7.39it/s]Loading weights:  19%|█▉        | 150/781 [00:36<02:35,  4.05it/s]Loading weights:  20%|█▉        | 154/781 [00:36<01:36,  6.48it/s]Loading weights:  20%|██        | 157/781 [00:36<01:14,  8.37it/s]Loading weights:  20%|██        | 160/781 [00:37<01:26,  7.20it/s]Loading weights:  21%|██        | 162/781 [00:38<02:36,  3.96it/s]Loading weights:  21%|██▏       | 166/781 [00:38<01:40,  6.13it/s]Loading weights:  22%|██▏       | 168/781 [00:38<01:25,  7.14it/s]Loading weights:  22%|██▏       | 170/781 [00:38<01:15,  8.07it/s]Loading weights:  22%|██▏       | 172/781 [00:39<01:34,  6.42it/s]Loading weights:  22%|██▏       | 174/781 [00:40<02:40,  3.78it/s]Loading weights:  23%|██▎       | 178/781 [00:40<01:48,  5.55it/s]Loading weights:  24%|██▎       | 184/781 [00:41<01:23,  7.11it/s]Loading weights:  24%|██▍       | 186/781 [00:42<02:11,  4.53it/s]Loading weights:  24%|██▍       | 190/781 [00:42<01:30,  6.50it/s]Loading weights:  25%|██▍       | 192/781 [00:42<01:24,  6.96it/s]Loading weights:  25%|██▌       | 196/781 [00:43<01:20,  7.29it/s]Loading weights:  25%|██▌       | 198/781 [00:44<02:16,  4.28it/s]Loading weights:  26%|██▌       | 204/781 [00:44<01:23,  6.90it/s]Loading weights:  27%|██▋       | 208/781 [00:46<01:58,  4.85it/s]Loading weights:  27%|██▋       | 210/781 [00:46<02:17,  4.16it/s]Loading weights:  28%|██▊       | 216/781 [00:47<01:25,  6.59it/s]Loading weights:  28%|██▊       | 220/781 [00:47<01:20,  6.97it/s]Loading weights:  28%|██▊       | 222/781 [00:49<02:14,  4.16it/s]Loading weights:  29%|██▉       | 228/781 [00:49<01:24,  6.56it/s]Loading weights:  30%|██▉       | 232/781 [00:49<01:25,  6.44it/s]Loading weights:  30%|██▉       | 234/781 [00:51<02:05,  4.36it/s]Loading weights:  31%|███       | 239/781 [00:51<01:23,  6.53it/s]Loading weights:  31%|███       | 243/781 [00:51<01:24,  6.34it/s]Loading weights:  31%|███▏      | 245/781 [00:53<02:14,  4.00it/s]Loading weights:  32%|███▏      | 251/781 [00:53<01:26,  6.15it/s]Loading weights:  33%|███▎      | 256/781 [00:54<01:45,  4.96it/s]Loading weights:  33%|███▎      | 258/781 [00:55<01:49,  4.79it/s]Loading weights:  34%|███▎      | 263/781 [00:55<01:16,  6.75it/s]Loading weights:  34%|███▍      | 265/781 [00:55<01:09,  7.45it/s]Loading weights:  34%|███▍      | 268/781 [00:57<02:20,  3.66it/s]Loading weights:  35%|███▌      | 274/781 [00:57<01:21,  6.20it/s]Loading weights:  35%|███▌      | 277/781 [00:57<01:06,  7.52it/s]Loading weights:  36%|███▌      | 280/781 [00:58<01:21,  6.12it/s]Loading weights:  36%|███▌      | 282/781 [00:59<02:02,  4.06it/s]Loading weights:  37%|███▋      | 286/781 [01:00<01:22,  5.97it/s]Loading weights:  37%|███▋      | 289/781 [01:00<01:05,  7.55it/s]Loading weights:  37%|███▋      | 292/781 [01:01<01:40,  4.85it/s]Loading weights:  38%|███▊      | 294/781 [01:01<01:50,  4.41it/s]Loading weights:  38%|███▊      | 298/781 [01:02<01:13,  6.58it/s]Loading weights:  38%|███▊      | 300/781 [01:02<01:04,  7.46it/s]Loading weights:  39%|███▉      | 304/781 [01:02<01:04,  7.38it/s]Loading weights:  39%|███▉      | 306/781 [01:04<02:02,  3.87it/s]Loading weights:  40%|███▉      | 310/781 [01:04<01:23,  5.67it/s]Loading weights:  40%|████      | 316/781 [01:04<01:05,  7.11it/s]Loading weights:  41%|████      | 318/781 [01:06<01:44,  4.41it/s]Loading weights:  41%|████      | 322/781 [01:06<01:21,  5.61it/s]Loading weights:  42%|████▏     | 328/781 [01:06<01:00,  7.45it/s]Loading weights:  42%|████▏     | 330/781 [01:08<01:32,  4.85it/s]Loading weights:  43%|████▎     | 334/781 [01:08<01:07,  6.63it/s]Loading weights:  43%|████▎     | 336/781 [01:08<00:59,  7.45it/s]Loading weights:  44%|████▍     | 343/781 [01:08<00:39, 10.99it/s]Loading weights:  47%|████▋     | 366/781 [01:08<00:13, 31.41it/s]Loading weights:  49%|████▉     | 383/781 [01:08<00:09, 44.19it/s]Loading weights:  51%|█████     | 399/781 [01:09<00:06, 58.54it/s]Loading weights:  53%|█████▎    | 411/781 [01:09<00:05, 64.66it/s]Loading weights:  54%|█████▍    | 421/781 [01:09<00:05, 62.63it/s]Loading weights:  56%|█████▌    | 434/781 [01:09<00:05, 66.59it/s]Loading weights:  58%|█████▊    | 454/781 [01:09<00:04, 81.51it/s]Loading weights:  60%|██████    | 472/781 [01:09<00:03, 88.49it/s]Loading weights:  63%|██████▎   | 492/781 [01:09<00:02, 101.99it/s]Loading weights:  65%|██████▌   | 509/781 [01:10<00:02, 109.43it/s]Loading weights:  68%|██████▊   | 529/781 [01:10<00:02, 121.76it/s]Loading weights:  70%|██████▉   | 546/781 [01:10<00:01, 125.41it/s]Loading weights:  72%|███████▏  | 565/781 [01:10<00:01, 129.18it/s]Loading weights:  74%|███████▍  | 581/781 [01:10<00:01, 111.80it/s]Loading weights:  77%|███████▋  | 600/781 [01:10<00:01, 122.91it/s]Loading weights:  79%|███████▉  | 616/781 [01:10<00:01, 129.44it/s]Loading weights:  81%|████████  | 633/781 [01:11<00:01, 138.92it/s]Loading weights:  83%|████████▎ | 648/781 [01:11<00:00, 140.03it/s]Loading weights:  85%|████████▍ | 663/781 [01:11<00:00, 131.82it/s]Loading weights:  87%|████████▋ | 677/781 [01:11<00:00, 119.45it/s]Loading weights:  89%|████████▉ | 694/781 [01:11<00:00, 130.09it/s]Loading weights:  91%|█████████ | 708/781 [01:11<00:00, 129.65it/s]Loading weights:  93%|█████████▎| 725/781 [01:11<00:00, 133.12it/s]Loading weights:  95%|█████████▌| 742/781 [01:11<00:00, 133.73it/s]Loading weights:  97%|█████████▋| 761/781 [01:11<00:00, 143.99it/s]Loading weights: 100%|█████████▉| 779/781 [01:12<00:00, 146.36it/s]Loading weights: 100%|██████████| 781/781 [01:12<00:00, 10.83it/s] 
+[transformers] The tied weights mapping and config for this model specifies to tie model.language_model.embed_tokens.weight to lm_head.weight, but both are present in the checkpoints with different values, so we will NOT tie them. You should update the config with `tie_word_embeddings=False` to silence this warning.
+
+--- [clean/clean] /data/jpk322/VID-DRIFT/MVBench/video/ssv2_video/68631.webm
+PROMPT:
+Which one of these descriptions correctly matches the actions in the video?
+A. Not sure
+B. Staying in place something across a surface until it ascends down
+C. Moving something across a surface until it falls down
+Answer with the single letter of the correct option only.
+RAW: 'C'
+GOLD: 'Moving something across a surface until it falls down' -> gold='C' pred='C' score=1.0
+
+--- [downscale_4/degraded] /data/jpk322/VID-DRIFT/downsamples/MVBench/downscale_4/68631.mp4
+PROMPT:
+Which one of these descriptions correctly matches the actions in the video?
+A. Not sure
+B. Staying in place something across a surface until it ascends down
+C. Moving something across a surface until it falls down
+Answer with the single letter of the correct option only.
+RAW: 'C'
+GOLD: 'Moving something across a surface until it falls down' -> gold='C' pred='C' score=1.0
+
+--- [downscale_4/restored] /data/jpk322/VID-DRIFT/restored/MVBench/downscale_4/FlashVSR/68631.mp4
+PROMPT:
+Which one of these descriptions correctly matches the actions in the video?
+A. Not sure
+B. Staying in place something across a surface until it ascends down
+C. Moving something across a surface until it falls down
+Answer with the single letter of the correct option only.
+RAW: 'C'
+GOLD: 'Moving something across a surface until it falls down' -> gold='C' pred='C' score=1.0
+  ... 10/8394
+  ... 20/8394
+  ... 30/8394
+  ... 40/8394
+  ... 50/8394
+  ... 60/8394
+  ... 70/8394
+  ... 80/8394
+  ... 90/8394
+  ... 100/8394
+  ... 110/8394
+  ... 120/8394
+  ... 130/8394
+  ... 140/8394
+  ... 150/8394
+  ... 160/8394
+  ... 170/8394
+  ... 180/8394
+  ... 190/8394
+  ... 200/8394
+  ... 210/8394
+  ... 220/8394
+  ... 230/8394
+  ... 240/8394
+  ... 250/8394
+  ... 260/8394
+  ... 270/8394
+  ... 280/8394
+  ... 290/8394
+  ... 300/8394
+  ... 310/8394
+  ... 320/8394
+  ... 330/8394
+  ... 340/8394
+  ... 350/8394
+  ... 360/8394
+  ... 370/8394
+  ... 380/8394
+  ... 390/8394
+  ... 400/8394
+  ... 410/8394
+  ... 420/8394
+  ... 430/8394
+  ... 440/8394
+  ... 450/8394
+  ... 460/8394
+  ... 470/8394
+  ... 480/8394
+  ... 490/8394
+  ... 500/8394
+  ... 510/8394
+  ... 520/8394
+  ... 530/8394
+  ... 540/8394
+  ... 550/8394
+  ... 560/8394
+  ... 570/8394
+  ... 580/8394
+  ... 590/8394
+  ... 600/8394
+  ... 610/8394
+  ... 620/8394
+  ... 630/8394
+  ... 640/8394
+  ... 650/8394
+  ... 660/8394
+  ... 670/8394
+  ... 680/8394
+  ... 690/8394
+  ... 700/8394
+  ... 710/8394
+  ... 720/8394
+  ... 730/8394
+  ... 740/8394
+  ... 750/8394
+  ... 760/8394
+  ... 770/8394
+  ... 780/8394
+  ... 790/8394
+  ... 800/8394
+  ... 810/8394
+  ... 820/8394
+  ... 830/8394
+  ... 840/8394
+  ... 850/8394
+  ... 860/8394
+  ... 870/8394
+  ... 880/8394
+  ... 890/8394
+  ... 900/8394
+  ... 910/8394
+  ... 920/8394
+  ... 930/8394
+  ... 940/8394
+  ... 950/8394
+  ... 960/8394
+  ... 970/8394
+  ... 980/8394
+  ... 990/8394
+  ... 1000/8394
+  ... 1010/8394
+  ... 1020/8394
+  ... 1030/8394
+  ... 1040/8394
+  ... 1050/8394
+  ... 1060/8394
+  ... 1070/8394
+  ... 1080/8394
+  ... 1090/8394
+  ... 1100/8394
+  ... 1110/8394
+  ... 1120/8394
+  ... 1130/8394
+  ... 1140/8394
+  ... 1150/8394
+  ... 1160/8394
+  ... 1170/8394
+  ... 1180/8394
+  ... 1190/8394
+  ... 1200/8394
+  ... 1210/8394
+  ... 1220/8394
+  ... 1230/8394
+  ... 1240/8394
+  ... 1250/8394
+  ... 1260/8394
+  ... 1270/8394
+  ... 1280/8394
+  ... 1290/8394
+  ... 1300/8394
+  ... 1310/8394
+  ... 1320/8394
+  ... 1330/8394
+  ... 1340/8394
+  ... 1350/8394
+  ... 1360/8394
+  ... 1370/8394
+  ... 1380/8394
+  ... 1390/8394
+  ... 1400/8394
+  ... 1410/8394
+  ... 1420/8394
+  ... 1430/8394
+  ... 1440/8394
+  ... 1450/8394
+  ... 1460/8394
+  ... 1470/8394
+  ... 1480/8394
+  ... 1490/8394
+  ... 1500/8394
+  ... 1510/8394
+  ... 1520/8394
+  ... 1530/8394
+  ... 1540/8394
+  ... 1550/8394
+  ... 1560/8394
+  ... 1570/8394
+  ... 1580/8394
+  ... 1590/8394
+  ... 1600/8394
+  ... 1610/8394
+  ... 1620/8394
+  ... 1630/8394
+  ... 1640/8394
+  ... 1650/8394
+  ... 1660/8394
+  ... 1670/8394
+  ... 1680/8394
+  ... 1690/8394
+  ... 1700/8394
+  ... 1710/8394
+  ... 1720/8394
+  ... 1730/8394
+  ... 1740/8394
+  ... 1750/8394
+  ... 1760/8394
+  ... 1770/8394
+  ... 1780/8394
+  ... 1790/8394
+  ... 1800/8394
+  ... 1810/8394
+  ... 1820/8394
+  ... 1830/8394
+  ... 1840/8394
+  ... 1850/8394
+  ... 1860/8394
+  ... 1870/8394
+  ... 1880/8394
+  ... 1890/8394
+  ... 1900/8394
+  ... 1910/8394
+  ... 1920/8394
+  ... 1930/8394
+  ... 1940/8394
+  ... 1950/8394
+  ... 1960/8394
+  ... 1970/8394
+  ... 1980/8394
+  ... 1990/8394
+  ... 2000/8394
+  ... 2010/8394
+  ... 2020/8394
+  ... 2030/8394
+  ... 2040/8394
+  ... 2050/8394
+  ... 2060/8394
+  ... 2070/8394
+  ... 2080/8394
+  ... 2090/8394
+  ... 2100/8394
+  ... 2110/8394
+  ... 2120/8394
+  ... 2130/8394
+  ... 2140/8394
+  ... 2150/8394
+  ... 2160/8394
+  ... 2170/8394
+  ... 2180/8394
+  ... 2190/8394
+  ... 2200/8394
+  ... 2210/8394
+  ... 2220/8394
+  ... 2230/8394
+  ... 2240/8394
+  ... 2250/8394
+  ... 2260/8394
+  ... 2270/8394
+  ... 2280/8394
+  ... 2290/8394
+  ... 2300/8394
+  ... 2310/8394
+  ... 2320/8394
+  ... 2330/8394
+  ... 2340/8394
+  ... 2350/8394
+  ... 2360/8394
+  ... 2370/8394
+  ... 2380/8394
+  ... 2390/8394
+  ... 2400/8394
+  ... 2410/8394
+  ... 2420/8394
+  ... 2430/8394
+  ... 2440/8394
+  ... 2450/8394
+  ... 2460/8394
+  ... 2470/8394
+  ... 2480/8394
+  ... 2490/8394
+  ... 2500/8394
+  ... 2510/8394
+  ... 2520/8394
+  ... 2530/8394
+  ... 2540/8394
+  ... 2550/8394
+  ... 2560/8394
+  ... 2570/8394
+  ... 2580/8394
+  ... 2590/8394
+  ... 2600/8394
+  ... 2610/8394
+  ... 2620/8394
+  ... 2630/8394
+  ... 2640/8394
+  ... 2650/8394
+  ... 2660/8394
+  ... 2670/8394
+  ... 2680/8394
+  ... 2690/8394
+  ... 2700/8394
+  ... 2710/8394
+  ... 2720/8394
+  ... 2730/8394
+  ... 2740/8394
+  ... 2750/8394
+  ... 2760/8394
+  ... 2770/8394
+  ... 2780/8394
+  ... 2790/8394
+  ... 2800/8394
+  ... 2810/8394
+  ... 2820/8394
+  ... 2830/8394
+  ... 2840/8394
+  ... 2850/8394
+  ... 2860/8394
+  ... 2870/8394
+  ... 2880/8394
+  ... 2890/8394
+  ... 2900/8394
+  ... 2910/8394
+  ... 2920/8394
+  ... 2930/8394
+  ... 2940/8394
+  ... 2950/8394
+  ... 2960/8394
+  ... 2970/8394
+  ... 2980/8394
+  ... 2990/8394
+  ... 3000/8394
+  ... 3010/8394
+  ... 3020/8394
+  ... 3030/8394
+  ... 3040/8394
+  ... 3050/8394
+  ... 3060/8394
+  ... 3070/8394
+  ... 3080/8394
+  ... 3090/8394
+  ... 3100/8394
+  ... 3110/8394
+  ... 3120/8394
+  ... 3130/8394
+  ... 3140/8394
+  ... 3150/8394
+  ... 3160/8394
+  ... 3170/8394
+  ... 3180/8394
+  ... 3190/8394
+  ... 3200/8394
+  ... 3210/8394
+  ... 3220/8394
+  ... 3230/8394
+  ... 3240/8394
+  ... 3250/8394
+  ... 3260/8394
+  ... 3270/8394
+  ... 3280/8394
+  ... 3290/8394
+  ... 3300/8394
+  ... 3310/8394
+  ... 3320/8394
+  ... 3330/8394
+  ... 3340/8394
+  ... 3350/8394
+  ... 3360/8394
+  ... 3370/8394
+  ... 3380/8394
+  ... 3390/8394
+  ... 3400/8394
+  ... 3410/8394
+  ... 3420/8394
+  ... 3430/8394
+  ... 3440/8394
+  ... 3450/8394
+  ... 3460/8394
+  ... 3470/8394
+  ... 3480/8394
+  ... 3490/8394
+  ... 3500/8394
+  ... 3510/8394
+  ... 3520/8394
+  ... 3530/8394
+  ... 3540/8394
+  ... 3550/8394
+  ... 3560/8394
+  ... 3570/8394
+  ... 3580/8394
+  ... 3590/8394
+  ... 3600/8394
+  ... 3610/8394
+  ... 3620/8394
+  ... 3630/8394
+  ... 3640/8394
+  ... 3650/8394
+  ... 3660/8394
+  ... 3670/8394
+  ... 3680/8394
+  ... 3690/8394
+  ... 3700/8394
+  ... 3710/8394
+  ... 3720/8394
+  ... 3730/8394
+  ... 3740/8394
+  ... 3750/8394
+  ... 3760/8394
+  ... 3770/8394
+  ... 3780/8394
+  ... 3790/8394
+  ... 3800/8394
+  ... 3810/8394
+  ... 3820/8394
+  ... 3830/8394
+  ... 3840/8394
+  ... 3850/8394
+  ... 3860/8394
+  ... 3870/8394
+  ... 3880/8394
+  ... 3890/8394
+  ... 3900/8394
+  ... 3910/8394
+  ... 3920/8394
+  ... 3930/8394
+  ... 3940/8394
+  ... 3950/8394
+  ... 3960/8394
+  ... 3970/8394
+  ... 3980/8394
+  ... 3990/8394
+  ... 4000/8394
+  ... 4010/8394
+  ... 4020/8394
+  ... 4030/8394
+  ... 4040/8394
+  ... 4050/8394
+  ... 4060/8394
+  ... 4070/8394
+  ... 4080/8394
+  ... 4090/8394
+  ... 4100/8394
+  ... 4110/8394
+  ... 4120/8394
+  ... 4130/8394
+  ... 4140/8394
+  ... 4150/8394
+  ... 4160/8394
+  ... 4170/8394
+  ... 4180/8394
+  ... 4190/8394
+  ... 4200/8394
+  ... 4210/8394
+  ... 4220/8394
+  ... 4230/8394
+  ... 4240/8394
+  ... 4250/8394
+  ... 4260/8394
+  ... 4270/8394
+  ... 4280/8394
+  ... 4290/8394
+  ... 4300/8394
+  ... 4310/8394
+  ... 4320/8394
+  ... 4330/8394
+  ... 4340/8394
+  ... 4350/8394
+  ... 4360/8394
+  ... 4370/8394
+  ... 4380/8394
+  ... 4390/8394
+  ... 4400/8394
+  ... 4410/8394
+  ... 4420/8394
+  ... 4430/8394
+  ... 4440/8394
+  ... 4450/8394
+  ... 4460/8394
+  ... 4470/8394
+  ... 4480/8394
+  ... 4490/8394
+  ... 4500/8394
+  ... 4510/8394
+  ... 4520/8394
+  ... 4530/8394
+  ... 4540/8394
+  ... 4550/8394
+  ... 4560/8394
+  ... 4570/8394
+  ... 4580/8394
+  ... 4590/8394
+  ... 4600/8394
+  ... 4610/8394
+  ... 4620/8394
+  ... 4630/8394
+  ... 4640/8394
+  ... 4650/8394
+  ... 4660/8394
+  ... 4670/8394
+  ... 4680/8394
+  ... 4690/8394
+  ... 4700/8394
+  ... 4710/8394
+  ... 4720/8394
+  ... 4730/8394
+  ... 4740/8394
+  ... 4750/8394
+  ... 4760/8394
+  ... 4770/8394
+  ... 4780/8394
+  ... 4790/8394
+  ... 4800/8394
+  ... 4810/8394
+  ... 4820/8394
+  ... 4830/8394
+  ... 4840/8394
+  ... 4850/8394
+  ... 4860/8394
+  ... 4870/8394
+  ... 4880/8394
+  ... 4890/8394
+  ... 4900/8394
+  ... 4910/8394
+  ... 4920/8394
+  ... 4930/8394
+  ... 4940/8394
+  ... 4950/8394
+  ... 4960/8394
+  ... 4970/8394
+  ... 4980/8394
+  ... 4990/8394
+  ... 5000/8394
+  ... 5010/8394
+  ... 5020/8394
+  ... 5030/8394
+  ... 5040/8394
+  ... 5050/8394
+  ... 5060/8394
+  ... 5070/8394
+  ... 5080/8394
+  ... 5090/8394
+  ... 5100/8394
+  ... 5110/8394
+  ... 5120/8394
+  ... 5130/8394
+  ... 5140/8394
+  ... 5150/8394
+  ... 5160/8394
+  ... 5170/8394
+  ... 5180/8394
+  ... 5190/8394
+  ... 5200/8394
+  ... 5210/8394
+  ... 5220/8394
+  ... 5230/8394
+  ... 5240/8394
+  ... 5250/8394
+  ... 5260/8394
+  ... 5270/8394
+  ... 5280/8394
+  ... 5290/8394
+  ... 5300/8394
+  ... 5310/8394
+  ... 5320/8394
+  ... 5330/8394
+  ... 5340/8394
+  ... 5350/8394
+  ... 5360/8394
+  ... 5370/8394
+  ... 5380/8394
+  ... 5390/8394
+  ... 5400/8394
+  ... 5410/8394
+  ... 5420/8394
+  ... 5430/8394
+  ... 5440/8394
+  ... 5450/8394
+  ... 5460/8394
+  ... 5470/8394
+  ... 5480/8394
+  ... 5490/8394
+  ... 5500/8394
+  ... 5510/8394
+  ... 5520/8394
+  ... 5530/8394
+  ... 5540/8394
+  ... 5550/8394
+  ... 5560/8394
+  ... 5570/8394
+  ... 5580/8394
+  ... 5590/8394
+  ... 5600/8394
+  ... 5610/8394
+  ... 5620/8394
+  ... 5630/8394
+  ... 5640/8394
+  ... 5650/8394
+  ... 5660/8394
+  ... 5670/8394
+  ... 5680/8394
+  ... 5690/8394
+  ... 5700/8394
+  ... 5710/8394
+  ... 5720/8394
+  ... 5730/8394
+  ... 5740/8394
+  ... 5750/8394
+  ... 5760/8394
+  ... 5770/8394
+  ... 5780/8394
+  ... 5790/8394
+  ... 5800/8394
+  ... 5810/8394
+  ... 5820/8394
+  ... 5830/8394
+  ... 5840/8394
+  ... 5850/8394
+  ... 5860/8394
+  ... 5870/8394
+  ... 5880/8394
+  ... 5890/8394
+  ... 5900/8394
+  ... 5910/8394
+  ... 5920/8394
+  ... 5930/8394
+  ... 5940/8394
+  ... 5950/8394
+  ... 5960/8394
+  ... 5970/8394
+  ... 5980/8394
+  ... 5990/8394
+  ... 6000/8394
+  ... 6010/8394
+  ... 6020/8394
+  ... 6030/8394
+  ... 6040/8394
+  ... 6050/8394
+  ... 6060/8394
+  ... 6070/8394
+  ... 6080/8394
+  ... 6090/8394
+  ... 6100/8394
+  ... 6110/8394
+  ... 6120/8394
+  ... 6130/8394
+  ... 6140/8394
+  ... 6150/8394
+  ... 6160/8394
+  ... 6170/8394
+  ... 6180/8394
+  ... 6190/8394
+  ... 6200/8394
+  ... 6210/8394
+  ... 6220/8394
+  ... 6230/8394
+  ... 6240/8394
+  ... 6250/8394
+  ... 6260/8394
+  ... 6270/8394
+  ... 6280/8394
+  ... 6290/8394
+  ... 6300/8394
+  ... 6310/8394
+  ... 6320/8394
+  ... 6330/8394
+  ... 6340/8394
+  ... 6350/8394
+  ... 6360/8394
+  ... 6370/8394
+  ... 6380/8394
+  ... 6390/8394
+  ... 6400/8394
+  ... 6410/8394
+  ... 6420/8394
+  ... 6430/8394
+  ... 6440/8394
+  ... 6450/8394
+  ... 6460/8394
+  ... 6470/8394
+  ... 6480/8394
+  ... 6490/8394
+  ... 6500/8394
+  ... 6510/8394
+  ... 6520/8394
+  ... 6530/8394
+  ... 6540/8394
+  ... 6550/8394
+  ... 6560/8394
+  ... 6570/8394
+  ... 6580/8394
+  ... 6590/8394
+  ... 6600/8394
+  ... 6610/8394
+  ... 6620/8394
+  ... 6630/8394
+  ... 6640/8394
+  ... 6650/8394
+  ... 6660/8394
+  ... 6670/8394
+  ... 6680/8394
+  ... 6690/8394
+  ... 6700/8394
+  ... 6710/8394
+  ... 6720/8394
+  ... 6730/8394
+  ... 6740/8394
+  ... 6750/8394
+  ... 6760/8394
+  ... 6770/8394
+  ... 6780/8394
+  ... 6790/8394
+  ... 6800/8394
+  ... 6810/8394
+  ... 6820/8394
+  ... 6830/8394
+  ... 6840/8394
+  ... 6850/8394
+  ... 6860/8394
+  ... 6870/8394
+  ... 6880/8394
+  ... 6890/8394
+  ... 6900/8394
+  ... 6910/8394
+  ... 6920/8394
+  ... 6930/8394
+  ... 6940/8394
+  ... 6950/8394
+  ... 6960/8394
+  ... 6970/8394
+  ... 6980/8394
+  ... 6990/8394
+  ... 7000/8394
+  ... 7010/8394
+  ... 7020/8394
+  ... 7030/8394
+  ... 7040/8394
+  ... 7050/8394
+  ... 7060/8394
+  ... 7070/8394
+  ... 7080/8394
+  ... 7090/8394
+  ... 7100/8394
+  ... 7110/8394
+  ... 7120/8394
+  ... 7130/8394
+  ... 7140/8394
+  ... 7150/8394
+  ... 7160/8394
+  ... 7170/8394
+  ... 7180/8394
+  ... 7190/8394
+  ... 7200/8394
+  ... 7210/8394
+  ... 7220/8394
+  ... 7230/8394
+  ... 7240/8394
+  ... 7250/8394
+  ... 7260/8394
+  ... 7270/8394
+  ... 7280/8394
+  ... 7290/8394
+  ... 7300/8394
+  ... 7310/8394
+  ... 7320/8394
+  ... 7330/8394
+  ... 7340/8394
+  ... 7350/8394
+  ... 7360/8394
+  ... 7370/8394
+  ... 7380/8394
+  ... 7390/8394
+  ... 7400/8394
+  ... 7410/8394
+  ... 7420/8394
+  ... 7430/8394
+  ... 7440/8394
+  ... 7450/8394
+  ... 7460/8394
+  ... 7470/8394
+  ... 7480/8394
+  ... 7490/8394
+  ... 7500/8394
+  ... 7510/8394
+  ... 7520/8394
+  ... 7530/8394
+  ... 7540/8394
+  ... 7550/8394
+  ... 7560/8394
+  ... 7570/8394
+  ... 7580/8394
+  ... 7590/8394
+  ... 7600/8394
+  ... 7610/8394
+  ... 7620/8394
+  ... 7630/8394
+  ... 7640/8394
+  ... 7650/8394
+  ... 7660/8394
+  ... 7670/8394
+  ... 7680/8394
+  ... 7690/8394
+  ... 7700/8394
+  ... 7710/8394
+  ... 7720/8394
+  ... 7730/8394
+  ... 7740/8394
+  ... 7750/8394
+  ... 7760/8394
+  ... 7770/8394
+  ... 7780/8394
+  ... 7790/8394
+  ... 7800/8394
+  ... 7810/8394
+  ... 7820/8394
+  ... 7830/8394
+  ... 7840/8394
+  ... 7850/8394
+  ... 7860/8394
+  ... 7870/8394
+  ... 7880/8394
+  ... 7890/8394
+  ... 7900/8394
+  ... 7910/8394
+  ... 7920/8394
+  ... 7930/8394
+  ... 7940/8394
+  ... 7950/8394
+  ... 7960/8394
+  ... 7970/8394
+  ... 7980/8394
+  ... 7990/8394
+  ... 8000/8394
+  ... 8010/8394
+  ... 8020/8394
+  ... 8030/8394
+  ... 8040/8394
+  ... 8050/8394
+  ... 8060/8394
+  ... 8070/8394
+  ... 8080/8394
+  ... 8090/8394
+  ... 8100/8394
+  ... 8110/8394
+  ... 8120/8394
+  ... 8130/8394
+  ... 8140/8394
+  ... 8150/8394
+  ... 8160/8394
+  ... 8170/8394
+  ... 8180/8394
+  ... 8190/8394
+  ... 8200/8394
+  ... 8210/8394
+  ... 8220/8394
+  ... 8230/8394
+  ... 8240/8394
+  ... 8250/8394
+  ... 8260/8394
+  ... 8270/8394
+  ... 8280/8394
+  ... 8290/8394
+  ... 8300/8394
+  ... 8310/8394
+  ... 8320/8394
+  ... 8330/8394
+  ... 8340/8394
+  ... 8350/8394
+  ... 8360/8394
+  ... 8370/8394
+  ... 8380/8394
+  ... 8390/8394
+
+=== OpenGVLab/InternVL3-8B-hf [internvl3_results]: all scored rows (x100; MAcc = accuracy over MCQ items) ===
+                                            n  MAcc  ALL_Score_avg
+condition            variant                                      
+clean                clean              364.0  75.3           75.3
+downscale_4          degraded           364.0  72.8           72.8
+                     restored:FlashVSR  364.0  75.0           75.0
+downscale_12         degraded           364.0  60.2           60.2
+                     restored:FlashVSR  364.0  65.4           65.4
+downscale_16         degraded           364.0  55.5           55.5
+                     restored:FlashVSR  364.0  58.2           58.2
+jpeg_40              degraded           364.0  73.9           73.9
+                     restored:FlashVSR  364.0  74.5           74.5
+jpeg_10              degraded           364.0  75.8           75.8
+                     restored:FlashVSR  364.0  73.1           73.1
+jpeg_5               degraded           364.0  74.5           74.5
+                     restored:FlashVSR  364.0  72.5           72.5
+h265_28              degraded           364.0  75.3           75.3
+                     restored:FlashVSR  364.0  73.1           73.1
+h265_45              degraded           364.0  70.3           70.3
+                     restored:FlashVSR  364.0  69.8           69.8
+h265_51              degraded           364.0  58.5           58.5
+                     restored:FlashVSR  364.0  61.0           61.0
+streamproxy_x4_crf35 degraded           364.0  67.0           67.0
+                     restored:FlashVSR  364.0  64.3           64.3
+streamproxy_x8_crf45 degraded           364.0  43.1           43.1
+                     restored:FlashVSR  364.0  46.4           46.4
+
+=== OpenGVLab/InternVL3-8B-hf [internvl3_results]: paired, 364 items present in all 23 condition/variant units (x100) ===
+                                        MAcc  ALL_Score_avg
+condition            variant                               
+clean                clean              75.3           75.3
+downscale_4          degraded           72.8           72.8
+                     restored:FlashVSR  75.0           75.0
+downscale_12         degraded           60.2           60.2
+                     restored:FlashVSR  65.4           65.4
+downscale_16         degraded           55.5           55.5
+                     restored:FlashVSR  58.2           58.2
+jpeg_40              degraded           73.9           73.9
+                     restored:FlashVSR  74.5           74.5
+jpeg_10              degraded           75.8           75.8
+                     restored:FlashVSR  73.1           73.1
+jpeg_5               degraded           74.5           74.5
+                     restored:FlashVSR  72.5           72.5
+h265_28              degraded           75.3           75.3
+                     restored:FlashVSR  73.1           73.1
+h265_45              degraded           70.3           70.3
+                     restored:FlashVSR  69.8           69.8
+h265_51              degraded           58.5           58.5
+                     restored:FlashVSR  61.0           61.0
+streamproxy_x4_crf35 degraded           67.0           67.0
+                     restored:FlashVSR  64.3           64.3
+streamproxy_x8_crf45 degraded           43.1           43.1
+                     restored:FlashVSR  46.4           46.4
+items with identical raw_output in every unit: 15.9%
+parse_ok rate: 100.0%
+Most common raw outputs (first 40 chars):
+raw_output
+B.    1430
+C.    1334
+A.    1281
+D.    1032
+B     1016
+
+=== Restoration transitions (MCQ items with clean, degraded and restored all scored) ===
+RIE = clean ok, degraded ok, restored wrong | RIC = clean ok, degraded wrong, restored ok
+*_any = same degraded->restored flip regardless of clean | p = exact McNemar, degraded vs restored
+              run                     model            condition upscaler  n_paired  MAcc_clean  MAcc_degraded  MAcc_restored  RIE  RIC  RIE_any  RIC_any  net_any  p_mcnemar
+internvl3_results OpenGVLab/InternVL3-8B-hf          downscale_4 FlashVSR       364        75.3           72.8           75.0   15   12       18       26        8     0.2912
+internvl3_results OpenGVLab/InternVL3-8B-hf         downscale_12 FlashVSR       364        75.3           60.2           65.4   26   47       34       53       19     0.0530
+internvl3_results OpenGVLab/InternVL3-8B-hf         downscale_16 FlashVSR       364        75.3           55.5           58.2   30   42       42       52       10     0.3533
+internvl3_results OpenGVLab/InternVL3-8B-hf              jpeg_40 FlashVSR       364        75.3           73.9           74.5   17   14       22       24        2     0.8830
+internvl3_results OpenGVLab/InternVL3-8B-hf              jpeg_10 FlashVSR       364        75.3           75.8           73.1   20   10       29       19      -10     0.1934
+internvl3_results OpenGVLab/InternVL3-8B-hf               jpeg_5 FlashVSR       364        75.3           74.5           72.5   20   11       27       20       -7     0.3817
+internvl3_results OpenGVLab/InternVL3-8B-hf              h265_28 FlashVSR       364        75.3           75.3           73.1   22    5       24       16       -8     0.2682
+internvl3_results OpenGVLab/InternVL3-8B-hf              h265_45 FlashVSR       364        75.3           70.3           69.8   28   21       34       32       -2     0.9022
+internvl3_results OpenGVLab/InternVL3-8B-hf              h265_51 FlashVSR       364        75.3           58.5           61.0   24   32       30       39        9     0.3356
+internvl3_results OpenGVLab/InternVL3-8B-hf streamproxy_x4_crf35 FlashVSR       364        75.3           67.0           64.3   28   17       35       25      -10     0.2451
+internvl3_results OpenGVLab/InternVL3-8B-hf streamproxy_x8_crf45 FlashVSR       364        75.3           43.1           46.4   34   40       37       49       12     0.2354

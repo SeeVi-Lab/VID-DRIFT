@@ -1,0 +1,502 @@
+Manifest rows after filter (datasets=['mvbench'], conditions=['clean', 'fps_eighth', 'fps_quarter', 'fpsabs_0_5fps', 'fpsabs_1fps']): 1940
+Question kinds (generic protocol): {'mcq': 1940}
+NOTE: manifest has no clean rows; built 484 from each item's video_path.
+Folders checked (unit | folder | found / missing):
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/FunQA_test/test/test_creative  9 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/FunQA_test/test/test_humor  13 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/FunQA_test/test/test_magic  9 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/baptizing  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/biting  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/boiling  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/bubbling  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/buttoning  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/clawing  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/dining  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/drilling  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/driving  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/extinguishing  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/flying  2 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/gambling  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/guarding  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/handwriting  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/mopping  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/operating  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/punting  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/rafting  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/raining  2 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/saluting  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/screwing  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/sliding  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/stirring  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/Moments_in_Time_Raw/videos/validation/stretching  1 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/clevrer/video_validation  132 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/data0613/star/Charades_v1_480  2 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/perception/videos  107 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/scene_qa/video  26 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/ssv2_video  26 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/sta/sta_video  23 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/star/Charades_v1_480  85 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/vlnqa/forward  6 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/vlnqa/left  10 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/vlnqa/right  7 / 0
+  clean/clean              /data/jpk322/VID-DRIFT/MVBench/video/vlnqa/stop  3 / 0
+  fps_eighth/degraded      /data/jpk322/VID-DRIFT/downsamples/MVBench/fps_eighth  468 / 17
+  fps_eighth/restored      /data/jpk322/VID-DRIFT/restored/MVBench/fps_eighth/EDEN  399 / 86
+  fps_quarter/degraded     /data/jpk322/VID-DRIFT/downsamples/MVBench/fps_quarter  468 / 17
+  fps_quarter/restored     /data/jpk322/VID-DRIFT/restored/MVBench/fps_quarter/EDEN  398 / 87
+  fpsabs_0_5fps/degraded   /data/jpk322/VID-DRIFT/downsamples/MVBench/fpsabs_0_5fps  468 / 17
+  fpsabs_0_5fps/restored   /data/jpk322/VID-DRIFT/restored/MVBench/fpsabs_0_5fps/EDEN  415 / 70
+  fpsabs_1fps/degraded     /data/jpk322/VID-DRIFT/downsamples/MVBench/fpsabs_1fps  468 / 17
+  fpsabs_1fps/restored     /data/jpk322/VID-DRIFT/restored/MVBench/fpsabs_1fps/EDEN  407 / 78
+  e.g. missing fps_eighth/degraded: /data/jpk322/VID-DRIFT/downsamples/MVBench/fps_eighth/14384.mp4
+  e.g. missing fps_eighth/restored: /data/jpk322/VID-DRIFT/restored/MVBench/fps_eighth/EDEN/14384.mp4
+  e.g. missing fps_quarter/degraded: /data/jpk322/VID-DRIFT/downsamples/MVBench/fps_quarter/14384.mp4
+  e.g. missing fps_quarter/restored: /data/jpk322/VID-DRIFT/restored/MVBench/fps_quarter/EDEN/14384.mp4
+  e.g. missing fpsabs_0_5fps/degraded: /data/jpk322/VID-DRIFT/downsamples/MVBench/fpsabs_0_5fps/14384.mp4
+  e.g. missing fpsabs_0_5fps/restored: /data/jpk322/VID-DRIFT/restored/MVBench/fpsabs_0_5fps/EDEN/14384.mp4
+  e.g. missing fpsabs_1fps/degraded: /data/jpk322/VID-DRIFT/downsamples/MVBench/fpsabs_1fps/14384.mp4
+  e.g. missing fpsabs_1fps/restored: /data/jpk322/VID-DRIFT/restored/MVBench/fpsabs_1fps/EDEN/14384.mp4
+Complete items (eval video exists for all 9 condition/variant units): 394 / 484
+  skipped 90 incomplete items; missing videos per unit: {'fps_quarter/restored': 87, 'fps_eighth/restored': 86, 'fpsabs_1fps/restored': 78, 'fpsabs_0_5fps/restored': 70, 'fpsabs_0_5fps/degraded': 17, 'fpsabs_1fps/degraded': 17, 'fps_quarter/degraded': 17, 'fps_eighth/degraded': 17}
+To evaluate: 3554 (missing eval videos: 0) {'clean/clean': 394, 'fps_quarter/degraded': 395, 'fps_quarter/restored': 395, 'fps_eighth/degraded': 395, 'fps_eighth/restored': 395, 'fpsabs_1fps/degraded': 395, 'fpsabs_1fps/restored': 395, 'fpsabs_0_5fps/degraded': 395, 'fpsabs_0_5fps/restored': 395}
+Patched qwen_vl_utils: nframes capped to each video's frame count; torchvision fallback re-raises the torchcodec error
+Loading lmms-lab-encoder/LLaVA-OneVision-2-8B-Instruct ...
+Loading weights:   0%|          | 0/696 [00:00<?, ?it/s]Loading weights:   0%|          | 1/696 [00:08<1:33:06,  8.04s/it]Loading weights:   1%|          | 6/696 [00:08<11:34,  1.01s/it]  Loading weights:   1%|▏         | 10/696 [00:08<06:00,  1.90it/s]Loading weights:   2%|▏         | 13/696 [00:08<04:07,  2.76it/s]Loading weights:   2%|▏         | 16/696 [00:09<03:32,  3.21it/s]Loading weights:   3%|▎         | 18/696 [00:09<03:06,  3.64it/s]Loading weights:   3%|▎         | 21/696 [00:09<02:12,  5.11it/s]Loading weights:   3%|▎         | 24/696 [00:09<01:37,  6.91it/s]Loading weights:   4%|▎         | 26/696 [00:10<01:38,  6.82it/s]Loading weights:   4%|▍         | 28/696 [00:10<02:01,  5.48it/s]Loading weights:   5%|▍         | 32/696 [00:10<01:25,  7.79it/s]Loading weights:   5%|▍         | 34/696 [00:10<01:14,  8.90it/s]Loading weights:   5%|▌         | 37/696 [00:11<01:15,  8.73it/s]Loading weights:   6%|▌         | 39/696 [00:11<01:44,  6.32it/s]Loading weights:   6%|▌         | 43/696 [00:11<01:09,  9.37it/s]Loading weights:   6%|▋         | 45/696 [00:12<01:03, 10.30it/s]Loading weights:   7%|▋         | 48/696 [00:12<01:04, 10.03it/s]Loading weights:   7%|▋         | 50/696 [00:13<02:43,  3.96it/s]Loading weights:   8%|▊         | 54/696 [00:14<01:46,  6.02it/s]Loading weights:   8%|▊         | 56/696 [00:14<01:33,  6.86it/s]Loading weights:   8%|▊         | 58/696 [00:14<01:23,  7.68it/s]Loading weights:   9%|▊         | 60/696 [00:15<02:16,  4.65it/s]Loading weights:   9%|▉         | 65/696 [00:15<01:18,  8.02it/s]Loading weights:  10%|▉         | 68/696 [00:15<01:03,  9.93it/s]Loading weights:  10%|█         | 71/696 [00:16<01:18,  7.91it/s]Loading weights:  10%|█         | 73/696 [00:16<01:22,  7.51it/s]Loading weights:  11%|█         | 76/696 [00:16<01:05,  9.50it/s]Loading weights:  11%|█▏        | 79/696 [00:16<00:52, 11.73it/s]Loading weights:  12%|█▏        | 81/696 [00:17<01:06,  9.22it/s]Loading weights:  12%|█▏        | 83/696 [00:17<01:56,  5.26it/s]Loading weights:  12%|█▎        | 87/696 [00:18<01:18,  7.75it/s]Loading weights:  13%|█▎        | 89/696 [00:18<01:12,  8.41it/s]Loading weights:  13%|█▎        | 92/696 [00:18<01:09,  8.66it/s]Loading weights:  14%|█▎        | 94/696 [00:19<01:42,  5.90it/s]Loading weights:  14%|█▍        | 98/696 [00:19<01:12,  8.24it/s]Loading weights:  14%|█▍        | 100/696 [00:19<01:16,  7.74it/s]Loading weights:  15%|█▍        | 103/696 [00:20<01:03,  9.38it/s]Loading weights:  15%|█▌        | 105/696 [00:20<01:29,  6.57it/s]Loading weights:  16%|█▌        | 109/696 [00:20<01:01,  9.60it/s]Loading weights:  16%|█▌        | 111/696 [00:20<00:54, 10.74it/s]Loading weights:  16%|█▋        | 114/696 [00:21<00:56, 10.37it/s]Loading weights:  17%|█▋        | 116/696 [00:22<01:43,  5.63it/s]Loading weights:  17%|█▋        | 120/696 [00:22<01:12,  7.93it/s]Loading weights:  18%|█▊        | 123/696 [00:22<01:00,  9.48it/s]Loading weights:  18%|█▊        | 125/696 [00:22<01:10,  8.05it/s]Loading weights:  18%|█▊        | 127/696 [00:23<01:51,  5.11it/s]Loading weights:  19%|█▉        | 131/696 [00:23<01:15,  7.53it/s]Loading weights:  19%|█▉        | 133/696 [00:23<01:06,  8.48it/s]Loading weights:  20%|█▉        | 136/696 [00:24<01:02,  8.95it/s]Loading weights:  20%|█▉        | 138/696 [00:25<01:41,  5.49it/s]Loading weights:  20%|██        | 142/696 [00:25<01:10,  7.87it/s]Loading weights:  21%|██        | 144/696 [00:25<01:03,  8.76it/s]Loading weights:  21%|██        | 146/696 [00:25<00:59,  9.18it/s]Loading weights:  21%|██▏       | 148/696 [00:26<01:34,  5.78it/s]Loading weights:  21%|██▏       | 149/696 [00:26<01:50,  4.93it/s]Loading weights:  22%|██▏       | 153/696 [00:26<01:08,  7.98it/s]Loading weights:  22%|██▏       | 155/696 [00:26<01:01,  8.76it/s]Loading weights:  23%|██▎       | 158/696 [00:27<00:56,  9.46it/s]Loading weights:  23%|██▎       | 160/696 [00:28<01:58,  4.52it/s]Loading weights:  24%|██▎       | 164/696 [00:28<01:17,  6.84it/s]Loading weights:  24%|██▍       | 166/696 [00:28<01:14,  7.10it/s]Loading weights:  24%|██▍       | 169/696 [00:29<01:43,  5.09it/s]Loading weights:  24%|██▍       | 170/696 [00:30<01:53,  4.64it/s]Loading weights:  25%|██▌       | 175/696 [00:30<01:03,  8.20it/s]Loading weights:  25%|██▌       | 177/696 [00:30<01:00,  8.63it/s]Loading weights:  26%|██▌       | 180/696 [00:30<01:06,  7.70it/s]Loading weights:  26%|██▌       | 182/696 [00:31<01:48,  4.73it/s]Loading weights:  28%|██▊       | 197/696 [00:31<00:32, 15.31it/s]Loading weights:  30%|███       | 209/696 [00:31<00:19, 25.19it/s]Loading weights:  31%|███       | 217/696 [00:32<00:22, 20.94it/s]Loading weights:  32%|███▏      | 224/696 [00:32<00:19, 24.13it/s]Loading weights:  33%|███▎      | 229/696 [00:32<00:18, 25.33it/s]Loading weights:  34%|███▎      | 234/696 [00:33<00:20, 22.13it/s]Loading weights:  34%|███▍      | 238/696 [00:33<00:33, 13.75it/s]Loading weights:  36%|███▌      | 248/696 [00:33<00:21, 21.29it/s]Loading weights:  36%|███▋      | 253/696 [00:34<00:21, 20.98it/s]Loading weights:  37%|███▋      | 257/696 [00:34<00:27, 15.71it/s]Loading weights:  37%|███▋      | 260/696 [00:35<00:38, 11.37it/s]Loading weights:  39%|███▊      | 269/696 [00:35<00:23, 18.43it/s]Loading weights:  40%|███▉      | 277/696 [00:35<00:16, 25.22it/s]Loading weights:  41%|████      | 282/696 [00:36<00:24, 16.81it/s]Loading weights:  42%|████▏     | 292/696 [00:36<00:18, 21.55it/s]Loading weights:  43%|████▎     | 298/696 [00:36<00:16, 23.69it/s]Loading weights:  43%|████▎     | 302/696 [00:36<00:19, 20.61it/s]Loading weights:  45%|████▍     | 312/696 [00:37<00:12, 29.83it/s]Loading weights:  46%|████▌     | 317/696 [00:37<00:12, 29.69it/s]Loading weights:  47%|████▋     | 324/696 [00:37<00:13, 27.30it/s]Loading weights:  47%|████▋     | 329/696 [00:37<00:12, 30.23it/s]Loading weights:  48%|████▊     | 333/696 [00:37<00:12, 29.65it/s]Loading weights:  48%|████▊     | 337/696 [00:38<00:21, 16.85it/s]Loading weights:  50%|████▉     | 345/696 [00:38<00:14, 24.59it/s]Loading weights:  50%|█████     | 350/696 [00:38<00:13, 25.90it/s]Loading weights:  51%|█████     | 354/696 [00:38<00:13, 25.80it/s]Loading weights:  51%|█████▏    | 358/696 [00:39<00:22, 15.21it/s]Loading weights:  53%|█████▎    | 367/696 [00:39<00:14, 22.81it/s]Loading weights:  53%|█████▎    | 371/696 [00:39<00:17, 18.68it/s]Loading weights:  54%|█████▍    | 378/696 [00:40<00:14, 21.62it/s]Loading weights:  55%|█████▍    | 381/696 [00:40<00:28, 10.94it/s]Loading weights:  55%|█████▌    | 385/696 [00:41<00:23, 13.26it/s]Loading weights:  56%|█████▌    | 389/696 [00:41<00:22, 13.60it/s]Loading weights:  56%|█████▋    | 392/696 [00:41<00:21, 13.95it/s]Loading weights:  57%|█████▋    | 395/696 [00:41<00:19, 15.40it/s]Loading weights:  57%|█████▋    | 398/696 [00:41<00:18, 16.28it/s]Loading weights:  61%|██████    | 424/696 [00:41<00:04, 56.14it/s]Loading weights:  63%|██████▎   | 436/696 [00:42<00:03, 66.35it/s]Loading weights:  64%|██████▍   | 446/696 [00:42<00:03, 68.74it/s]Loading weights:  66%|██████▌   | 460/696 [00:42<00:02, 80.10it/s]Loading weights:  68%|██████▊   | 471/696 [00:42<00:02, 86.88it/s]Loading weights:  71%|███████▏  | 496/696 [00:42<00:01, 122.97it/s]Loading weights:  73%|███████▎  | 510/696 [00:42<00:01, 126.20it/s]Loading weights:  76%|███████▋  | 532/696 [00:42<00:01, 142.81it/s]Loading weights:  79%|███████▉  | 550/696 [00:42<00:00, 149.17it/s]Loading weights:  81%|████████▏ | 566/696 [00:43<00:01, 121.44it/s]Loading weights:  84%|████████▍ | 585/696 [00:43<00:00, 137.51it/s]Loading weights:  86%|████████▌ | 600/696 [00:43<00:00, 111.81it/s]Loading weights:  88%|████████▊ | 613/696 [00:43<00:00, 105.87it/s]Loading weights:  92%|█████████▏| 639/696 [00:43<00:00, 133.70it/s]Loading weights:  94%|█████████▍| 654/696 [00:43<00:00, 119.21it/s]Loading weights:  96%|█████████▌| 667/696 [00:44<00:00, 90.03it/s] Loading weights:  97%|█████████▋| 678/696 [00:44<00:00, 88.51it/s]Loading weights:  99%|█████████▉| 688/696 [00:44<00:00, 85.81it/s]Loading weights: 100%|██████████| 696/696 [00:44<00:00, 15.59it/s]
+decord failed to open /data/jpk322/VID-DRIFT/MVBench/video/ssv2_video/103292.webm: [21:20:41] /github/workspace/src/video/ffmpeg/threaded_decoder.cc:292: [21:20:41] /github/workspace/src/video/ffmpeg/threaded_decoder.cc:218: Check failed: avcodec_send_packet(dec_ctx_.get(), pkt.get()) >= 0 (-11 vs. 0) Thread worker: Error sending packet.; falling back to OpenCV
+[transformers] The remote code model you are currently using seems to expect `cache_position`. This arg has been removed from the Transformers library, and will stop being created in `generate` even for remote code models in a future release. Please open a PR on the remote code hub repo to remove any usage of `cache_position`.
+
+--- [clean/clean] /data/jpk322/VID-DRIFT/MVBench/video/ssv2_video/103292.webm
+PROMPT:
+What activity does the video depict?
+A. Putting something in front of something
+B. Divesting something in front of something
+C. Not sure
+Answer with the single letter of the correct option only.
+RAW: 'A'
+GOLD: 'Putting something in front of something' -> gold='A' pred='A' score=1.0
+
+--- [fps_quarter/degraded] /data/jpk322/VID-DRIFT/downsamples/MVBench/fps_quarter/103292.mp4
+PROMPT:
+What activity does the video depict?
+A. Putting something in front of something
+B. Divesting something in front of something
+C. Not sure
+Answer with the single letter of the correct option only.
+RAW: 'A'
+GOLD: 'Putting something in front of something' -> gold='A' pred='A' score=1.0
+
+--- [fps_quarter/restored] /data/jpk322/VID-DRIFT/restored/MVBench/fps_quarter/EDEN/103292.mp4
+PROMPT:
+What activity does the video depict?
+A. Putting something in front of something
+B. Divesting something in front of something
+C. Not sure
+Answer with the single letter of the correct option only.
+RAW: 'A'
+GOLD: 'Putting something in front of something' -> gold='A' pred='A' score=1.0
+decord failed to open /data/jpk322/VID-DRIFT/MVBench/video/ssv2_video/108710.webm: [21:21:09] /github/workspace/src/video/ffmpeg/threaded_decoder.cc:292: [21:21:09] /github/workspace/src/video/ffmpeg/threaded_decoder.cc:218: Check failed: avcodec_send_packet(dec_ctx_.get(), pkt.get()) >= 0 (-11 vs. 0) Thread worker: Error sending packet.; falling back to OpenCV
+  ... 10/3554
+decord failed to open /data/jpk322/VID-DRIFT/MVBench/video/ssv2_video/126925.webm: [21:21:28] /github/workspace/src/video/ffmpeg/threaded_decoder.cc:292: [21:21:28] /github/workspace/src/video/ffmpeg/threaded_decoder.cc:218: Check failed: avcodec_send_packet(dec_ctx_.get(), pkt.get()) >= 0 (-11 vs. 0) Thread worker: Error sending packet.; falling back to OpenCV
+  ... 20/3554
+decord failed to open /data/jpk322/VID-DRIFT/MVBench/video/ssv2_video/181432.webm: [21:22:00] /github/workspace/src/video/ffmpeg/threaded_decoder.cc:292: [21:22:00] /github/workspace/src/video/ffmpeg/threaded_decoder.cc:218: Check failed: avcodec_send_packet(dec_ctx_.get(), pkt.get()) >= 0 (-11 vs. 0) Thread worker: Error sending packet.; falling back to OpenCV
+  ... 30/3554
+decord failed to open /data/jpk322/VID-DRIFT/MVBench/video/ssv2_video/178214.webm: [21:22:24] /github/workspace/src/video/ffmpeg/threaded_decoder.cc:292: [21:22:24] /github/workspace/src/video/ffmpeg/threaded_decoder.cc:218: Check failed: avcodec_send_packet(dec_ctx_.get(), pkt.get()) >= 0 (-11 vs. 0) Thread worker: Error sending packet.; falling back to OpenCV
+  ... 40/3554
+decord failed to open /data/jpk322/VID-DRIFT/MVBench/video/ssv2_video/83822.webm: [21:22:41] /github/workspace/src/video/ffmpeg/threaded_decoder.cc:292: [21:22:41] /github/workspace/src/video/ffmpeg/threaded_decoder.cc:218: Check failed: avcodec_send_packet(dec_ctx_.get(), pkt.get()) >= 0 (-11 vs. 0) Thread worker: Error sending packet.; falling back to OpenCV
+  ... 50/3554
+decord failed to open /data/jpk322/VID-DRIFT/MVBench/video/ssv2_video/68631.webm: [21:22:57] /github/workspace/src/video/ffmpeg/threaded_decoder.cc:292: [21:22:57] /github/workspace/src/video/ffmpeg/threaded_decoder.cc:218: Check failed: avcodec_send_packet(dec_ctx_.get(), pkt.get()) >= 0 (-11 vs. 0) Thread worker: Error sending packet.; falling back to OpenCV
+  ... 60/3554
+decord failed to open /data/jpk322/VID-DRIFT/MVBench/video/ssv2_video/24902.webm: [21:23:19] /github/workspace/src/video/ffmpeg/threaded_decoder.cc:292: [21:23:19] /github/workspace/src/video/ffmpeg/threaded_decoder.cc:218: Check failed: avcodec_send_packet(dec_ctx_.get(), pkt.get()) >= 0 (-11 vs. 0) Thread worker: Error sending packet.; falling back to OpenCV
+  ... 70/3554
+  ... 80/3554
+  ... 90/3554
+  ... 100/3554
+  ... 110/3554
+  ... 120/3554
+  ... 130/3554
+  ... 140/3554
+  ... 150/3554
+  ... 160/3554
+  ... 170/3554
+  ... 180/3554
+  ... 190/3554
+  ... 200/3554
+  ... 210/3554
+  ... 220/3554
+  ... 230/3554
+  ... 240/3554
+  ... 250/3554
+  ... 260/3554
+  ... 270/3554
+  ... 280/3554
+  ... 290/3554
+  ... 300/3554
+  ... 310/3554
+  ... 320/3554
+  ... 330/3554
+  ... 340/3554
+  ... 350/3554
+  ... 360/3554
+  ... 370/3554
+  ... 380/3554
+  ... 390/3554
+  ... 400/3554
+  ... 410/3554
+  ... 420/3554
+  ... 430/3554
+  ... 440/3554
+  ... 450/3554
+  ... 460/3554
+  ... 470/3554
+  ... 480/3554
+  ... 490/3554
+  ... 500/3554
+  ... 510/3554
+  ... 520/3554
+  ... 530/3554
+  ... 540/3554
+  ... 550/3554
+  ... 560/3554
+  ... 570/3554
+  ... 580/3554
+  ... 590/3554
+  ... 600/3554
+  ... 610/3554
+  ... 620/3554
+  ... 630/3554
+  ... 640/3554
+  ... 650/3554
+  ... 660/3554
+  ... 670/3554
+  ... 680/3554
+  ... 690/3554
+  ... 700/3554
+  ... 710/3554
+  ... 720/3554
+  ... 730/3554
+  ... 740/3554
+  ... 750/3554
+  ... 760/3554
+  ... 770/3554
+  ... 780/3554
+  ... 790/3554
+  ... 800/3554
+  ... 810/3554
+  ... 820/3554
+  ... 830/3554
+  ... 840/3554
+  ... 850/3554
+  ... 860/3554
+  ... 870/3554
+  ... 880/3554
+  ... 890/3554
+  ... 900/3554
+  ... 910/3554
+  ... 920/3554
+  ... 930/3554
+  ... 940/3554
+  ... 950/3554
+  ... 960/3554
+  ... 970/3554
+  ... 980/3554
+  ... 990/3554
+  ... 1000/3554
+  ... 1010/3554
+  ... 1020/3554
+  ... 1030/3554
+  ... 1040/3554
+  ... 1050/3554
+  ... 1060/3554
+  ... 1070/3554
+  ... 1080/3554
+  ... 1090/3554
+  ... 1100/3554
+  ... 1110/3554
+  ... 1120/3554
+  ... 1130/3554
+  ... 1140/3554
+  ... 1150/3554
+  ... 1160/3554
+  ... 1170/3554
+  ... 1180/3554
+  ... 1190/3554
+  ... 1200/3554
+  ... 1210/3554
+  ... 1220/3554
+  ... 1230/3554
+  ... 1240/3554
+  ... 1250/3554
+  ... 1260/3554
+  ... 1270/3554
+  ... 1280/3554
+  ... 1290/3554
+  ... 1300/3554
+  ... 1310/3554
+  ... 1320/3554
+  ... 1330/3554
+  ... 1340/3554
+  ... 1350/3554
+  ... 1360/3554
+  ... 1370/3554
+  ... 1380/3554
+  ... 1390/3554
+  ... 1400/3554
+  ... 1410/3554
+  ... 1420/3554
+  ... 1430/3554
+  ... 1440/3554
+  ... 1450/3554
+  ... 1460/3554
+  ... 1470/3554
+  ... 1480/3554
+  ... 1490/3554
+  ... 1500/3554
+  ... 1510/3554
+  ... 1520/3554
+  ... 1530/3554
+  ... 1540/3554
+  ... 1550/3554
+  ... 1560/3554
+  ... 1570/3554
+  ... 1580/3554
+  ... 1590/3554
+  ... 1600/3554
+  ... 1610/3554
+  ... 1620/3554
+  ... 1630/3554
+  ... 1640/3554
+  ... 1650/3554
+  ... 1660/3554
+  ... 1670/3554
+  ... 1680/3554
+  ... 1690/3554
+  ... 1700/3554
+  ... 1710/3554
+  ... 1720/3554
+  ... 1730/3554
+  ... 1740/3554
+  ... 1750/3554
+  ... 1760/3554
+  ... 1770/3554
+  ... 1780/3554
+  ... 1790/3554
+  ... 1800/3554
+  ... 1810/3554
+  ... 1820/3554
+  ... 1830/3554
+  ... 1840/3554
+  ... 1850/3554
+  ... 1860/3554
+  ... 1870/3554
+  ... 1880/3554
+  ... 1890/3554
+  ... 1900/3554
+  ... 1910/3554
+  ... 1920/3554
+  ... 1930/3554
+  ... 1940/3554
+  ... 1950/3554
+  ... 1960/3554
+  ... 1970/3554
+  ... 1980/3554
+  ... 1990/3554
+  ... 2000/3554
+  ... 2010/3554
+  ... 2020/3554
+  ... 2030/3554
+  ... 2040/3554
+  ... 2050/3554
+  ... 2060/3554
+  ... 2070/3554
+  ... 2080/3554
+  ... 2090/3554
+  ... 2100/3554
+  ... 2110/3554
+  ... 2120/3554
+  ... 2130/3554
+  ... 2140/3554
+  ... 2150/3554
+  ... 2160/3554
+  ... 2170/3554
+  ... 2180/3554
+  ... 2190/3554
+  ... 2200/3554
+  ... 2210/3554
+  ... 2220/3554
+  ... 2230/3554
+  ... 2240/3554
+  ... 2250/3554
+  ... 2260/3554
+  ... 2270/3554
+  ... 2280/3554
+  ... 2290/3554
+  ... 2300/3554
+  ... 2310/3554
+  ... 2320/3554
+  ... 2330/3554
+  ... 2340/3554
+  ... 2350/3554
+  ... 2360/3554
+  ... 2370/3554
+  ... 2380/3554
+  ... 2390/3554
+  ... 2400/3554
+  ... 2410/3554
+  ... 2420/3554
+  ... 2430/3554
+  ... 2440/3554
+  ... 2450/3554
+  ... 2460/3554
+  ... 2470/3554
+  ... 2480/3554
+  ... 2490/3554
+  ... 2500/3554
+  ... 2510/3554
+  ... 2520/3554
+  ... 2530/3554
+  ... 2540/3554
+  ... 2550/3554
+  ... 2560/3554
+  ... 2570/3554
+  ... 2580/3554
+  ... 2590/3554
+  ... 2600/3554
+  ... 2610/3554
+  ... 2620/3554
+  ... 2630/3554
+  ... 2640/3554
+  ... 2650/3554
+  ... 2660/3554
+  ... 2670/3554
+  ... 2680/3554
+  ... 2690/3554
+  ... 2700/3554
+  ... 2710/3554
+  ... 2720/3554
+  ... 2730/3554
+  ... 2740/3554
+  ... 2750/3554
+  ... 2760/3554
+  ... 2770/3554
+  ... 2780/3554
+  ... 2790/3554
+  ... 2800/3554
+  ... 2810/3554
+  ... 2820/3554
+  ... 2830/3554
+  ... 2840/3554
+  ... 2850/3554
+  ... 2860/3554
+  ... 2870/3554
+  ... 2880/3554
+  ... 2890/3554
+  ... 2900/3554
+  ... 2910/3554
+  ... 2920/3554
+  ... 2930/3554
+  ... 2940/3554
+  ... 2950/3554
+  ... 2960/3554
+  ... 2970/3554
+  ... 2980/3554
+  ... 2990/3554
+  ... 3000/3554
+  ... 3010/3554
+  ... 3020/3554
+  ... 3030/3554
+  ... 3040/3554
+  ... 3050/3554
+  ... 3060/3554
+  ... 3070/3554
+  ... 3080/3554
+  ... 3090/3554
+  ... 3100/3554
+  ... 3110/3554
+  ... 3120/3554
+  ... 3130/3554
+  ... 3140/3554
+  ... 3150/3554
+  ... 3160/3554
+  ... 3170/3554
+  ... 3180/3554
+  ... 3190/3554
+  ... 3200/3554
+  ... 3210/3554
+  ... 3220/3554
+  ... 3230/3554
+  ... 3240/3554
+  ... 3250/3554
+  ... 3260/3554
+  ... 3270/3554
+  ... 3280/3554
+  ... 3290/3554
+  ... 3300/3554
+  ... 3310/3554
+  ... 3320/3554
+  ... 3330/3554
+  ... 3340/3554
+  ... 3350/3554
+  ... 3360/3554
+  ... 3370/3554
+  ... 3380/3554
+  ... 3390/3554
+  ... 3400/3554
+  ... 3410/3554
+  ... 3420/3554
+  ... 3430/3554
+  ... 3440/3554
+  ... 3450/3554
+  ... 3460/3554
+  ... 3470/3554
+  ... 3480/3554
+  ... 3490/3554
+  ... 3500/3554
+  ... 3510/3554
+  ... 3520/3554
+  ... 3530/3554
+  ... 3540/3554
+  ... 3550/3554
+
+=== lmms-lab-encoder/LLaVA-OneVision-2-8B-Instruct [llava_ov2_results]: all scored rows (x100; MAcc = accuracy over MCQ items) ===
+                                 n  MAcc  ALL_Score_avg
+condition     variant                                  
+clean         clean          394.0  68.0           68.0
+fps_quarter   degraded       394.0  68.0           68.0
+              restored:EDEN  394.0  68.3           68.3
+fps_eighth    degraded       394.0  68.8           68.8
+              restored:EDEN  394.0  67.3           67.3
+fpsabs_1fps   degraded       394.0  69.3           69.3
+              restored:EDEN  394.0  67.3           67.3
+fpsabs_0_5fps degraded       394.0  65.7           65.7
+              restored:EDEN  394.0  64.5           64.5
+
+=== lmms-lab-encoder/LLaVA-OneVision-2-8B-Instruct [llava_ov2_results]: paired, 394 items present in all 9 condition/variant units (x100) ===
+                             MAcc  ALL_Score_avg
+condition     variant                           
+clean         clean          68.0           68.0
+fps_quarter   degraded       68.0           68.0
+              restored:EDEN  68.3           68.3
+fps_eighth    degraded       68.8           68.8
+              restored:EDEN  67.3           67.3
+fpsabs_1fps   degraded       69.3           69.3
+              restored:EDEN  67.3           67.3
+fpsabs_0_5fps degraded       65.7           65.7
+              restored:EDEN  64.5           64.5
+items with identical raw_output in every unit: 65.7%
+parse_ok rate: 100.0%
+Most common raw outputs (first 40 chars):
+raw_output
+B       1078
+C        898
+A        815
+D        711
+D. 1      11
+
+=== Restoration transitions (MCQ items with clean, degraded and restored all scored) ===
+RIE = clean ok, degraded ok, restored wrong | RIC = clean ok, degraded wrong, restored ok
+*_any = same degraded->restored flip regardless of clean | p = exact McNemar, degraded vs restored
+              run                                          model     condition upscaler  n_paired  MAcc_clean  MAcc_degraded  MAcc_restored  RIE  RIC  RIE_any  RIC_any  net_any  p_mcnemar
+llava_ov2_results lmms-lab-encoder/LLaVA-OneVision-2-8B-Instruct   fps_quarter     EDEN       394        68.0           68.0           68.3    7    7       10       11        1     1.0000
+llava_ov2_results lmms-lab-encoder/LLaVA-OneVision-2-8B-Instruct    fps_eighth     EDEN       394        68.0           68.8           67.3    8    6       15        9       -6     0.3075
+llava_ov2_results lmms-lab-encoder/LLaVA-OneVision-2-8B-Instruct   fpsabs_1fps     EDEN       394        68.0           69.3           67.3   13   11       26       18       -8     0.2912
+llava_ov2_results lmms-lab-encoder/LLaVA-OneVision-2-8B-Instruct fpsabs_0_5fps     EDEN       394        68.0           65.7           64.5   20   21       34       29       -5     0.6147

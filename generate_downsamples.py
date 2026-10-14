@@ -178,7 +178,7 @@ def main():
     ap.add_argument("--csv-dir", default="original_csv")
     ap.add_argument("--out-root", default="/data/jpk322/VID-DRIFT/downsamples")
     ap.add_argument("--manifest", default="downsample.csv")
-    ap.add_argument("--max-minutes", type=float, default=20.0)
+    ap.add_argument("--max-minutes", type=float, default=5.0)
     ap.add_argument("--workers", type=int, default=4)
     ap.add_argument("--methods", nargs="*", help="limit to method prefixes, e.g. downscale h265")
     ap.add_argument("--include-clean", action="store_true",

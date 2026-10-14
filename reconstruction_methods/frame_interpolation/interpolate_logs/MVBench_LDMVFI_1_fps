@@ -1,0 +1,1742 @@
+23:30:41 [INFO] Planning (probing clips that are not yet restored) ...
+23:30:41 [INFO]   fpsabs_1fps: 3160 clips on disk, 457 of 474 manifest clips present (running only those)
+plan fpsabs_1fps:   0%|          | 0/457 [00:00<?, ?clip/s]plan fpsabs_1fps:   0%|          | 2/457 [00:00<00:23, 19.01clip/s]plan fpsabs_1fps:   1%|          | 4/457 [00:00<00:23, 19.50clip/s]plan fpsabs_1fps:   1%|▏         | 6/457 [00:00<00:23, 19.56clip/s]plan fpsabs_1fps:   2%|▏         | 8/457 [00:00<00:22, 19.59clip/s]plan fpsabs_1fps:   2%|▏         | 10/457 [00:00<00:23, 19.41clip/s]plan fpsabs_1fps:   3%|▎         | 12/457 [00:00<00:23, 18.93clip/s]plan fpsabs_1fps:   3%|▎         | 14/457 [00:00<00:23, 18.86clip/s]plan fpsabs_1fps:   4%|▎         | 16/457 [00:00<00:23, 18.92clip/s]plan fpsabs_1fps:   4%|▍         | 18/457 [00:00<00:23, 19.02clip/s]plan fpsabs_1fps:   4%|▍         | 20/457 [00:01<00:23, 18.80clip/s]plan fpsabs_1fps:   5%|▍         | 22/457 [00:01<00:22, 19.05clip/s]plan fpsabs_1fps:   5%|▌         | 24/457 [00:01<00:22, 18.99clip/s]plan fpsabs_1fps:   6%|▌         | 26/457 [00:01<00:22, 19.22clip/s]plan fpsabs_1fps:   6%|▌         | 28/457 [00:01<00:22, 18.95clip/s]plan fpsabs_1fps:   7%|▋         | 30/457 [00:01<00:22, 18.73clip/s]plan fpsabs_1fps:   7%|▋         | 32/457 [00:01<00:22, 18.99clip/s]plan fpsabs_1fps:   7%|▋         | 34/457 [00:01<00:22, 19.18clip/s]plan fpsabs_1fps:   8%|▊         | 36/457 [00:01<00:21, 19.15clip/s]plan fpsabs_1fps:   8%|▊         | 38/457 [00:02<00:23, 18.12clip/s]plan fpsabs_1fps:   9%|▉         | 40/457 [00:02<00:22, 18.58clip/s]plan fpsabs_1fps:   9%|▉         | 42/457 [00:02<00:22, 18.72clip/s]plan fpsabs_1fps:  10%|▉         | 44/457 [00:02<00:22, 18.55clip/s]plan fpsabs_1fps:  10%|█         | 46/457 [00:02<00:22, 18.67clip/s]plan fpsabs_1fps:  11%|█         | 48/457 [00:02<00:21, 18.67clip/s]plan fpsabs_1fps:  11%|█         | 50/457 [00:02<00:21, 18.96clip/s]plan fpsabs_1fps:  11%|█▏        | 52/457 [00:02<00:21, 18.80clip/s]plan fpsabs_1fps:  12%|█▏        | 54/457 [00:02<00:21, 18.57clip/s]plan fpsabs_1fps:  12%|█▏        | 56/457 [00:02<00:21, 18.64clip/s]plan fpsabs_1fps:  13%|█▎        | 58/457 [00:03<00:21, 18.63clip/s]plan fpsabs_1fps:  13%|█▎        | 60/457 [00:03<00:21, 18.35clip/s]plan fpsabs_1fps:  14%|█▎        | 62/457 [00:03<00:21, 18.20clip/s]plan fpsabs_1fps:  14%|█▍        | 64/457 [00:03<00:22, 17.60clip/s]plan fpsabs_1fps:  14%|█▍        | 66/457 [00:03<00:23, 16.94clip/s]plan fpsabs_1fps:  15%|█▍        | 68/457 [00:03<00:25, 15.02clip/s]plan fpsabs_1fps:  15%|█▌        | 70/457 [00:03<00:26, 14.34clip/s]plan fpsabs_1fps:  16%|█▌        | 72/457 [00:04<00:27, 13.85clip/s]plan fpsabs_1fps:  16%|█▌        | 74/457 [00:04<00:29, 12.88clip/s]plan fpsabs_1fps:  17%|█▋        | 76/457 [00:04<00:26, 14.16clip/s]plan fpsabs_1fps:  17%|█▋        | 78/457 [00:04<00:24, 15.23clip/s]plan fpsabs_1fps:  18%|█▊        | 80/457 [00:04<00:23, 15.87clip/s]plan fpsabs_1fps:  18%|█▊        | 82/457 [00:04<00:22, 16.44clip/s]plan fpsabs_1fps:  18%|█▊        | 84/457 [00:04<00:22, 16.87clip/s]plan fpsabs_1fps:  19%|█▉        | 86/457 [00:04<00:21, 17.07clip/s]plan fpsabs_1fps:  19%|█▉        | 88/457 [00:04<00:21, 17.36clip/s]plan fpsabs_1fps:  20%|█▉        | 90/457 [00:05<00:21, 16.91clip/s]plan fpsabs_1fps:  20%|██        | 92/457 [00:05<00:21, 16.94clip/s]plan fpsabs_1fps:  21%|██        | 94/457 [00:05<00:21, 16.88clip/s]plan fpsabs_1fps:  21%|██        | 96/457 [00:05<00:21, 16.80clip/s]plan fpsabs_1fps:  21%|██▏       | 98/457 [00:05<00:21, 16.84clip/s]plan fpsabs_1fps:  22%|██▏       | 100/457 [00:05<00:21, 16.69clip/s]plan fpsabs_1fps:  22%|██▏       | 102/457 [00:05<00:21, 16.16clip/s]plan fpsabs_1fps:  23%|██▎       | 104/457 [00:05<00:21, 16.79clip/s]plan fpsabs_1fps:  23%|██▎       | 106/457 [00:06<00:20, 17.08clip/s]plan fpsabs_1fps:  24%|██▎       | 108/457 [00:06<00:20, 16.72clip/s]plan fpsabs_1fps:  24%|██▍       | 110/457 [00:06<00:21, 15.90clip/s]plan fpsabs_1fps:  25%|██▍       | 112/457 [00:06<00:21, 16.17clip/s]plan fpsabs_1fps:  25%|██▍       | 114/457 [00:06<00:20, 16.37clip/s]plan fpsabs_1fps:  25%|██▌       | 116/457 [00:06<00:20, 16.90clip/s]plan fpsabs_1fps:  26%|██▌       | 118/457 [00:06<00:19, 17.25clip/s]plan fpsabs_1fps:  26%|██▋       | 120/457 [00:06<00:20, 16.72clip/s]plan fpsabs_1fps:  27%|██▋       | 122/457 [00:07<00:21, 15.79clip/s]plan fpsabs_1fps:  27%|██▋       | 124/457 [00:07<00:21, 15.47clip/s]plan fpsabs_1fps:  28%|██▊       | 126/457 [00:07<00:21, 15.27clip/s]plan fpsabs_1fps:  28%|██▊       | 128/457 [00:07<00:20, 16.04clip/s]plan fpsabs_1fps:  28%|██▊       | 130/457 [00:07<00:20, 16.27clip/s]plan fpsabs_1fps:  29%|██▉       | 132/457 [00:07<00:19, 16.67clip/s]plan fpsabs_1fps:  29%|██▉       | 134/457 [00:07<00:18, 17.04clip/s]plan fpsabs_1fps:  30%|██▉       | 136/457 [00:07<00:19, 16.82clip/s]plan fpsabs_1fps:  30%|███       | 138/457 [00:08<00:18, 17.29clip/s]plan fpsabs_1fps:  31%|███       | 140/457 [00:08<00:18, 17.54clip/s]plan fpsabs_1fps:  31%|███       | 142/457 [00:08<00:17, 17.60clip/s]plan fpsabs_1fps:  32%|███▏      | 144/457 [00:08<00:17, 17.87clip/s]plan fpsabs_1fps:  32%|███▏      | 146/457 [00:08<00:17, 17.77clip/s]plan fpsabs_1fps:  32%|███▏      | 148/457 [00:08<00:17, 17.85clip/s]plan fpsabs_1fps:  33%|███▎      | 150/457 [00:08<00:17, 17.70clip/s]plan fpsabs_1fps:  33%|███▎      | 152/457 [00:08<00:17, 17.60clip/s]plan fpsabs_1fps:  34%|███▎      | 154/457 [00:08<00:17, 17.58clip/s]plan fpsabs_1fps:  34%|███▍      | 156/457 [00:09<00:17, 17.67clip/s]plan fpsabs_1fps:  35%|███▍      | 158/457 [00:09<00:16, 17.74clip/s]plan fpsabs_1fps:  35%|███▌      | 160/457 [00:09<00:16, 17.53clip/s]plan fpsabs_1fps:  35%|███▌      | 162/457 [00:09<00:17, 17.30clip/s]plan fpsabs_1fps:  36%|███▌      | 164/457 [00:09<00:16, 17.35clip/s]plan fpsabs_1fps:  36%|███▋      | 166/457 [00:09<00:16, 17.45clip/s]plan fpsabs_1fps:  37%|███▋      | 168/457 [00:09<00:16, 17.47clip/s]plan fpsabs_1fps:  37%|███▋      | 170/457 [00:09<00:16, 17.38clip/s]plan fpsabs_1fps:  38%|███▊      | 172/457 [00:09<00:16, 17.36clip/s]plan fpsabs_1fps:  38%|███▊      | 174/457 [00:10<00:16, 17.27clip/s]plan fpsabs_1fps:  39%|███▊      | 176/457 [00:10<00:15, 17.60clip/s]plan fpsabs_1fps:  39%|███▉      | 178/457 [00:10<00:15, 17.71clip/s]plan fpsabs_1fps:  39%|███▉      | 180/457 [00:10<00:15, 17.91clip/s]plan fpsabs_1fps:  40%|███▉      | 182/457 [00:10<00:15, 17.72clip/s]plan fpsabs_1fps:  40%|████      | 184/457 [00:10<00:16, 17.02clip/s]plan fpsabs_1fps:  41%|████      | 186/457 [00:10<00:15, 17.55clip/s]plan fpsabs_1fps:  41%|████      | 188/457 [00:10<00:15, 17.49clip/s]plan fpsabs_1fps:  42%|████▏     | 190/457 [00:10<00:15, 17.49clip/s]plan fpsabs_1fps:  42%|████▏     | 192/457 [00:11<00:14, 17.68clip/s]plan fpsabs_1fps:  42%|████▏     | 194/457 [00:11<00:14, 17.91clip/s]plan fpsabs_1fps:  43%|████▎     | 196/457 [00:11<00:15, 17.40clip/s]plan fpsabs_1fps:  43%|████▎     | 198/457 [00:11<00:14, 17.58clip/s]plan fpsabs_1fps:  44%|████▍     | 200/457 [00:11<00:14, 17.60clip/s]plan fpsabs_1fps:  44%|████▍     | 202/457 [00:11<00:14, 17.82clip/s]plan fpsabs_1fps:  45%|████▍     | 204/457 [00:11<00:14, 17.91clip/s]plan fpsabs_1fps:  45%|████▌     | 206/457 [00:11<00:14, 17.83clip/s]plan fpsabs_1fps:  46%|████▌     | 208/457 [00:11<00:13, 18.11clip/s]plan fpsabs_1fps:  46%|████▌     | 210/457 [00:12<00:15, 16.20clip/s]plan fpsabs_1fps:  46%|████▋     | 212/457 [00:12<00:14, 16.80clip/s]plan fpsabs_1fps:  47%|████▋     | 214/457 [00:12<00:14, 17.23clip/s]plan fpsabs_1fps:  47%|████▋     | 216/457 [00:12<00:13, 17.55clip/s]plan fpsabs_1fps:  48%|████▊     | 218/457 [00:12<00:13, 17.75clip/s]plan fpsabs_1fps:  48%|████▊     | 220/457 [00:12<00:14, 16.37clip/s]plan fpsabs_1fps:  49%|████▊     | 222/457 [00:12<00:14, 15.91clip/s]plan fpsabs_1fps:  49%|████▉     | 224/457 [00:12<00:14, 16.55clip/s]plan fpsabs_1fps:  49%|████▉     | 226/457 [00:13<00:13, 17.07clip/s]plan fpsabs_1fps:  50%|████▉     | 228/457 [00:13<00:14, 16.08clip/s]plan fpsabs_1fps:  50%|█████     | 230/457 [00:13<00:16, 13.79clip/s]plan fpsabs_1fps:  51%|█████     | 232/457 [00:13<00:15, 14.97clip/s]plan fpsabs_1fps:  51%|█████     | 234/457 [00:13<00:18, 12.25clip/s]plan fpsabs_1fps:  52%|█████▏    | 236/457 [00:13<00:18, 11.74clip/s]plan fpsabs_1fps:  52%|█████▏    | 238/457 [00:14<00:18, 12.05clip/s]plan fpsabs_1fps:  53%|█████▎    | 240/457 [00:14<00:16, 12.89clip/s]plan fpsabs_1fps:  53%|█████▎    | 242/457 [00:14<00:15, 14.14clip/s]plan fpsabs_1fps:  53%|█████▎    | 244/457 [00:14<00:14, 14.80clip/s]plan fpsabs_1fps:  54%|█████▍    | 246/457 [00:14<00:13, 15.72clip/s]plan fpsabs_1fps:  54%|█████▍    | 248/457 [00:14<00:15, 13.75clip/s]plan fpsabs_1fps:  55%|█████▍    | 250/457 [00:14<00:13, 14.89clip/s]plan fpsabs_1fps:  55%|█████▌    | 252/457 [00:14<00:12, 15.79clip/s]plan fpsabs_1fps:  56%|█████▌    | 254/457 [00:15<00:15, 13.35clip/s]plan fpsabs_1fps:  56%|█████▌    | 256/457 [00:15<00:15, 13.03clip/s]plan fpsabs_1fps:  56%|█████▋    | 258/457 [00:15<00:14, 13.85clip/s]plan fpsabs_1fps:  57%|█████▋    | 260/457 [00:15<00:13, 14.95clip/s]plan fpsabs_1fps:  57%|█████▋    | 262/457 [00:15<00:13, 14.36clip/s]plan fpsabs_1fps:  58%|█████▊    | 264/457 [00:15<00:15, 12.78clip/s]plan fpsabs_1fps:  58%|█████▊    | 266/457 [00:16<00:13, 14.01clip/s]plan fpsabs_1fps:  59%|█████▊    | 268/457 [00:16<00:12, 15.11clip/s]plan fpsabs_1fps:  59%|█████▉    | 270/457 [00:16<00:13, 13.84clip/s]plan fpsabs_1fps:  60%|█████▉    | 272/457 [00:16<00:13, 13.38clip/s]plan fpsabs_1fps:  60%|█████▉    | 274/457 [00:16<00:13, 13.21clip/s]plan fpsabs_1fps:  60%|██████    | 276/457 [00:16<00:12, 14.45clip/s]plan fpsabs_1fps:  61%|██████    | 278/457 [00:16<00:11, 15.48clip/s]plan fpsabs_1fps:  61%|██████▏   | 280/457 [00:16<00:10, 16.27clip/s]plan fpsabs_1fps:  62%|██████▏   | 282/457 [00:17<00:10, 16.88clip/s]plan fpsabs_1fps:  62%|██████▏   | 284/457 [00:17<00:10, 17.28clip/s]plan fpsabs_1fps:  63%|██████▎   | 286/457 [00:17<00:09, 17.64clip/s]plan fpsabs_1fps:  63%|██████▎   | 288/457 [00:17<00:09, 17.87clip/s]plan fpsabs_1fps:  63%|██████▎   | 290/457 [00:17<00:09, 18.02clip/s]plan fpsabs_1fps:  64%|██████▍   | 292/457 [00:17<00:09, 18.06clip/s]plan fpsabs_1fps:  64%|██████▍   | 294/457 [00:17<00:08, 18.13clip/s]plan fpsabs_1fps:  65%|██████▍   | 296/457 [00:17<00:09, 16.41clip/s]plan fpsabs_1fps:  65%|██████▌   | 298/457 [00:17<00:09, 16.92clip/s]plan fpsabs_1fps:  66%|██████▌   | 300/457 [00:18<00:09, 17.26clip/s]plan fpsabs_1fps:  66%|██████▌   | 302/457 [00:18<00:08, 17.51clip/s]plan fpsabs_1fps:  67%|██████▋   | 304/457 [00:18<00:08, 17.75clip/s]plan fpsabs_1fps:  67%|██████▋   | 306/457 [00:18<00:08, 18.13clip/s]plan fpsabs_1fps:  67%|██████▋   | 308/457 [00:18<00:08, 18.19clip/s]plan fpsabs_1fps:  68%|██████▊   | 310/457 [00:18<00:08, 18.23clip/s]plan fpsabs_1fps:  68%|██████▊   | 312/457 [00:18<00:08, 18.02clip/s]plan fpsabs_1fps:  69%|██████▊   | 314/457 [00:18<00:07, 18.14clip/s]plan fpsabs_1fps:  69%|██████▉   | 316/457 [00:18<00:07, 18.20clip/s]plan fpsabs_1fps:  70%|██████▉   | 318/457 [00:19<00:07, 18.26clip/s]plan fpsabs_1fps:  70%|███████   | 320/457 [00:19<00:07, 18.19clip/s]plan fpsabs_1fps:  70%|███████   | 322/457 [00:19<00:07, 18.22clip/s]plan fpsabs_1fps:  71%|███████   | 324/457 [00:19<00:07, 18.29clip/s]plan fpsabs_1fps:  71%|███████▏  | 326/457 [00:19<00:07, 18.24clip/s]plan fpsabs_1fps:  72%|███████▏  | 328/457 [00:19<00:08, 15.53clip/s]plan fpsabs_1fps:  72%|███████▏  | 330/457 [00:19<00:07, 16.27clip/s]plan fpsabs_1fps:  73%|███████▎  | 332/457 [00:19<00:07, 16.94clip/s]plan fpsabs_1fps:  73%|███████▎  | 334/457 [00:19<00:07, 17.45clip/s]plan fpsabs_1fps:  74%|███████▎  | 336/457 [00:20<00:06, 17.69clip/s]plan fpsabs_1fps:  74%|███████▍  | 338/457 [00:20<00:06, 17.81clip/s]plan fpsabs_1fps:  74%|███████▍  | 340/457 [00:20<00:06, 17.96clip/s]plan fpsabs_1fps:  75%|███████▍  | 342/457 [00:20<00:06, 18.11clip/s]plan fpsabs_1fps:  75%|███████▌  | 344/457 [00:20<00:06, 18.12clip/s]plan fpsabs_1fps:  76%|███████▌  | 346/457 [00:20<00:06, 18.14clip/s]plan fpsabs_1fps:  76%|███████▌  | 348/457 [00:20<00:05, 18.18clip/s]plan fpsabs_1fps:  77%|███████▋  | 350/457 [00:20<00:05, 18.24clip/s]plan fpsabs_1fps:  77%|███████▋  | 352/457 [00:20<00:05, 18.28clip/s]plan fpsabs_1fps:  77%|███████▋  | 354/457 [00:21<00:05, 18.25clip/s]plan fpsabs_1fps:  78%|███████▊  | 356/457 [00:21<00:05, 18.27clip/s]plan fpsabs_1fps:  78%|███████▊  | 358/457 [00:21<00:05, 17.50clip/s]plan fpsabs_1fps:  79%|███████▉  | 360/457 [00:21<00:05, 17.69clip/s]plan fpsabs_1fps:  79%|███████▉  | 362/457 [00:21<00:06, 14.38clip/s]plan fpsabs_1fps:  80%|███████▉  | 364/457 [00:21<00:06, 15.43clip/s]plan fpsabs_1fps:  80%|████████  | 366/457 [00:21<00:06, 13.70clip/s]plan fpsabs_1fps:  81%|████████  | 368/457 [00:22<00:07, 11.99clip/s]plan fpsabs_1fps:  81%|████████  | 370/457 [00:22<00:07, 11.57clip/s]plan fpsabs_1fps:  81%|████████▏ | 372/457 [00:22<00:08, 10.60clip/s]plan fpsabs_1fps:  82%|████████▏ | 374/457 [00:22<00:07, 10.56clip/s]plan fpsabs_1fps:  82%|████████▏ | 376/457 [00:22<00:07, 10.90clip/s]plan fpsabs_1fps:  83%|████████▎ | 378/457 [00:23<00:07, 10.58clip/s]plan fpsabs_1fps:  83%|████████▎ | 380/457 [00:23<00:07,  9.98clip/s]plan fpsabs_1fps:  84%|████████▎ | 382/457 [00:23<00:07, 10.49clip/s]plan fpsabs_1fps:  84%|████████▍ | 384/457 [00:23<00:07,  9.93clip/s]plan fpsabs_1fps:  84%|████████▍ | 386/457 [00:23<00:06, 10.25clip/s]plan fpsabs_1fps:  85%|████████▍ | 388/457 [00:24<00:06, 10.39clip/s]plan fpsabs_1fps:  85%|████████▌ | 390/457 [00:24<00:06,  9.79clip/s]plan fpsabs_1fps:  86%|████████▌ | 392/457 [00:24<00:06, 10.15clip/s]plan fpsabs_1fps:  86%|████████▌ | 394/457 [00:24<00:06,  9.98clip/s]plan fpsabs_1fps:  87%|████████▋ | 396/457 [00:24<00:05, 10.38clip/s]plan fpsabs_1fps:  87%|████████▋ | 398/457 [00:25<00:05,  9.88clip/s]plan fpsabs_1fps:  88%|████████▊ | 400/457 [00:25<00:05, 10.27clip/s]plan fpsabs_1fps:  88%|████████▊ | 402/457 [00:25<00:04, 11.25clip/s]plan fpsabs_1fps:  88%|████████▊ | 404/457 [00:25<00:04, 11.06clip/s]plan fpsabs_1fps:  89%|████████▉ | 406/457 [00:25<00:04, 11.27clip/s]plan fpsabs_1fps:  89%|████████▉ | 408/457 [00:25<00:04, 11.29clip/s]plan fpsabs_1fps:  90%|████████▉ | 410/457 [00:26<00:04, 10.82clip/s]plan fpsabs_1fps:  90%|█████████ | 412/457 [00:26<00:04, 10.11clip/s]plan fpsabs_1fps:  91%|█████████ | 414/457 [00:26<00:04,  9.92clip/s]plan fpsabs_1fps:  91%|█████████ | 416/457 [00:26<00:03, 10.30clip/s]plan fpsabs_1fps:  91%|█████████▏| 418/457 [00:26<00:03, 10.45clip/s]plan fpsabs_1fps:  92%|█████████▏| 420/457 [00:27<00:03, 10.42clip/s]plan fpsabs_1fps:  92%|█████████▏| 422/457 [00:27<00:03,  9.77clip/s]plan fpsabs_1fps:  93%|█████████▎| 424/457 [00:27<00:03, 10.24clip/s]plan fpsabs_1fps:  93%|█████████▎| 426/457 [00:27<00:03,  9.87clip/s]plan fpsabs_1fps:  94%|█████████▎| 428/457 [00:27<00:02,  9.86clip/s]plan fpsabs_1fps:  94%|█████████▍| 430/457 [00:28<00:02, 10.10clip/s]plan fpsabs_1fps:  95%|█████████▍| 432/457 [00:28<00:02, 10.20clip/s]plan fpsabs_1fps:  95%|█████████▍| 434/457 [00:28<00:02, 10.47clip/s]plan fpsabs_1fps:  95%|█████████▌| 436/457 [00:28<00:01, 10.91clip/s]plan fpsabs_1fps:  96%|█████████▌| 438/457 [00:28<00:01, 11.38clip/s]plan fpsabs_1fps:  96%|█████████▋| 440/457 [00:29<00:01, 10.99clip/s]plan fpsabs_1fps:  97%|█████████▋| 442/457 [00:29<00:01, 10.98clip/s]plan fpsabs_1fps:  97%|█████████▋| 444/457 [00:29<00:01, 10.92clip/s]plan fpsabs_1fps:  98%|█████████▊| 446/457 [00:29<00:00, 11.02clip/s]plan fpsabs_1fps:  98%|█████████▊| 448/457 [00:29<00:00, 11.87clip/s]plan fpsabs_1fps:  98%|█████████▊| 450/457 [00:29<00:00, 12.83clip/s]plan fpsabs_1fps:  99%|█████████▉| 452/457 [00:29<00:00, 14.24clip/s]plan fpsabs_1fps:  99%|█████████▉| 454/457 [00:30<00:00, 13.67clip/s]plan fpsabs_1fps: 100%|█████████▉| 456/457 [00:30<00:00, 14.89clip/s]plan fpsabs_1fps: 100%|██████████| 457/457 [00:30<00:00, 15.08clip/s]
+23:31:11 [INFO] [LDMVFI] dataset=MVBench | conditions=['fpsabs_1fps']
+23:31:11 [INFO]   total=457 done=0 todo=457 skipped=0
+/home/jpk322/anaconda3/envs/ldmvfi/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: libtorch_cuda_cu.so: cannot open shared object file: No such file or directory
+  warn(f"Failed to load image Python extension: {e}")
+/home/jpk322/anaconda3/envs/ldmvfi/lib/python3.9/site-packages/pytorch_lightning/utilities/imports.py:22: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  import pkg_resources
+23:31:14 [INFO] Loading LDMVFI once: config=configs/ldm/ldmvfi-vqflow-f32-c256-concat_max.yaml ckpt=/data/jpk322/VID-DRIFT/weights/LDMVFI/ldmvfi-vqflow-f32-c256-concat_max.ckpt ...
+23:31:20 [INFO] LDMVFI ready on cuda (sampler=DDIM S=40 eta=1.0, fp16=False, pad_mult=32).
+LatentDiffusionVFI: Running in eps-prediction mode
+DiffusionWrapper has 416.46 M params.
+Keeping EMAs of 628.
+making attention of type 'max' with 256 in_channels
+Working with z of shape (1, 3, 16, 16) = 768 dimensions.
+making attention of type 'max' with 256 in_channels
+Using first stage also as cond stage.
+LDMVFI/MVBench:   0%|          | 0/457 [00:00<?, ?clip/s]23:31:20 [INFO] [fpsabs_1fps] 0HGNK.mp4  1->24 fps (passes=5)
+
+  LDMVFI x32: 0frame [00:00, ?frame/s][A
+  LDMVFI x32: 1frame [00:00,  4.97frame/s][A
+  LDMVFI x32: 2frame [00:44, 25.89s/frame][A
+  LDMVFI x32: 3frame [01:26, 33.59s/frame][A
+  LDMVFI x32: 4frame [02:09, 37.31s/frame][A
+  LDMVFI x32: 5frame [02:52, 39.41s/frame][A
+  LDMVFI x32: 6frame [03:36, 40.71s/frame][A
+  LDMVFI x32: 7frame [04:19, 41.53s/frame][A
+  LDMVFI x32: 8frame [05:02, 42.06s/frame][A
+  LDMVFI x32: 9frame [05:45, 42.41s/frame][A
+  LDMVFI x32: 10frame [06:29, 42.66s/frame][A
+  LDMVFI x32: 11frame [07:12, 42.83s/frame][A
+  LDMVFI x32: 12frame [07:55, 42.97s/frame][A
+  LDMVFI x32: 13frame [08:38, 43.08s/frame][A
+  LDMVFI x32: 14frame [09:22, 43.19s/frame][A
+  LDMVFI x32: 15frame [10:05, 43.29s/frame][A
+  LDMVFI x32: 16frame [10:49, 43.30s/frame][A
+  LDMVFI x32: 17frame [11:32, 43.24s/frame][A
+  LDMVFI x32: 18frame [12:15, 43.14s/frame][A
+  LDMVFI x32: 19frame [12:58, 43.14s/frame][A
+  LDMVFI x32: 20frame [13:41, 43.11s/frame][A
+  LDMVFI x32: 21frame [14:24, 43.14s/frame][A
+  LDMVFI x32: 22frame [15:07, 43.17s/frame][A
+  LDMVFI x32: 23frame [15:51, 43.21s/frame][A
+  LDMVFI x32: 24frame [16:34, 43.22s/frame][A
+  LDMVFI x32: 25frame [17:17, 43.31s/frame][A
+  LDMVFI x32: 26frame [18:01, 43.35s/frame][A
+  LDMVFI x32: 27frame [18:44, 43.38s/frame][A
+  LDMVFI x32: 28frame [19:28, 43.34s/frame][A
+  LDMVFI x32: 29frame [20:11, 43.38s/frame][A
+  LDMVFI x32: 30frame [20:54, 43.39s/frame][A
+  LDMVFI x32: 31frame [21:38, 43.42s/frame][A
+  LDMVFI x32: 32frame [22:21, 43.31s/frame][A
+  LDMVFI x32: 33frame [23:04, 43.17s/frame][A
+  LDMVFI x32: 34frame [23:47, 43.13s/frame][A
+  LDMVFI x32: 35frame [24:30, 43.06s/frame][A
+                                           [A23:55:51 [INFO]   ok  480x360  35 frames->1089  peakVRAM=6527.8MB  1470.7s
+LDMVFI/MVBench:   0%|          | 1/457 [24:30<186:17:07, 1470.67s/clip]23:55:51 [INFO] [fpsabs_1fps] 103292.mp4  1->12 fps (passes=4)
+
+  LDMVFI x16: 0frame [00:00, ?frame/s][A
+  LDMVFI x16: 1frame [00:00,  6.79frame/s][A
+                                          [A23:55:53 [ERROR]   fail on 103292.mp4: AssertionError: 
+LDMVFI/MVBench:   0%|          | 2/457 [24:32<76:40:55, 606.71s/clip]  23:55:53 [INFO] [fpsabs_1fps] 108710.mp4  1->12 fps (passes=4)
+
+  LDMVFI x16: 0frame [00:00, ?frame/s][A
+  LDMVFI x16: 1frame [00:00,  7.22frame/s][A
+                                          [A23:55:55 [ERROR]   fail on 108710.mp4: AssertionError: 
+LDMVFI/MVBench:   1%|          | 3/457 [24:34<41:40:52, 330.51s/clip]23:55:55 [INFO] [fpsabs_1fps] 1119_frame36.mp4  1->6 fps (passes=3)
+
+  LDMVFI x8: 0frame [00:00, ?frame/s][A
+  LDMVFI x8: 1frame [00:00,  7.05frame/s][A
+  LDMVFI x8: 2frame [00:09,  5.55s/frame][A
+  LDMVFI x8: 3frame [00:18,  7.22s/frame][A
+  LDMVFI x8: 4frame [00:27,  8.04s/frame][A
+  LDMVFI x8: 5frame [00:37,  8.51s/frame][A
+  LDMVFI x8: 6frame [00:46,  8.83s/frame][A
+                                         [A23:56:42 [INFO]   ok  224x224  6 frames->41  peakVRAM=6508.5MB  47.2s
+LDMVFI/MVBench:   1%|          | 4/457 [25:21<27:30:52, 218.66s/clip]23:56:42 [INFO] [fpsabs_1fps] 126925.mp4  1->12 fps (passes=4)
+
+  LDMVFI x16: 0frame [00:00, ?frame/s][A
+  LDMVFI x16: 1frame [00:00,  6.95frame/s][A
+                                          [A23:56:44 [ERROR]   fail on 126925.mp4: AssertionError: 
+LDMVFI/MVBench:   1%|          | 5/457 [25:23<17:38:19, 140.49s/clip]23:56:44 [INFO] [fpsabs_1fps] 157974.mp4  1->12 fps (passes=4)
+
+  LDMVFI x16: 0frame [00:00, ?frame/s][A
+  LDMVFI x16: 1frame [00:00,  7.46frame/s][A
+                                          [A23:56:46 [ERROR]   fail on 157974.mp4: AssertionError: 
+LDMVFI/MVBench:   1%|▏         | 6/457 [25:25<11:41:32, 93.33s/clip] 23:56:46 [INFO] [fpsabs_1fps] 1581_frame33.mp4  1->6 fps (passes=3)
+
+  LDMVFI x8: 0frame [00:00, ?frame/s][A
+  LDMVFI x8: 1frame [00:00,  6.86frame/s][A
+  LDMVFI x8: 2frame [00:09,  5.59s/frame][A
+  LDMVFI x8: 3frame [00:18,  7.26s/frame][A
+  LDMVFI x8: 4frame [00:28,  8.08s/frame][A
+  LDMVFI x8: 5frame [00:37,  8.53s/frame][A
+  LDMVFI x8: 6frame [00:46,  8.81s/frame][A
+                                         [A23:57:33 [INFO]   ok  224x224  6 frames->41  peakVRAM=6507.0MB  47.2s
+LDMVFI/MVBench:   2%|▏         | 7/457 [26:12<9:46:58, 78.26s/clip] 23:57:33 [INFO] [fpsabs_1fps] 1720_frame34.mp4  1->6 fps (passes=3)
+
+  LDMVFI x8: 0frame [00:00, ?frame/s][A
+  LDMVFI x8: 1frame [00:00,  7.48frame/s][A
+  LDMVFI x8: 2frame [00:09,  5.50s/frame][A
+  LDMVFI x8: 3frame [00:18,  7.15s/frame][A
+  LDMVFI x8: 4frame [00:27,  7.92s/frame][A
+  LDMVFI x8: 5frame [00:36,  8.35s/frame][A
+  LDMVFI x8: 6frame [00:45,  8.65s/frame][A
+                                         [A23:58:19 [INFO]   ok  224x224  6 frames->41  peakVRAM=6507.0MB  46.3s
+LDMVFI/MVBench:   2%|▏         | 8/457 [26:58<8:29:36, 68.10s/clip]23:58:19 [INFO] [fpsabs_1fps] 178214.mp4  1->12 fps (passes=4)
+
+  LDMVFI x16: 0frame [00:00, ?frame/s][A
+  LDMVFI x16: 1frame [00:00,  6.76frame/s][A
+                                          [A23:58:21 [ERROR]   fail on 178214.mp4: AssertionError: 
+LDMVFI/MVBench:   2%|▏         | 9/457 [27:00<5:53:49, 47.39s/clip]23:58:21 [INFO] [fpsabs_1fps] 181432.mp4  1->12 fps (passes=4)
+
+  LDMVFI x16: 0frame [00:00, ?frame/s][A
+  LDMVFI x16: 1frame [00:00,  7.03frame/s][A
+                                          [A23:58:23 [ERROR]   fail on 181432.mp4: AssertionError: 
+LDMVFI/MVBench:   2%|▏         | 10/457 [27:02<4:08:13, 33.32s/clip]23:58:23 [INFO] [fpsabs_1fps] 1851_frame34.mp4  1->6 fps (passes=3)
+
+  LDMVFI x8: 0frame [00:00, ?frame/s][A
+  LDMVFI x8: 1frame [00:00,  7.05frame/s][A
+  LDMVFI x8: 2frame [00:09,  5.51s/frame][A
+  LDMVFI x8: 3frame [00:18,  7.19s/frame][A
+  LDMVFI x8: 4frame [00:27,  8.01s/frame][A
+  LDMVFI x8: 5frame [00:37,  8.44s/frame][A
+  LDMVFI x8: 6frame [00:46,  8.67s/frame][A
+                                         [A23:59:10 [INFO]   ok  224x224  6 frames->41  peakVRAM=6507.0MB  46.6s
+LDMVFI/MVBench:   2%|▏         | 11/457 [27:49<4:37:56, 37.39s/clip]23:59:10 [INFO] [fpsabs_1fps] 1GII3.mp4  1->30 fps (passes=5)
+
+  LDMVFI x32: 0frame [00:00, ?frame/s][A
+  LDMVFI x32: 1frame [00:00,  5.21frame/s][A
+  LDMVFI x32: 2frame [00:45, 26.76s/frame][A
+  LDMVFI x32: 3frame [01:30, 35.12s/frame][A
+  LDMVFI x32: 4frame [02:15, 39.01s/frame][A
+  LDMVFI x32: 5frame [03:00, 41.14s/frame][A
+  LDMVFI x32: 6frame [03:45, 42.54s/frame][A
+  LDMVFI x32: 7frame [04:30, 43.40s/frame][A
+  LDMVFI x32: 8frame [05:15, 43.90s/frame][A
+  LDMVFI x32: 9frame [06:00, 44.27s/frame][A
+  LDMVFI x32: 10frame [06:46, 44.52s/frame][A
+  LDMVFI x32: 11frame [07:31, 44.70s/frame][A
+  LDMVFI x32: 12frame [08:16, 44.86s/frame][A
+  LDMVFI x32: 13frame [09:01, 44.99s/frame][A
+  LDMVFI x32: 14frame [09:46, 45.05s/frame][A
+  LDMVFI x32: 15frame [10:31, 45.04s/frame][A
+  LDMVFI x32: 16frame [11:16, 45.04s/frame][A
+  LDMVFI x32: 17frame [12:02, 45.16s/frame][A
+  LDMVFI x32: 18frame [12:47, 45.19s/frame][A
+  LDMVFI x32: 19frame [13:32, 45.15s/frame][A
+  LDMVFI x32: 20frame [14:17, 45.04s/frame][A
+  LDMVFI x32: 21frame [15:02, 45.09s/frame][A
+  LDMVFI x32: 22frame [15:48, 45.36s/frame][A
+  LDMVFI x32: 23frame [16:33, 45.19s/frame][A
+  LDMVFI x32: 24frame [17:18, 45.18s/frame][A
+  LDMVFI x32: 25frame [18:03, 45.12s/frame][A
+  LDMVFI x32: 26frame [18:48, 45.02s/frame][A
+  LDMVFI x32: 27frame [19:33, 45.00s/frame][A
+  LDMVFI x32: 28frame [20:18, 45.01s/frame][A
+  LDMVFI x32: 29frame [21:03, 45.01s/frame][A
+                                           [A00:20:13 [INFO]   ok  640x480  29 frames->897  peakVRAM=6545.6MB  1263.8s
+LDMVFI/MVBench:   3%|▎         | 12/457 [48:53<50:44:28, 410.49s/clip]00:20:13 [INFO] [fpsabs_1fps] 1ZBUS.mp4  1->29.9 fps (passes=5)
+
+  LDMVFI x32: 0frame [00:00, ?frame/s][A
+  LDMVFI x32: 1frame [00:00,  6.03frame/s][A
+  LDMVFI x32: 2frame [00:44, 26.01s/frame][A
+  LDMVFI x32: 3frame [01:27, 33.77s/frame][A
+  LDMVFI x32: 4frame [02:11, 37.74s/frame][A
+  LDMVFI x32: 5frame [02:53, 39.56s/frame][A
+  LDMVFI x32: 6frame [03:36, 40.70s/frame][A
+  LDMVFI x32: 7frame [04:19, 41.44s/frame][A
+  LDMVFI x32: 8frame [05:02, 42.00s/frame][A
+  LDMVFI x32: 9frame [05:46, 42.36s/frame][A
+  LDMVFI x32: 10frame [06:29, 42.66s/frame][A
+  LDMVFI x32: 11frame [07:12, 42.74s/frame][A
+  LDMVFI x32: 12frame [07:55, 42.72s/frame][A
+  LDMVFI x32: 13frame [08:38, 42.88s/frame][A
+  LDMVFI x32: 14frame [09:21, 43.05s/frame][A
+  LDMVFI x32: 15frame [10:04, 43.05s/frame][A
+  LDMVFI x32: 16frame [10:48, 43.13s/frame][A
+  LDMVFI x32: 17frame [11:31, 43.15s/frame][A
+  LDMVFI x32: 18frame [12:14, 43.08s/frame][A
+  LDMVFI x32: 19frame [12:57, 43.07s/frame][A
+  LDMVFI x32: 20frame [13:40, 43.14s/frame][A
+  LDMVFI x32: 21frame [14:24, 43.24s/frame][A
+                                           [A00:34:38 [INFO]   ok  480x270  21 frames->641  peakVRAM=6526.9MB  864.5s
+LDMVFI/MVBench:   3%|▎         | 13/457 [1:03:17<67:35:20, 548.02s/clip]00:34:38 [INFO] [fpsabs_1fps] 2291_frame31.mp4  1->6 fps (passes=3)
+
+  LDMVFI x8: 0frame [00:00, ?frame/s][A
+  LDMVFI x8: 1frame [00:00,  7.05frame/s][A
+  LDMVFI x8: 2frame [00:09,  5.53s/frame][A
+  LDMVFI x8: 3frame [00:18,  7.22s/frame][A
+  LDMVFI x8: 4frame [00:28,  8.06s/frame][A
+  LDMVFI x8: 5frame [00:37,  8.48s/frame][A
+                                         [A00:35:16 [INFO]   ok  224x224  5 frames->33  peakVRAM=6514.5MB  37.6s
+LDMVFI/MVBench:   3%|▎         | 14/457 [1:03:55<48:28:00, 393.86s/clip]00:35:16 [INFO] [fpsabs_1fps] 239_frame55.mp4  1->6 fps (passes=3)
+
+  LDMVFI x8: 0frame [00:00, ?frame/s][A
+  LDMVFI x8: 1frame [00:00,  7.01frame/s][A
+  LDMVFI x8: 2frame [00:09,  5.61s/frame][A
+  LDMVFI x8: 3frame [00:18,  7.35s/frame][A
+  LDMVFI x8: 4frame [00:28,  8.13s/frame][A
+  LDMVFI x8: 5frame [00:37,  8.61s/frame][A
+  LDMVFI x8: 6frame [00:47,  8.85s/frame][A
+  LDMVFI x8: 7frame [00:56,  9.04s/frame][A
+  LDMVFI x8: 8frame [01:05,  9.14s/frame][A
+  LDMVFI x8: 9frame [01:15,  9.18s/frame][A
+                                         [A00:36:31 [INFO]   ok  224x224  9 frames->65  peakVRAM=6514.5MB  75.6s
+LDMVFI/MVBench:   3%|▎         | 15/457 [1:05:10<36:34:40, 297.92s/clip]00:36:31 [INFO] [fpsabs_1fps] 23YS1.mp4  1->25 fps (passes=5)
+
+  LDMVFI x32: 0frame [00:00, ?frame/s][A
+  LDMVFI x32: 1frame [00:00,  6.27frame/s][A
+  LDMVFI x32: 2frame [00:43, 25.53s/frame][A
+  LDMVFI x32: 3frame [01:26, 33.75s/frame][A
+  LDMVFI x32: 4frame [02:10, 37.43s/frame][A
+  LDMVFI x32: 5frame [02:53, 39.56s/frame][A
+  LDMVFI x32: 6frame [03:36, 40.71s/frame][A
+  LDMVFI x32: 7frame [04:19, 41.50s/frame][A
+  LDMVFI x32: 8frame [05:02, 41.92s/frame][A
+  LDMVFI x32: 9frame [05:45, 42.21s/frame][A
+  LDMVFI x32: 10frame [06:27, 42.37s/frame][A
+  LDMVFI x32: 11frame [07:10, 42.48s/frame][A
+  LDMVFI x32: 12frame [07:53, 42.62s/frame][A
+  LDMVFI x32: 13frame [08:36, 42.75s/frame][A
+  LDMVFI x32: 14frame [09:19, 42.76s/frame][A
+  LDMVFI x32: 15frame [10:02, 42.79s/frame][A
+  LDMVFI x32: 16frame [10:45, 42.85s/frame][A
+  LDMVFI x32: 17frame [11:28, 42.86s/frame][A
+  LDMVFI x32: 18frame [12:10, 42.81s/frame][A
+  LDMVFI x32: 19frame [12:53, 42.80s/frame][A
+  LDMVFI x32: 20frame [13:36, 42.77s/frame][A
+  LDMVFI x32: 21frame [14:18, 42.76s/frame][A
+  LDMVFI x32: 22frame [15:01, 42.75s/frame][A
+  LDMVFI x32: 23frame [15:44, 42.82s/frame][A
+  LDMVFI x32: 24frame [16:27, 42.81s/frame][A
+  LDMVFI x32: 25frame [17:10, 42.78s/frame][A
+  LDMVFI x32: 26frame [17:52, 42.76s/frame][A
+  LDMVFI x32: 27frame [18:35, 42.74s/frame][A
+  LDMVFI x32: 28frame [19:18, 42.77s/frame][A
+  LDMVFI x32: 29frame [20:02, 43.13s/frame][A
+  LDMVFI x32: 30frame [20:46, 43.34s/frame][A
+  LDMVFI x32: 31frame [21:29, 43.23s/frame][A
+  LDMVFI x32: 32frame [22:12, 43.14s/frame][A
+  LDMVFI x32: 33frame [22:55, 43.13s/frame][A
+  LDMVFI x32: 34frame [23:38, 43.10s/frame][A
+  LDMVFI x32: 35frame [24:21, 43.12s/frame][A
+  LDMVFI x32: 36frame [25:04, 43.08s/frame][A
+  LDMVFI x32: 37frame [25:47, 43.08s/frame][A
+  LDMVFI x32: 38frame [26:30, 43.20s/frame][A
+  LDMVFI x32: 39frame [27:14, 43.29s/frame][A
+  LDMVFI x32: 40frame [27:57, 43.15s/frame][A
+  LDMVFI x32: 41frame [28:40, 43.14s/frame][A
+  LDMVFI x32: 42frame [29:23, 43.06s/frame][A
+  LDMVFI x32: 43frame [30:06, 43.16s/frame][A
+  LDMVFI x32: 44frame [30:49, 43.19s/frame][A
+  LDMVFI x32: 45frame [31:32, 43.13s/frame][A
+  LDMVFI x32: 46frame [32:16, 43.12s/frame][A
+  LDMVFI x32: 47frame [32:59, 43.14s/frame][A
+  LDMVFI x32: 48frame [33:42, 43.15s/frame][A
+  LDMVFI x32: 49frame [34:25, 43.16s/frame][A
+  LDMVFI x32: 50frame [35:08, 43.16s/frame][A
+  LDMVFI x32: 51frame [35:51, 43.12s/frame][A
+  LDMVFI x32: 52frame [36:34, 43.05s/frame][A
+  LDMVFI x32: 53frame [37:17, 43.02s/frame][A
+  LDMVFI x32: 54frame [38:00, 43.04s/frame][A
+  LDMVFI x32: 55frame [38:44, 43.12s/frame][A
+  LDMVFI x32: 56frame [39:27, 43.16s/frame][A
+  LDMVFI x32: 57frame [40:10, 43.12s/frame][A
+  LDMVFI x32: 58frame [40:53, 43.08s/frame][A
+  LDMVFI x32: 59frame [41:36, 43.07s/frame][A
+  LDMVFI x32: 60frame [42:19, 43.23s/frame][A
+                                           [A01:18:52 [INFO]   ok  480x270  60 frames->1889  peakVRAM=6525.7MB  2540.3s
+LDMVFI/MVBench:   4%|▎         | 16/457 [1:47:31<119:10:42, 972.89s/clip]01:18:52 [INFO] [fpsabs_1fps] 24902.mp4  1->12 fps (passes=4)
+
+  LDMVFI x16: 0frame [00:00, ?frame/s][A
+  LDMVFI x16: 1frame [00:00,  6.71frame/s][A
+                                          [A01:18:53 [ERROR]   fail on 24902.mp4: AssertionError: 
+LDMVFI/MVBench:   4%|▎         | 17/457 [1:47:32<83:13:12, 680.89s/clip] 01:18:53 [INFO] [fpsabs_1fps] 2751_frame49.mp4  1->6 fps (passes=3)
+
+  LDMVFI x8: 0frame [00:00, ?frame/s][A
+  LDMVFI x8: 1frame [00:00,  6.81frame/s][A
+  LDMVFI x8: 2frame [00:09,  5.47s/frame][A
+  LDMVFI x8: 3frame [00:18,  7.22s/frame][A
+  LDMVFI x8: 4frame [00:27,  8.03s/frame][A
+  LDMVFI x8: 5frame [00:37,  8.45s/frame][A
+  LDMVFI x8: 6frame [00:46,  8.70s/frame][A
+  LDMVFI x8: 7frame [00:55,  8.89s/frame][A
+  LDMVFI x8: 8frame [01:04,  8.99s/frame][A
+                                         [A01:19:59 [INFO]   ok  224x224  8 frames->57  peakVRAM=6513.3MB  65.2s
+LDMVFI/MVBench:   4%|▍         | 18/457 [1:48:38<60:28:14, 495.89s/clip]01:19:59 [INFO] [fpsabs_1fps] 2763_frame73.mp4  1->6 fps (passes=3)
+
+  LDMVFI x8: 0frame [00:00, ?frame/s][A
+  LDMVFI x8: 1frame [00:00,  7.33frame/s][A
+  LDMVFI x8: 2frame [00:09,  5.50s/frame][A
+  LDMVFI x8: 3frame [00:18,  7.20s/frame][A
+  LDMVFI x8: 4frame [00:27,  8.04s/frame][A
+  LDMVFI x8: 5frame [00:37,  8.46s/frame][A
+  LDMVFI x8: 6frame [00:46,  8.71s/frame][A
+  LDMVFI x8: 7frame [00:55,  8.87s/frame][A
+  LDMVFI x8: 8frame [01:04,  8.99s/frame][A
+  LDMVFI x8: 9frame [01:13,  9.05s/frame][A
+  LDMVFI x8: 10frame [01:23,  9.09s/frame][A
+  LDMVFI x8: 11frame [01:32,  9.15s/frame][A
+  LDMVFI x8: 12frame [01:41,  9.19s/frame][A
+                                          [A01:21:41 [INFO]   ok  224x224  12 frames->89  peakVRAM=6513.3MB  102.1s
+LDMVFI/MVBench:   4%|▍         | 19/457 [1:50:20<45:56:36, 377.62s/clip]01:21:41 [INFO] [fpsabs_1fps] 2Y8XQ.mp4  1->6.12 fps (passes=3)
+
+  LDMVFI x8: 0frame [00:00, ?frame/s][A
+  LDMVFI x8: 1frame [00:00,  5.46frame/s][A
+  LDMVFI x8: 2frame [00:10,  6.08s/frame][A
+  LDMVFI x8: 3frame [00:20,  7.93s/frame][A
+  LDMVFI x8: 4frame [00:30,  8.82s/frame][A
+  LDMVFI x8: 5frame [00:40,  9.30s/frame][A
+  LDMVFI x8: 6frame [00:50,  9.58s/frame][A
+  LDMVFI x8: 7frame [01:01,  9.79s/frame][A
+  LDMVFI x8: 8frame [01:11,  9.90s/frame][A
+  LDMVFI x8: 9frame [01:21,  9.99s/frame][A
+  LDMVFI x8: 10frame [01:31, 10.06s/frame][A
+  LDMVFI x8: 11frame [01:41, 10.10s/frame][A
+  LDMVFI x8: 12frame [01:52, 10.12s/frame][A
+  LDMVFI x8: 13frame [02:02, 10.13s/frame][A
+  LDMVFI x8: 14frame [02:12, 10.14s/frame][A
+  LDMVFI x8: 15frame [02:22, 10.15s/frame][A
+  LDMVFI x8: 16frame [02:32, 10.14s/frame][A
+  LDMVFI x8: 17frame [02:42, 10.15s/frame][A
+  LDMVFI x8: 18frame [02:53, 10.17s/frame][A
+  LDMVFI x8: 19frame [03:03, 10.15s/frame][A
+  LDMVFI x8: 20frame [03:13, 10.13s/frame][A
+  LDMVFI x8: 21frame [03:23, 10.14s/frame][A
+  LDMVFI x8: 22frame [03:33, 10.15s/frame][A
+  LDMVFI x8: 23frame [03:43, 10.14s/frame][A
+  LDMVFI x8: 24frame [03:53, 10.14s/frame][A
+  LDMVFI x8: 25frame [04:03, 10.13s/frame][A
+  LDMVFI x8: 26frame [04:14, 10.12s/frame][A
+  LDMVFI x8: 27frame [04:24, 10.12s/frame][A
+  LDMVFI x8: 28frame [04:34, 10.16s/frame][A
+  LDMVFI x8: 29frame [04:44, 10.15s/frame][A
+  LDMVFI x8: 30frame [04:54, 10.15s/frame][A
+  LDMVFI x8: 31frame [05:05, 10.20s/frame][A
+                                          [A01:26:46 [INFO]   ok  480x720  31 frames->241  peakVRAM=6533.9MB  305.6s
+LDMVFI/MVBench:   4%|▍         | 20/457 [1:55:25<43:12:46, 355.99s/clip]01:26:46 [INFO] [fpsabs_1fps] 3038_frame32.mp4  1->6 fps (passes=3)
+
+  LDMVFI x8: 0frame [00:00, ?frame/s][A
+  LDMVFI x8: 1frame [00:00,  7.17frame/s][A
+  LDMVFI x8: 2frame [00:09,  5.49s/frame][A
+  LDMVFI x8: 3frame [00:18,  7.20s/frame][A
+  LDMVFI x8: 4frame [00:27,  8.02s/frame][A
+  LDMVFI x8: 5frame [00:37,  8.55s/frame][A
+                                         [A01:27:24 [INFO]   ok  224x224  5 frames->33  peakVRAM=6508.5MB  37.8s
+LDMVFI/MVBench:   5%|▍         | 21/457 [1:56:03<31:32:44, 260.47s/clip]01:27:24 [INFO] [fpsabs_1fps] 3108_frame47.mp4  1->6 fps (passes=3)
+
+  LDMVFI x8: 0frame [00:00, ?frame/s][A
+  LDMVFI x8: 1frame [00:00,  6.99frame/s][A
+  LDMVFI x8: 2frame [00:09,  5.53s/frame][A
+  LDMVFI x8: 3frame [00:18,  7.22s/frame][A
+  LDMVFI x8: 4frame [00:27,  8.04s/frame][A
+  LDMVFI x8: 5frame [00:37,  8.48s/frame][A
+  LDMVFI x8: 6frame [00:46,  8.74s/frame][A
+  LDMVFI x8: 7frame [00:55,  8.88s/frame][A
+  LDMVFI x8: 8frame [01:04,  9.02s/frame][A
+                                         [A01:28:29 [INFO]   ok  224x224  8 frames->57  peakVRAM=6507.3MB  65.4s
+LDMVFI/MVBench:   5%|▍         | 22/457 [1:57:08<24:23:55, 201.92s/clip]01:28:29 [INFO] [fpsabs_1fps] 321_frame42.mp4  1->6 fps (passes=3)
+
+  LDMVFI x8: 0frame [00:00, ?frame/s][A
+  LDMVFI x8: 1frame [00:00,  7.10frame/s][A
+  LDMVFI x8: 2frame [00:09,  5.52s/frame][A
+  LDMVFI x8: 3frame [00:18,  7.24s/frame][A
+  LDMVFI x8: 4frame [00:27,  8.04s/frame][A
+  LDMVFI x8: 5frame [00:37,  8.52s/frame][A
+  LDMVFI x8: 6frame [00:46,  8.79s/frame][A
+  LDMVFI x8: 7frame [00:56,  9.00s/frame][A
+                                         [A01:29:26 [INFO]   ok  224x224  7 frames->49  peakVRAM=6507.3MB  56.5s
+LDMVFI/MVBench:   5%|▌         | 23/457 [1:58:05<19:04:55, 158.28s/clip]01:29:26 [INFO] [fpsabs_1fps] 35ZZP.mp4  1->30 fps (passes=5)
+
+  LDMVFI x32: 0frame [00:00, ?frame/s][A
+  LDMVFI x32: 1frame [00:00,  5.87frame/s][A
+  LDMVFI x32: 2frame [00:43, 25.74s/frame][A
+  LDMVFI x32: 3frame [01:27, 33.79s/frame][A
+  LDMVFI x32: 4frame [02:10, 37.50s/frame][A
+  LDMVFI x32: 5frame [02:53, 39.57s/frame][A
+  LDMVFI x32: 6frame [03:36, 40.85s/frame][A
+  LDMVFI x32: 7frame [04:20, 41.61s/frame][A
+  LDMVFI x32: 8frame [05:03, 42.02s/frame][A
+  LDMVFI x32: 9frame [05:46, 42.39s/frame][A
+  LDMVFI x32: 10frame [06:29, 42.57s/frame][A
+  LDMVFI x32: 11frame [07:12, 42.73s/frame][A
+  LDMVFI x32: 12frame [07:55, 42.92s/frame][A
+  LDMVFI x32: 13frame [08:38, 43.01s/frame][A
+  LDMVFI x32: 14frame [09:22, 43.15s/frame][A
+  LDMVFI x32: 15frame [10:05, 43.18s/frame][A
+  LDMVFI x32: 16frame [10:49, 43.27s/frame][A
+  LDMVFI x32: 17frame [11:31, 43.17s/frame][A
+  LDMVFI x32: 18frame [12:15, 43.24s/frame][A
+  LDMVFI x32: 19frame [12:58, 43.30s/frame][A
+  LDMVFI x32: 20frame [13:42, 43.38s/frame][A
+  LDMVFI x32: 21frame [14:25, 43.39s/frame][A
+  LDMVFI x32: 22frame [15:08, 43.28s/frame][A
+  LDMVFI x32: 23frame [15:51, 43.19s/frame][A
+  LDMVFI x32: 24frame [16:34, 43.19s/frame][A
+  LDMVFI x32: 25frame [17:18, 43.25s/frame][A
+  LDMVFI x32: 26frame [18:01, 43.19s/frame][A
+  LDMVFI x32: 27frame [18:44, 43.13s/frame][A
+  LDMVFI x32: 28frame [19:27, 43.19s/frame][A
+  LDMVFI x32: 29frame [20:11, 43.21s/frame][A
+  LDMVFI x32: 30frame [20:53, 43.14s/frame][A
+  LDMVFI x32: 31frame [21:36, 43.06s/frame][A
+  LDMVFI x32: 32frame [22:19, 43.07s/frame][A
+  LDMVFI x32: 33frame [23:03, 43.12s/frame][A
+  LDMVFI x32: 34frame [23:46, 43.14s/frame][A
+  LDMVFI x32: 35frame [24:29, 43.10s/frame][A
+  LDMVFI x32: 36frame [25:12, 43.09s/frame][A
+                                           [A01:54:39 [INFO]   ok  360x480  36 frames->1121  peakVRAM=6523.7MB  1512.9s
+LDMVFI/MVBench:   5%|▌         | 24/457 [2:23:18<67:55:30, 564.74s/clip]01:54:39 [INFO] [fpsabs_1fps] 3661_frame41.mp4  1->6 fps (passes=3)
+
+  LDMVFI x8: 0frame [00:00, ?frame/s][A
+  LDMVFI x8: 1frame [00:00,  6.78frame/s][A
+  LDMVFI x8: 2frame [00:09,  5.61s/frame][A
+  LDMVFI x8: 3frame [00:18,  7.25s/frame][A
+  LDMVFI x8: 4frame [00:28,  8.04s/frame][A
+  LDMVFI x8: 5frame [00:37,  8.53s/frame][A
+  LDMVFI x8: 6frame [00:46,  8.80s/frame][A
+  LDMVFI x8: 7frame [00:56,  8.98s/frame][A
+                                         [A01:55:35 [INFO]   ok  224x224  7 frames->49  peakVRAM=6506.7MB  56.5s
+LDMVFI/MVBench:   5%|▌         | 25/457 [2:24:14<49:28:16, 412.26s/clip]01:55:35 [INFO] [fpsabs_1fps] 3731_frame47.mp4  1->6 fps (passes=3)
+
+  LDMVFI x8: 0frame [00:00, ?frame/s][A
+  LDMVFI x8: 1frame [00:00,  7.06frame/s][A
+  LDMVFI x8: 2frame [00:09,  5.79s/frame][A
+  LDMVFI x8: 3frame [00:19,  7.53s/frame][A
+  LDMVFI x8: 4frame [00:28,  8.29s/frame][A
+  LDMVFI x8: 5frame [00:38,  8.67s/frame][A
+  LDMVFI x8: 6frame [00:47,  8.91s/frame][A
+  LDMVFI x8: 7frame [00:56,  9.04s/frame][A
+  LDMVFI x8: 8frame [01:06,  9.10s/frame][A
+                                         [A01:56:42 [INFO]   ok  224x224  8 frames->57  peakVRAM=6506.7MB  66.6s
+LDMVFI/MVBench:   6%|▌         | 26/457 [2:25:21<36:56:28, 308.56s/clip]01:56:42 [INFO] [fpsabs_1fps] 3CAPI.mp4  1->16.6 fps (passes=5)
+
+  LDMVFI x32: 0frame [00:00, ?frame/s][A
+  LDMVFI x32: 1frame [00:00,  6.20frame/s][A
+  LDMVFI x32: 2frame [00:43, 25.29s/frame][A
+  LDMVFI x32: 3frame [01:26, 33.39s/frame][A
+  LDMVFI x32: 4frame [02:09, 37.21s/frame][A
+  LDMVFI x32: 5frame [02:52, 39.41s/frame][A
+  LDMVFI x32: 6frame [03:35, 40.72s/frame][A
+  LDMVFI x32: 7frame [04:19, 41.56s/frame][A
+  LDMVFI x32: 8frame [05:02, 42.10s/frame][A
+  LDMVFI x32: 9frame [05:45, 42.50s/frame][A
+  LDMVFI x32: 10frame [06:29, 42.77s/frame][A
+  LDMVFI x32: 11frame [07:12, 42.95s/frame][A
+  LDMVFI x32: 12frame [07:55, 43.11s/frame][A
+  LDMVFI x32: 13frame [08:39, 43.15s/frame][A
+  LDMVFI x32: 14frame [09:22, 43.10s/frame][A
+  LDMVFI x32: 15frame [10:05, 43.13s/frame][A
+  LDMVFI x32: 16frame [10:48, 43.15s/frame][A
+  LDMVFI x32: 17frame [11:31, 43.06s/frame][A
+  LDMVFI x32: 18frame [12:14, 43.02s/frame][A
+  LDMVFI x32: 19frame [12:57, 43.15s/frame][A
+  LDMVFI x32: 20frame [13:41, 43.22s/frame][A
+  LDMVFI x32: 21frame [14:24, 43.21s/frame][A
+  LDMVFI x32: 22frame [15:07, 43.24s/frame][A
+  LDMVFI x32: 23frame [15:50, 43.24s/frame][A
+  LDMVFI x32: 24frame [16:34, 43.25s/frame][A
+  LDMVFI x32: 25frame [17:17, 43.33s/frame][A
+  LDMVFI x32: 26frame [18:00, 43.16s/frame][A
+  LDMVFI x32: 27frame [18:43, 43.12s/frame][A
+  LDMVFI x32: 28frame [19:26, 43.03s/frame][A
+  LDMVFI x32: 29frame [20:09, 43.09s/frame][A
+  LDMVFI x32: 30frame [20:52, 43.10s/frame][A
+  LDMVFI x32: 31frame [21:35, 43.08s/frame][A
+  LDMVFI x32: 32frame [22:18, 43.01s/frame][A
+  LDMVFI x32: 33frame [23:01, 43.03s/frame][A
+                                           [A02:19:44 [INFO]   ok  480x270  33 frames->1025  peakVRAM=6530.9MB  1382.0s
+LDMVFI/MVBench:   6%|▌         | 27/457 [2:48:23<75:19:19, 630.60s/clip]02:19:44 [INFO] [fpsabs_1fps] 3CLVI.mp4  1->29.9 fps (passes=5)
+
+  LDMVFI x32: 0frame [00:00, ?frame/s][A
+  LDMVFI x32: 1frame [00:00,  6.38frame/s][A
+  LDMVFI x32: 2frame [00:43, 25.62s/frame][A
+  LDMVFI x32: 3frame [01:26, 33.56s/frame][A
+  LDMVFI x32: 4frame [02:09, 37.39s/frame][A
+  LDMVFI x32: 5frame [02:52, 39.45s/frame][A
+  LDMVFI x32: 6frame [03:36, 40.75s/frame][A
+  LDMVFI x32: 7frame [04:19, 41.54s/frame][A
+  LDMVFI x32: 8frame [05:02, 41.99s/frame][A
+  LDMVFI x32: 9frame [05:45, 42.33s/frame][A
+  LDMVFI x32: 10frame [06:28, 42.57s/frame][A
+  LDMVFI x32: 11frame [07:11, 42.79s/frame][A
+  LDMVFI x32: 12frame [07:54, 42.87s/frame][A
+  LDMVFI x32: 13frame [08:37, 42.92s/frame][A
+  LDMVFI x32: 14frame [09:20, 42.88s/frame][A
+  LDMVFI x32: 15frame [10:03, 42.88s/frame][A
+  LDMVFI x32: 16frame [10:46, 42.98s/frame][A
+  LDMVFI x32: 17frame [11:30, 43.06s/frame][A
+  LDMVFI x32: 18frame [12:13, 43.05s/frame][A
+  LDMVFI x32: 19frame [12:56, 43.06s/frame][A
+  LDMVFI x32: 20frame [13:39, 43.01s/frame][A
+  LDMVFI x32: 21frame [14:22, 43.01s/frame][A
+  LDMVFI x32: 22frame [15:05, 43.13s/frame][A
+  LDMVFI x32: 23frame [15:48, 43.10s/frame][A
+  LDMVFI x32: 24frame [16:31, 43.16s/frame][A
+  LDMVFI x32: 25frame [17:15, 43.19s/frame][A
+  LDMVFI x32: 26frame [17:57, 43.11s/frame][A
+  LDMVFI x32: 27frame [18:41, 43.34s/frame][A
+  LDMVFI x32: 28frame [19:25, 43.44s/frame][A
+  LDMVFI x32: 29frame [20:08, 43.36s/frame][A
+  LDMVFI x32: 30frame [20:51, 43.34s/frame][A
+                                           [A02:40:36 [INFO]   ok  270x480  30 frames->929  peakVRAM=6531.9MB  1252.4s
+LDMVFI/MVBench:   6%|▌         | 28/457 [3:09:15<97:22:36, 817.15s/clip]02:40:36 [INFO] [fpsabs_1fps] 3EIRZ.mp4  1->25 fps (passes=5)
+
+  LDMVFI x32: 0frame [00:00, ?frame/s][A
+  LDMVFI x32: 1frame [00:00,  5.81frame/s][A
+  LDMVFI x32: 2frame [00:43, 25.71s/frame][A
+  LDMVFI x32: 3frame [01:27, 33.87s/frame][A
+  LDMVFI x32: 4frame [02:10, 37.71s/frame][A
+  LDMVFI x32: 5frame [02:54, 39.88s/frame][A
+  LDMVFI x32: 6frame [03:38, 41.14s/frame][A
+  LDMVFI x32: 7frame [04:21, 41.85s/frame][A
+  LDMVFI x32: 8frame [05:04, 42.24s/frame][A
+  LDMVFI x32: 9frame [05:47, 42.56s/frame][A
+  LDMVFI x32: 10frame [06:31, 42.75s/frame][A
+  LDMVFI x32: 11frame [07:14, 42.85s/frame][A
+  LDMVFI x32: 12frame [07:57, 42.96s/frame][A
+  LDMVFI x32: 13frame [08:40, 42.97s/frame][A
+  LDMVFI x32: 14frame [09:23, 43.15s/frame][A
+  LDMVFI x32: 15frame [10:06, 43.11s/frame][A
+  LDMVFI x32: 16frame [10:49, 43.09s/frame][A
+  LDMVFI x32: 17frame [11:32, 43.06s/frame][A
+  LDMVFI x32: 18frame [12:16, 43.13s/frame][A
+  LDMVFI x32: 19frame [12:59, 43.12s/frame][A
+  LDMVFI x32: 20frame [13:42, 43.09s/frame][A
+  LDMVFI x32: 21frame [14:25, 43.09s/frame][A
+  LDMVFI x32: 22frame [15:08, 43.08s/frame][A
+  LDMVFI x32: 23frame [15:51, 43.13s/frame][A
+  LDMVFI x32: 24frame [16:34, 43.14s/frame][A
+  LDMVFI x32: 25frame [17:18, 43.13s/frame][A
+  LDMVFI x32: 26frame [18:01, 43.15s/frame][A
+                                           [A02:58:38 [INFO]   ok  480x360  26 frames->801  peakVRAM=6528.2MB  1081.7s
+LDMVFI/MVBench:   6%|▋         | 29/457 [3:27:17<106:35:09, 896.52s/clip]02:58:38 [INFO] [fpsabs_1fps] 3N1I2.mp4  1->29.9 fps (passes=5)
+
+  LDMVFI x32: 0frame [00:00, ?frame/s][A
+  LDMVFI x32: 1frame [00:00,  6.08frame/s][A
+  LDMVFI x32: 2frame [00:43, 25.43s/frame][A
+  LDMVFI x32: 3frame [01:26, 33.52s/frame][A
+  LDMVFI x32: 4frame [02:09, 37.18s/frame][A
+  LDMVFI x32: 5frame [02:52, 39.25s/frame][A
+  LDMVFI x32: 6frame [03:35, 40.49s/frame][A
+  LDMVFI x32: 7frame [04:17, 41.30s/frame][A
+  LDMVFI x32: 8frame [05:01, 41.88s/frame][A
+  LDMVFI x32: 9frame [05:44, 42.25s/frame][A
+  LDMVFI x32: 10frame [06:27, 42.49s/frame][A
+  LDMVFI x32: 11frame [07:10, 42.63s/frame][A
+  LDMVFI x32: 12frame [07:53, 42.76s/frame][A
+  LDMVFI x32: 13frame [08:36, 42.84s/frame][A
+  LDMVFI x32: 14frame [09:19, 42.91s/frame][A
+  LDMVFI x32: 15frame [10:02, 43.02s/frame][A
+  LDMVFI x32: 16frame [10:45, 43.10s/frame][A
+  LDMVFI x32: 17frame [11:29, 43.16s/frame][A
+  LDMVFI x32: 18frame [12:12, 43.23s/frame][A
+  LDMVFI x32: 19frame [12:55, 43.21s/frame][A
+  LDMVFI x32: 20frame [13:38, 43.17s/frame][A
+  LDMVFI x32: 21frame [14:21, 43.14s/frame][A
+  LDMVFI x32: 22frame [15:04, 43.10s/frame][A
+  LDMVFI x32: 23frame [15:47, 43.09s/frame][A
+  LDMVFI x32: 24frame [16:31, 43.10s/frame][A
+  LDMVFI x32: 25frame [17:14, 43.08s/frame][A
+  LDMVFI x32: 26frame [17:57, 43.17s/frame][A
+  LDMVFI x32: 27frame [18:40, 43.22s/frame][A
+  LDMVFI x32: 28frame [19:24, 43.22s/frame][A
+  LDMVFI x32: 29frame [20:07, 43.26s/frame][A
+  LDMVFI x32: 30frame [20:50, 43.20s/frame][A
+  LDMVFI x32: 31frame [21:34, 43.34s/frame][A
+  LDMVFI x32: 32frame [22:17, 43.26s/frame][A
+                                           [A03:20:56 [INFO]   ok  480x270  32 frames->993  peakVRAM=6524.0MB  1337.6s
+LDMVFI/MVBench:   7%|▋         | 30/457 [3:49:35<122:01:59, 1028.85s/clip]03:20:56 [INFO] [fpsabs_1fps] 4009_frame48.mp4  1->6 fps (passes=3)
+
+  LDMVFI x8: 0frame [00:00, ?frame/s][A
+  LDMVFI x8: 1frame [00:00,  6.97frame/s][A
+  LDMVFI x8: 2frame [00:09,  5.56s/frame][A
+  LDMVFI x8: 3frame [00:18,  7.32s/frame][A
+  LDMVFI x8: 4frame [00:28,  8.06s/frame][A
+  LDMVFI x8: 5frame [00:37,  8.51s/frame][A
+  LDMVFI x8: 6frame [00:46,  8.76s/frame][A
+  LDMVFI x8: 7frame [00:55,  8.94s/frame][A
+  LDMVFI x8: 8frame [01:05,  9.04s/frame][A
+                                         [A03:22:01 [INFO]   ok  224x224  8 frames->57  peakVRAM=6513.7MB  65.7s
+LDMVFI/MVBench:   7%|▋         | 31/457 [3:50:40<87:33:14, 739.89s/clip]  03:22:01 [INFO] [fpsabs_1fps] 4027_frame31.mp4  1->6 fps (passes=3)
+
+  LDMVFI x8: 0frame [00:00, ?frame/s][A
+  LDMVFI x8: 1frame [00:00,  6.82frame/s][A
+  LDMVFI x8: 2frame [00:09,  5.59s/frame][A
+  LDMVFI x8: 3frame [00:18,  7.28s/frame][A
+  LDMVFI x8: 4frame [00:28,  8.05s/frame][A
+  LDMVFI x8: 5frame [00:37,  8.49s/frame][A
+                                         [A03:22:39 [INFO]   ok  224x224  5 frames->33  peakVRAM=6513.7MB  37.7s
+LDMVFI/MVBench:   7%|▋         | 32/457 [3:51:18<62:28:46, 529.24s/clip]03:22:39 [INFO] [fpsabs_1fps] 448.mp4  1->12 fps (passes=4)
+
+  LDMVFI x16: 0frame [00:00, ?frame/s][A
+  LDMVFI x16: 1frame [00:00,  6.89frame/s][A
+                                          [A03:22:41 [ERROR]   fail on 448.mp4: AssertionError: 
+LDMVFI/MVBench:   7%|▋         | 33/457 [3:51:20<43:41:47, 371.01s/clip]03:22:41 [INFO] [fpsabs_1fps] 4573_frame36.mp4  1->6 fps (passes=3)
+
+  LDMVFI x8: 0frame [00:00, ?frame/s][A
+  LDMVFI x8: 1frame [00:00,  6.97frame/s][A
+  LDMVFI x8: 2frame [00:09,  5.51s/frame][A
+  LDMVFI x8: 3frame [00:18,  7.18s/frame][A
+  LDMVFI x8: 4frame [00:27,  7.97s/frame][A
+  LDMVFI x8: 5frame [00:36,  8.42s/frame][A
+  LDMVFI x8: 6frame [00:46,  8.68s/frame][A
+                                         [A03:23:27 [INFO]   ok  224x224  6 frames->41  peakVRAM=6513.7MB  46.6s
+LDMVFI/MVBench:   7%|▋         | 34/457 [3:52:06<32:09:26, 273.68s/clip]03:23:27 [INFO] [fpsabs_1fps] 4801_frame37.mp4  1->6 fps (passes=3)
+
+  LDMVFI x8: 0frame [00:00, ?frame/s][A
+  LDMVFI x8: 1frame [00:00,  7.11frame/s][A
+  LDMVFI x8: 2frame [00:09,  5.58s/frame][A
+  LDMVFI x8: 3frame [00:18,  7.34s/frame][A
+  LDMVFI x8: 4frame [00:28,  8.20s/frame][A
+  LDMVFI x8: 5frame [00:37,  8.66s/frame][A
+  LDMVFI x8: 6frame [00:47,  8.95s/frame][A
+                                         [A03:24:15 [INFO]   ok  224x224  6 frames->41  peakVRAM=6513.7MB  47.9s
+LDMVFI/MVBench:   8%|▊         | 35/457 [3:52:54<24:08:27, 205.94s/clip]03:24:15 [INFO] [fpsabs_1fps] 4943_frame48.mp4  1->6 fps (passes=3)
+
+  LDMVFI x8: 0frame [00:00, ?frame/s][A
+  LDMVFI x8: 1frame [00:00,  6.93frame/s][A
+  LDMVFI x8: 2frame [00:09,  5.58s/frame][A
+  LDMVFI x8: 3frame [00:18,  7.29s/frame][A
+  LDMVFI x8: 4frame [00:28,  8.09s/frame][A
+  LDMVFI x8: 5frame [00:37,  8.52s/frame][A
+  LDMVFI x8: 6frame [00:46,  8.83s/frame][A
+  LDMVFI x8: 7frame [00:56,  9.02s/frame][A
+  LDMVFI x8: 8frame [01:05,  9.15s/frame][A
+                                         [A03:25:21 [INFO]   ok  224x224  8 frames->57  peakVRAM=6513.7MB  66.2s
+LDMVFI/MVBench:   8%|▊         | 36/457 [3:54:00<19:10:46, 164.01s/clip]03:25:21 [INFO] [fpsabs_1fps] 4H935.mp4  1->30 fps (passes=5)
+
+  LDMVFI x32: 0frame [00:00, ?frame/s][A
+  LDMVFI x32: 1frame [00:00,  3.90frame/s][A
+  LDMVFI x32: 2frame [00:54, 31.95s/frame][A
+  LDMVFI x32: 3frame [01:48, 41.95s/frame][A
+  LDMVFI x32: 4frame [02:42, 46.67s/frame][A
+  LDMVFI x32: 5frame [03:36, 49.27s/frame][A
+  LDMVFI x32: 6frame [04:30, 50.94s/frame][A
+  LDMVFI x32: 7frame [05:25, 52.20s/frame][A
+  LDMVFI x32: 8frame [06:19, 52.95s/frame][A
+  LDMVFI x32: 9frame [07:14, 53.49s/frame][A
+  LDMVFI x32: 10frame [08:08, 53.80s/frame][A
+  LDMVFI x32: 11frame [09:03, 53.97s/frame][A
+  LDMVFI x32: 12frame [09:57, 54.06s/frame][A
+  LDMVFI x32: 13frame [10:51, 53.96s/frame][A
+  LDMVFI x32: 14frame [11:45, 54.11s/frame][A
+  LDMVFI x32: 15frame [12:40, 54.27s/frame][A
+  LDMVFI x32: 16frame [13:34, 54.30s/frame][A
+  LDMVFI x32: 17frame [14:28, 54.30s/frame][A
+  LDMVFI x32: 18frame [15:23, 54.37s/frame][A
+  LDMVFI x32: 19frame [16:17, 54.37s/frame][A
+  LDMVFI x32: 20frame [17:12, 54.38s/frame][A
+  LDMVFI x32: 21frame [18:06, 54.24s/frame][A
+  LDMVFI x32: 22frame [19:00, 54.19s/frame][A
+  LDMVFI x32: 23frame [19:54, 54.13s/frame][A
+  LDMVFI x32: 24frame [20:48, 54.15s/frame][A
+  LDMVFI x32: 25frame [21:43, 54.40s/frame][A
+  LDMVFI x32: 26frame [22:37, 54.35s/frame][A
+  LDMVFI x32: 27frame [23:31, 54.35s/frame][A
+  LDMVFI x32: 28frame [24:26, 54.54s/frame][A
+  LDMVFI x32: 29frame [25:21, 54.48s/frame][A
+  LDMVFI x32: 30frame [26:15, 54.39s/frame][A
+  LDMVFI x32: 31frame [27:09, 54.28s/frame][A
+  LDMVFI x32: 32frame [28:03, 54.17s/frame][A
+                                           [A03:53:25 [INFO]   ok  1280x720  32 frames->993  peakVRAM=7790.4MB  1684.0s
+LDMVFI/MVBench:   8%|▊         | 37/457 [4:22:04<72:20:02, 620.01s/clip]03:53:25 [INFO] [fpsabs_1fps] 4P13T.mp4  1->30 fps (passes=5)
+
+  LDMVFI x32: 0frame [00:00, ?frame/s][A
+  LDMVFI x32: 1frame [00:00,  6.00frame/s][A
+  LDMVFI x32: 2frame [00:43, 25.28s/frame][A
+  LDMVFI x32: 3frame [01:25, 33.34s/frame][A
+  LDMVFI x32: 4frame [02:08, 37.14s/frame][A
+  LDMVFI x32: 5frame [02:52, 39.29s/frame][A
+  LDMVFI x32: 6frame [03:34, 40.47s/frame][A
+  LDMVFI x32: 7frame [04:17, 41.27s/frame][A
+  LDMVFI x32: 8frame [05:00, 41.80s/frame][A
+  LDMVFI x32: 9frame [05:43, 42.20s/frame][A
+  LDMVFI x32: 10frame [06:27, 42.56s/frame][A
+  LDMVFI x32: 11frame [07:10, 42.76s/frame][A
+  LDMVFI x32: 12frame [07:53, 42.83s/frame][A
+  LDMVFI x32: 13frame [08:36, 42.90s/frame][A
+  LDMVFI x32: 14frame [09:19, 42.89s/frame][A
+  LDMVFI x32: 15frame [10:02, 42.97s/frame][A
+  LDMVFI x32: 16frame [10:45, 42.91s/frame][A
+  LDMVFI x32: 17frame [11:28, 42.92s/frame][A
+  LDMVFI x32: 18frame [12:11, 43.05s/frame][A
+  LDMVFI x32: 19frame [12:54, 43.15s/frame][A
+  LDMVFI x32: 20frame [13:37, 43.11s/frame][A
+  LDMVFI x32: 21frame [14:21, 43.13s/frame][A
+  LDMVFI x32: 22frame [15:04, 43.17s/frame][A
+  LDMVFI x32: 23frame [15:47, 43.14s/frame][A
+  LDMVFI x32: 24frame [16:30, 43.13s/frame][A
+  LDMVFI x32: 25frame [17:13, 43.16s/frame][A
+  LDMVFI x32: 26frame [17:57, 43.27s/frame][A
+  LDMVFI x32: 27frame [18:40, 43.38s/frame][A
+  LDMVFI x32: 28frame [19:25, 43.63s/frame][A
+  LDMVFI x32: 29frame [20:08, 43.55s/frame][A
+  LDMVFI x32: 30frame [20:51, 43.44s/frame][A
+  LDMVFI x32: 31frame [21:34, 43.36s/frame][A
+                                           [A04:15:01 [INFO]   ok  480x270  31 frames->961  peakVRAM=6537.1MB  1295.2s
+LDMVFI/MVBench:   8%|▊         | 38/457 [4:43:40<95:44:14, 822.56s/clip]04:15:01 [INFO] [fpsabs_1fps] 5153_frame32.mp4  1->6 fps (passes=3)
+
+  LDMVFI x8: 0frame [00:00, ?frame/s][A
+  LDMVFI x8: 1frame [00:00,  7.15frame/s][A
+  LDMVFI x8: 2frame [00:09,  5.49s/frame][A
+  LDMVFI x8: 3frame [00:18,  7.18s/frame][A
+  LDMVFI x8: 4frame [00:27,  7.96s/frame][A
+  LDMVFI x8: 5frame [00:36,  8.39s/frame][A
+                                         [A04:15:38 [INFO]   ok  224x224  5 frames->33  peakVRAM=6516.2MB  37.3s
+LDMVFI/MVBench:   9%|▊         | 39/457 [4:44:17<68:09:16, 586.98s/clip]04:15:38 [INFO] [fpsabs_1fps] 5186_frame68.mp4  1->6 fps (passes=3)
+
+  LDMVFI x8: 0frame [00:00, ?frame/s][A
+  LDMVFI x8: 1frame [00:00,  6.58frame/s][A
+  LDMVFI x8: 2frame [00:09,  5.50s/frame][A
+  LDMVFI x8: 3frame [00:18,  7.25s/frame][A
+  LDMVFI x8: 4frame [00:27,  8.03s/frame][A
+  LDMVFI x8: 5frame [00:37,  8.45s/frame][A
+  LDMVFI x8: 6frame [00:46,  8.67s/frame][A
+  LDMVFI x8: 7frame [00:55,  8.81s/frame][A
+  LDMVFI x8: 8frame [01:04,  8.94s/frame][A
+  LDMVFI x8: 9frame [01:13,  9.02s/frame][A
+  LDMVFI x8: 10frame [01:22,  9.07s/frame][A
+  LDMVFI x8: 11frame [01:32,  9.13s/frame][A
+                                          [A04:17:11 [INFO]   ok  224x224  11 frames->81  peakVRAM=6516.2MB  92.6s
+LDMVFI/MVBench:   9%|▉         | 40/457 [4:45:50<50:48:49, 438.68s/clip]04:17:11 [INFO] [fpsabs_1fps] 55AH5.mp4  1->30 fps (passes=5)
+
+  LDMVFI x32: 0frame [00:00, ?frame/s][A
+  LDMVFI x32: 1frame [00:00,  6.02frame/s][A
+  LDMVFI x32: 2frame [00:43, 25.73s/frame][A
+  LDMVFI x32: 3frame [01:27, 33.73s/frame][A
+  LDMVFI x32: 4frame [02:10, 37.49s/frame][A
+  LDMVFI x32: 5frame [02:53, 39.60s/frame][A
+  LDMVFI x32: 6frame [03:36, 40.78s/frame][A
+  LDMVFI x32: 7frame [04:19, 41.53s/frame][A
+  LDMVFI x32: 8frame [05:02, 42.06s/frame][A
+  LDMVFI x32: 9frame [05:46, 42.38s/frame][A
+  LDMVFI x32: 10frame [06:29, 42.64s/frame][A
+  LDMVFI x32: 11frame [07:12, 42.73s/frame][A
+  LDMVFI x32: 12frame [07:55, 42.77s/frame][A
+  LDMVFI x32: 13frame [08:38, 42.83s/frame][A
+  LDMVFI x32: 14frame [09:21, 42.95s/frame][A
+  LDMVFI x32: 15frame [10:04, 43.00s/frame][A
+  LDMVFI x32: 16frame [10:47, 43.05s/frame][A
+  LDMVFI x32: 17frame [11:30, 43.14s/frame][A
+  LDMVFI x32: 18frame [12:14, 43.16s/frame][A
+  LDMVFI x32: 19frame [12:57, 43.24s/frame][A
+  LDMVFI x32: 20frame [13:40, 43.09s/frame][A
+  LDMVFI x32: 21frame [14:23, 43.09s/frame][A
+  LDMVFI x32: 22frame [15:06, 43.04s/frame][A
+  LDMVFI x32: 23frame [15:49, 43.03s/frame][A
+  LDMVFI x32: 24frame [16:32, 43.02s/frame][A
+  LDMVFI x32: 25frame [17:15, 43.06s/frame][A
+                                           [A04:34:26 [INFO]   ok  480x360  25 frames->769  peakVRAM=6533.2MB  1035.9s
+LDMVFI/MVBench:   9%|▉         | 41/457 [5:03:06<71:23:44, 617.85s/clip]04:34:26 [INFO] [fpsabs_1fps] 583_frame34.mp4  1->6 fps (passes=3)
+
+  LDMVFI x8: 0frame [00:00, ?frame/s][A
+  LDMVFI x8: 1frame [00:00,  7.20frame/s][A
+  LDMVFI x8: 2frame [00:09,  5.55s/frame][A
+  LDMVFI x8: 3frame [00:18,  7.22s/frame][A
+  LDMVFI x8: 4frame [00:27,  8.02s/frame][A
+  LDMVFI x8: 5frame [00:37,  8.43s/frame][A
+  LDMVFI x8: 6frame [00:46,  8.73s/frame][A
+                                         [A04:35:13 [INFO]   ok  224x224  6 frames->41  peakVRAM=6517.9MB  46.8s
+LDMVFI/MVBench:   9%|▉         | 42/457 [5:03:52<51:28:32, 446.54s/clip]04:35:13 [INFO] [fpsabs_1fps] 5NG6Q.mp4  1->30 fps (passes=5)
+
+  LDMVFI x32: 0frame [00:00, ?frame/s][A
+  LDMVFI x32: 1frame [00:00,  6.20frame/s][A
+  LDMVFI x32: 2frame [00:43, 25.35s/frame][A
+  LDMVFI x32: 3frame [01:26, 33.41s/frame][A
+  LDMVFI x32: 4frame [02:09, 37.23s/frame][A
+  LDMVFI x32: 5frame [02:52, 39.35s/frame][A
+  LDMVFI x32: 6frame [03:35, 40.59s/frame][A
+  LDMVFI x32: 7frame [04:18, 41.36s/frame][A
+  LDMVFI x32: 8frame [05:01, 41.95s/frame][A
+  LDMVFI x32: 9frame [05:44, 42.20s/frame][A
+  LDMVFI x32: 10frame [06:27, 42.44s/frame][A
+  LDMVFI x32: 11frame [07:10, 42.66s/frame][A
+  LDMVFI x32: 12frame [07:53, 42.86s/frame][A
+  LDMVFI x32: 13frame [08:36, 42.94s/frame][A
+  LDMVFI x32: 14frame [09:20, 43.03s/frame][A
+  LDMVFI x32: 15frame [10:03, 43.13s/frame][A
+  LDMVFI x32: 16frame [10:46, 43.14s/frame][A
+  LDMVFI x32: 17frame [11:29, 43.18s/frame][A
+  LDMVFI x32: 18frame [12:13, 43.23s/frame][A
+  LDMVFI x32: 19frame [12:56, 43.22s/frame][A
+  LDMVFI x32: 20frame [13:39, 43.17s/frame][A
+  LDMVFI x32: 21frame [14:22, 43.13s/frame][A
+  LDMVFI x32: 22frame [15:05, 43.19s/frame][A
+  LDMVFI x32: 23frame [15:49, 43.21s/frame][A
+  LDMVFI x32: 24frame [16:31, 43.12s/frame][A
+  LDMVFI x32: 25frame [17:15, 43.14s/frame][A
+  LDMVFI x32: 26frame [17:58, 43.09s/frame][A
+  LDMVFI x32: 27frame [18:41, 43.11s/frame][A
+  LDMVFI x32: 28frame [19:24, 43.21s/frame][A
+  LDMVFI x32: 29frame [20:08, 43.35s/frame][A
+  LDMVFI x32: 30frame [20:51, 43.19s/frame][A
+  LDMVFI x32: 31frame [21:34, 43.07s/frame][A
+                                           [A04:56:48 [INFO]   ok  480x270  31 frames->961  peakVRAM=6531.4MB  1294.5s
+LDMVFI/MVBench:   9%|▉         | 43/457 [5:25:27<80:36:18, 700.92s/clip]04:56:48 [INFO] [fpsabs_1fps] 5V5EL.mp4  1->30 fps (passes=5)
+
+  LDMVFI x32: 0frame [00:00, ?frame/s][A
+  LDMVFI x32: 1frame [00:00,  5.78frame/s][A
+  LDMVFI x32: 2frame [00:43, 25.38s/frame][A
+  LDMVFI x32: 3frame [01:26, 33.39s/frame][A
+  LDMVFI x32: 4frame [02:09, 37.19s/frame][A
+  LDMVFI x32: 5frame [02:52, 39.26s/frame][A
+  LDMVFI x32: 6frame [03:35, 40.53s/frame][A
+  LDMVFI x32: 7frame [04:18, 41.33s/frame][A
+  LDMVFI x32: 8frame [05:00, 41.83s/frame][A
+  LDMVFI x32: 9frame [05:43, 42.20s/frame][A
+  LDMVFI x32: 10frame [06:26, 42.42s/frame][A
+  LDMVFI x32: 11frame [07:09, 42.59s/frame][A
+  LDMVFI x32: 12frame [07:52, 42.73s/frame][A
+  LDMVFI x32: 13frame [08:35, 42.80s/frame][A
+  LDMVFI x32: 14frame [09:18, 42.79s/frame][A
+  LDMVFI x32: 15frame [10:01, 42.81s/frame][A
+  LDMVFI x32: 16frame [10:44, 42.86s/frame][A
+  LDMVFI x32: 17frame [11:27, 42.90s/frame][A
+  LDMVFI x32: 18frame [12:10, 42.87s/frame][A
+                                           [A05:08:58 [INFO]   ok  360x480  18 frames->545  peakVRAM=6533.3MB  730.7s
+LDMVFI/MVBench:  10%|▉         | 44/457 [5:37:37<81:26:06, 709.85s/clip]05:08:58 [INFO] [fpsabs_1fps] 5ZDNU.mp4  1->30 fps (passes=5)
+
+  LDMVFI x32: 0frame [00:00, ?frame/s][A
+  LDMVFI x32: 1frame [00:00,  6.22frame/s][A
+  LDMVFI x32: 2frame [00:42, 25.26s/frame][A
+  LDMVFI x32: 3frame [01:25, 33.23s/frame][A
+  LDMVFI x32: 4frame [02:08, 37.10s/frame][A
+  LDMVFI x32: 5frame [02:51, 39.27s/frame][A
+  LDMVFI x32: 6frame [03:34, 40.51s/frame][A
+  LDMVFI x32: 7frame [04:17, 41.35s/frame][A
+  LDMVFI x32: 8frame [05:00, 41.90s/frame][A
+  LDMVFI x32: 9frame [05:43, 42.23s/frame][A
+  LDMVFI x32: 10frame [06:26, 42.42s/frame][A
+  LDMVFI x32: 11frame [07:09, 42.58s/frame][A
+  LDMVFI x32: 12frame [07:52, 42.66s/frame][A
+  LDMVFI x32: 13frame [08:35, 42.72s/frame][A
+  LDMVFI x32: 14frame [09:18, 42.87s/frame][A
+  LDMVFI x32: 15frame [10:01, 42.90s/frame][A
+  LDMVFI x32: 16frame [10:44, 42.97s/frame][A
+  LDMVFI x32: 17frame [11:27, 42.99s/frame][A
+  LDMVFI x32: 18frame [12:10, 42.97s/frame][A
+  LDMVFI x32: 19frame [12:53, 42.99s/frame][A
+  LDMVFI x32: 20frame [13:36, 42.98s/frame][A
+  LDMVFI x32: 21frame [14:19, 42.98s/frame][A
+  LDMVFI x32: 22frame [15:02, 43.01s/frame][A
+  LDMVFI x32: 23frame [15:46, 43.13s/frame][A
+                                           [A05:24:45 [INFO]   ok  480x270  23 frames->705  peakVRAM=6532.6MB  946.5s
+LDMVFI/MVBench:  10%|▉         | 45/457 [5:53:24<89:21:52, 780.86s/clip]05:24:45 [INFO] [fpsabs_1fps] 6164_frame43.mp4  1->6 fps (passes=3)
+
+  LDMVFI x8: 0frame [00:00, ?frame/s][A
+  LDMVFI x8: 1frame [00:00,  6.46frame/s][A
+  LDMVFI x8: 2frame [00:09,  5.55s/frame][A
+  LDMVFI x8: 3frame [00:18,  7.27s/frame][A
+  LDMVFI x8: 4frame [00:27,  8.03s/frame][A
+  LDMVFI x8: 5frame [00:37,  8.47s/frame][A
+  LDMVFI x8: 6frame [00:46,  8.76s/frame][A
+  LDMVFI x8: 7frame [00:55,  8.92s/frame][A
+                                         [A05:25:41 [INFO]   ok  224x224  7 frames->49  peakVRAM=6518.9MB  56.3s
+LDMVFI/MVBench:  10%|█         | 46/457 [5:54:20<64:19:50, 563.48s/clip]05:25:41 [INFO] [fpsabs_1fps] 657_frame58.mp4  1->6 fps (passes=3)
+
+  LDMVFI x8: 0frame [00:00, ?frame/s][A
+  LDMVFI x8: 1frame [00:00,  6.52frame/s][A
+  LDMVFI x8: 2frame [00:09,  5.54s/frame][A
+  LDMVFI x8: 3frame [00:18,  7.16s/frame][A
+  LDMVFI x8: 4frame [00:27,  7.95s/frame][A
+  LDMVFI x8: 5frame [00:36,  8.39s/frame][A
+  LDMVFI x8: 6frame [00:46,  8.67s/frame][A
+  LDMVFI x8: 7frame [00:55,  8.82s/frame][A
+  LDMVFI x8: 8frame [01:04,  8.96s/frame][A
+  LDMVFI x8: 9frame [01:13,  9.06s/frame][A
+  LDMVFI x8: 10frame [01:23,  9.13s/frame][A
+                                          [A05:27:05 [INFO]   ok  224x224  10 frames->73  peakVRAM=6518.9MB  83.5s
+LDMVFI/MVBench:  10%|█         | 47/457 [5:55:44<47:46:26, 419.48s/clip]05:27:05 [INFO] [fpsabs_1fps] 65UVU.mp4  1->30 fps (passes=5)
+
+  LDMVFI x32: 0frame [00:00, ?frame/s][A
+  LDMVFI x32: 1frame [00:00,  5.88frame/s][A
+  LDMVFI x32: 2frame [00:43, 25.37s/frame][A
+  LDMVFI x32: 3frame [01:25, 33.30s/frame][A
+  LDMVFI x32: 4frame [02:08, 37.10s/frame][A
+  LDMVFI x32: 5frame [02:52, 39.35s/frame][A
+  LDMVFI x32: 6frame [03:35, 40.72s/frame][A
+  LDMVFI x32: 7frame [04:18, 41.41s/frame][A
+  LDMVFI x32: 8frame [05:01, 41.92s/frame][A
+  LDMVFI x32: 9frame [05:44, 42.35s/frame][A
+  LDMVFI x32: 10frame [06:27, 42.58s/frame][A
+  LDMVFI x32: 11frame [07:10, 42.73s/frame][A
+  LDMVFI x32: 12frame [07:53, 42.79s/frame][A
+  LDMVFI x32: 13frame [08:36, 42.81s/frame][A
+  LDMVFI x32: 14frame [09:19, 42.85s/frame][A
+  LDMVFI x32: 15frame [10:02, 42.95s/frame][A
+  LDMVFI x32: 16frame [10:45, 43.00s/frame][A
+  LDMVFI x32: 17frame [11:28, 42.99s/frame][A
+  LDMVFI x32: 18frame [12:11, 42.97s/frame][A
+  LDMVFI x32: 19frame [12:54, 43.01s/frame][A
+  LDMVFI x32: 20frame [13:37, 43.04s/frame][A
+  LDMVFI x32: 21frame [14:21, 43.19s/frame][A
+  LDMVFI x32: 22frame [15:04, 43.22s/frame][A
+  LDMVFI x32: 23frame [15:48, 43.26s/frame][A
+  LDMVFI x32: 24frame [16:31, 43.25s/frame][A
+  LDMVFI x32: 25frame [17:14, 43.23s/frame][A
+  LDMVFI x32: 26frame [17:57, 43.21s/frame][A
+  LDMVFI x32: 27frame [18:40, 43.21s/frame][A
+  LDMVFI x32: 28frame [19:24, 43.24s/frame][A
+  LDMVFI x32: 29frame [20:07, 43.22s/frame][A
+  LDMVFI x32: 30frame [20:50, 43.12s/frame][A
+  LDMVFI x32: 31frame [21:33, 43.12s/frame][A
+                                           [A05:48:39 [INFO]   ok  480x360  31 frames->961  peakVRAM=6533.1MB  1293.9s
+LDMVFI/MVBench:  11%|█         | 48/457 [6:17:18<77:27:39, 681.81s/clip]05:48:39 [INFO] [fpsabs_1fps] 6626_frame35.mp4  1->6 fps (passes=3)
+
+  LDMVFI x8: 0frame [00:00, ?frame/s][A
+  LDMVFI x8: 1frame [00:00,  6.80frame/s][A
+  LDMVFI x8: 2frame [00:09,  5.47s/frame][A
+  LDMVFI x8: 3frame [00:18,  7.25s/frame][A
+  LDMVFI x8: 4frame [00:27,  8.05s/frame][A
+  LDMVFI x8: 5frame [00:37,  8.51s/frame][A
+  LDMVFI x8: 6frame [00:46,  8.79s/frame][A
+                                         [A05:49:26 [INFO]   ok  224x224  6 frames->41  peakVRAM=6517.8MB  47.1s
+LDMVFI/MVBench:  11%|█         | 49/457 [6:18:05<55:41:26, 491.39s/clip]05:49:26 [INFO] [fpsabs_1fps] 6843_frame48.mp4  1->6 fps (passes=3)
+
+  LDMVFI x8: 0frame [00:00, ?frame/s][A
+  LDMVFI x8: 1frame [00:00,  6.87frame/s][A
+  LDMVFI x8: 2frame [00:09,  5.49s/frame][A
+  LDMVFI x8: 3frame [00:18,  7.22s/frame][A
+  LDMVFI x8: 4frame [00:27,  8.05s/frame][A
+  LDMVFI x8: 5frame [00:37,  8.45s/frame][A
+  LDMVFI x8: 6frame [00:46,  8.77s/frame][A
+  LDMVFI x8: 7frame [00:55,  8.95s/frame][A
+  LDMVFI x8: 8frame [01:05,  9.06s/frame][A
+                                         [A05:50:31 [INFO]   ok  224x224  8 frames->57  peakVRAM=6520.1MB  65.6s
+LDMVFI/MVBench:  11%|█         | 50/457 [6:19:10<41:06:44, 363.65s/clip]05:50:31 [INFO] [fpsabs_1fps] 68631.mp4  1->12 fps (passes=4)
+
+  LDMVFI x16: 0frame [00:00, ?frame/s][A
+  LDMVFI x16: 1frame [00:00,  6.60frame/s][A
+                                          [A05:50:33 [ERROR]   fail on 68631.mp4: AssertionError: 
+LDMVFI/MVBench:  11%|█         | 51/457 [6:19:12<28:46:12, 255.11s/clip]05:50:33 [INFO] [fpsabs_1fps] 6CAZU.mp4  1->29.7 fps (passes=5)
+
+  LDMVFI x32: 0frame [00:00, ?frame/s][A
+  LDMVFI x32: 1frame [00:00,  6.17frame/s][A
+  LDMVFI x32: 2frame [00:43, 25.45s/frame][A
+  LDMVFI x32: 3frame [01:26, 33.72s/frame][A
+  LDMVFI x32: 4frame [02:09, 37.37s/frame][A
+  LDMVFI x32: 5frame [02:53, 39.48s/frame][A
+  LDMVFI x32: 6frame [03:36, 40.83s/frame][A
+  LDMVFI x32: 7frame [04:19, 41.55s/frame][A
+  LDMVFI x32: 8frame [05:02, 42.06s/frame][A
+  LDMVFI x32: 9frame [05:45, 42.45s/frame][A
+  LDMVFI x32: 10frame [06:28, 42.56s/frame][A
+  LDMVFI x32: 11frame [07:11, 42.69s/frame][A
+  LDMVFI x32: 12frame [07:54, 42.75s/frame][A
+  LDMVFI x32: 13frame [08:37, 42.80s/frame][A
+  LDMVFI x32: 14frame [09:20, 42.81s/frame][A
+  LDMVFI x32: 15frame [10:03, 42.82s/frame][A
+  LDMVFI x32: 16frame [10:46, 42.89s/frame][A
+  LDMVFI x32: 17frame [11:29, 42.95s/frame][A
+  LDMVFI x32: 18frame [12:12, 42.96s/frame][A
+  LDMVFI x32: 19frame [12:55, 42.99s/frame][A
+  LDMVFI x32: 20frame [13:38, 42.99s/frame][A
+  LDMVFI x32: 21frame [14:21, 42.99s/frame][A
+  LDMVFI x32: 22frame [15:04, 42.96s/frame][A
+  LDMVFI x32: 23frame [15:47, 43.03s/frame][A
+  LDMVFI x32: 24frame [16:30, 43.04s/frame][A
+  LDMVFI x32: 25frame [17:13, 43.00s/frame][A
+  LDMVFI x32: 26frame [17:56, 42.99s/frame][A
+  LDMVFI x32: 27frame [18:39, 42.95s/frame][A
+  LDMVFI x32: 28frame [19:22, 43.01s/frame][A
+  LDMVFI x32: 29frame [20:05, 43.00s/frame][A
+  LDMVFI x32: 30frame [20:48, 43.14s/frame][A
+  LDMVFI x32: 31frame [21:31, 43.11s/frame][A
+  LDMVFI x32: 32frame [22:14, 42.99s/frame][A
+                                           [A06:12:48 [INFO]   ok  480x270  32 frames->993  peakVRAM=6530.9MB  1335.1s
+LDMVFI/MVBench:  11%|█▏        | 52/457 [6:41:27<65:08:58, 579.11s/clip]06:12:48 [INFO] [fpsabs_1fps] 6JGXL.mp4  1->30 fps (passes=5)
+
+  LDMVFI x32: 0frame [00:00, ?frame/s][A
+  LDMVFI x32: 1frame [00:00,  6.21frame/s][A
+  LDMVFI x32: 2frame [00:43, 25.35s/frame][A
+  LDMVFI x32: 3frame [01:26, 33.40s/frame][A
+  LDMVFI x32: 4frame [02:09, 37.20s/frame][A
+  LDMVFI x32: 5frame [02:52, 39.35s/frame][A
+  LDMVFI x32: 6frame [03:35, 40.57s/frame][A
+  LDMVFI x32: 7frame [04:18, 41.51s/frame][A
+  LDMVFI x32: 8frame [05:01, 42.07s/frame][A
+  LDMVFI x32: 9frame [05:45, 42.46s/frame][A
+  LDMVFI x32: 10frame [06:28, 42.72s/frame][A
+  LDMVFI x32: 11frame [07:11, 42.88s/frame][A
+  LDMVFI x32: 12frame [07:54, 42.95s/frame][A
+  LDMVFI x32: 13frame [08:38, 43.01s/frame][A
+  LDMVFI x32: 14frame [09:20, 42.93s/frame][A
+  LDMVFI x32: 15frame [10:04, 43.05s/frame][A
+  LDMVFI x32: 16frame [10:47, 43.17s/frame][A
+  LDMVFI x32: 17frame [11:31, 43.28s/frame][A
+  LDMVFI x32: 18frame [12:14, 43.45s/frame][A
+  LDMVFI x32: 19frame [12:58, 43.48s/frame][A
+  LDMVFI x32: 20frame [13:41, 43.37s/frame][A
+  LDMVFI x32: 21frame [14:24, 43.28s/frame][A
+  LDMVFI x32: 22frame [15:07, 43.27s/frame][A
+  LDMVFI x32: 23frame [15:51, 43.27s/frame][A
+  LDMVFI x32: 24frame [16:34, 43.13s/frame][A
+  LDMVFI x32: 25frame [17:17, 43.17s/frame][A
+  LDMVFI x32: 26frame [18:00, 43.18s/frame][A
+  LDMVFI x32: 27frame [18:43, 43.08s/frame][A
+  LDMVFI x32: 28frame [19:26, 42.98s/frame][A
+  LDMVFI x32: 29frame [20:09, 42.97s/frame][A
+                                           [A06:32:58 [INFO]   ok  480x270  29 frames->897  peakVRAM=6528.8MB  1209.5s
+LDMVFI/MVBench:  12%|█▏        | 53/457 [7:01:37<86:12:38, 768.21s/clip]06:32:58 [INFO] [fpsabs_1fps] 6N7G6.mp4  1->29.9 fps (passes=5)
+
+  LDMVFI x32: 0frame [00:00, ?frame/s][A
+  LDMVFI x32: 1frame [00:00,  5.66frame/s][A
+  LDMVFI x32: 2frame [00:43, 25.35s/frame][A
+  LDMVFI x32: 3frame [01:26, 33.41s/frame][A
+  LDMVFI x32: 4frame [02:09, 37.25s/frame][A
+  LDMVFI x32: 5frame [02:52, 39.24s/frame][A
+  LDMVFI x32: 6frame [03:34, 40.41s/frame][A
+  LDMVFI x32: 7frame [04:17, 41.23s/frame][A
+  LDMVFI x32: 8frame [05:00, 41.82s/frame][A
+  LDMVFI x32: 9frame [05:43, 42.14s/frame][A
+  LDMVFI x32: 10frame [06:26, 42.32s/frame][A
+  LDMVFI x32: 11frame [07:08, 42.43s/frame][A
+  LDMVFI x32: 12frame [07:51, 42.54s/frame][A
+  LDMVFI x32: 13frame [08:34, 42.57s/frame][A
+  LDMVFI x32: 14frame [09:17, 42.61s/frame][A
+  LDMVFI x32: 15frame [09:59, 42.63s/frame][A
+  LDMVFI x32: 16frame [10:42, 42.71s/frame][A
+  LDMVFI x32: 17frame [11:25, 42.80s/frame][A
+  LDMVFI x32: 18frame [12:08, 42.74s/frame][A
+  LDMVFI x32: 19frame [12:51, 42.75s/frame][A
+  LDMVFI x32: 20frame [13:33, 42.72s/frame][A
+  LDMVFI x32: 21frame [14:16, 42.78s/frame][A
+  LDMVFI x32: 22frame [14:59, 42.89s/frame][A
+  LDMVFI x32: 23frame [15:42, 42.83s/frame][A
+  LDMVFI x32: 24frame [16:25, 42.87s/frame][A
+  LDMVFI x32: 25frame [17:08, 42.83s/frame][A
+  LDMVFI x32: 26frame [17:51, 42.82s/frame][A
+  LDMVFI x32: 27frame [18:33, 42.80s/frame][A
+  LDMVFI x32: 28frame [19:16, 42.76s/frame][A
+  LDMVFI x32: 29frame [19:59, 42.76s/frame][A
+  LDMVFI x32: 30frame [20:41, 42.76s/frame][A
+  LDMVFI x32: 31frame [21:24, 42.72s/frame][A
+  LDMVFI x32: 32frame [22:07, 42.72s/frame][A
+  LDMVFI x32: 33frame [22:49, 42.70s/frame][A
+  LDMVFI x32: 34frame [23:32, 42.68s/frame][A
+                                           [A06:56:31 [INFO]   ok  480x360  34 frames->1057  peakVRAM=6530.6MB  1413.0s
+LDMVFI/MVBench:  12%|█▏        | 54/457 [7:25:10<107:39:05, 961.65s/clip]06:56:31 [INFO] [fpsabs_1fps] 6PL9Z.mp4  1->30 fps (passes=5)
+
+  LDMVFI x32: 0frame [00:00, ?frame/s][A
+  LDMVFI x32: 1frame [00:00,  6.14frame/s][A
+  LDMVFI x32: 2frame [00:42, 25.22s/frame][A
+  LDMVFI x32: 3frame [01:26, 33.38s/frame][A
+  LDMVFI x32: 4frame [02:09, 37.28s/frame][A
+  LDMVFI x32: 5frame [02:52, 39.39s/frame][A
+  LDMVFI x32: 6frame [03:35, 40.66s/frame][A
+  LDMVFI x32: 7frame [04:18, 41.44s/frame][A
+  LDMVFI x32: 8frame [05:02, 42.11s/frame][A
+  LDMVFI x32: 9frame [05:45, 42.38s/frame][A
+  LDMVFI x32: 10frame [06:27, 42.50s/frame][A
+  LDMVFI x32: 11frame [07:10, 42.61s/frame][A
+  LDMVFI x32: 12frame [07:54, 42.88s/frame][A
+  LDMVFI x32: 13frame [08:37, 43.03s/frame][A
+  LDMVFI x32: 14frame [09:20, 43.12s/frame][A
+  LDMVFI x32: 15frame [10:04, 43.18s/frame][A
+  LDMVFI x32: 16frame [10:47, 43.11s/frame][A
+  LDMVFI x32: 17frame [11:30, 43.10s/frame][A
+  LDMVFI x32: 18frame [12:13, 43.09s/frame][A
+  LDMVFI x32: 19frame [12:56, 43.09s/frame][A
+  LDMVFI x32: 20frame [13:39, 43.03s/frame][A
+                                           [A07:10:10 [INFO]   ok  480x270  20 frames->609  peakVRAM=6528.8MB  819.7s
+LDMVFI/MVBench:  12%|█▏        | 55/457 [7:38:49<102:37:46, 919.07s/clip]07:10:10 [INFO] [fpsabs_1fps] 7309_frame57.mp4  1->6 fps (passes=3)
+
+  LDMVFI x8: 0frame [00:00, ?frame/s][A
+  LDMVFI x8: 1frame [00:00,  6.84frame/s][A
+  LDMVFI x8: 2frame [00:09,  5.55s/frame][A
+  LDMVFI x8: 3frame [00:18,  7.30s/frame][A
+  LDMVFI x8: 4frame [00:28,  8.09s/frame][A
+  LDMVFI x8: 5frame [00:37,  8.58s/frame][A
+  LDMVFI x8: 6frame [00:47,  8.87s/frame][A
+  LDMVFI x8: 7frame [00:56,  9.11s/frame][A
+  LDMVFI x8: 8frame [01:05,  9.18s/frame][A
+  LDMVFI x8: 9frame [01:15,  9.26s/frame][A
+  LDMVFI x8: 10frame [01:24,  9.27s/frame][A
+                                          [A07:11:36 [INFO]   ok  224x224  10 frames->73  peakVRAM=6513.8MB  85.1s
+LDMVFI/MVBench:  12%|█▏        | 56/457 [7:40:15<74:30:26, 668.89s/clip] 07:11:36 [INFO] [fpsabs_1fps] 83822.mp4  1->12 fps (passes=4)
+
+  LDMVFI x16: 0frame [00:00, ?frame/s][A
+  LDMVFI x16: 1frame [00:00,  6.75frame/s][A
+                                          [A07:11:37 [ERROR]   fail on 83822.mp4: AssertionError: 
+LDMVFI/MVBench:  12%|█▏        | 57/457 [7:40:16<52:05:10, 468.78s/clip]07:11:37 [INFO] [fpsabs_1fps] 8G9A9.mp4  1->30 fps (passes=5)
+
+  LDMVFI x32: 0frame [00:00, ?frame/s][A
+  LDMVFI x32: 1frame [00:00,  5.63frame/s][A
+  LDMVFI x32: 2frame [00:43, 25.32s/frame][A
+  LDMVFI x32: 3frame [01:25, 33.33s/frame][A
+  LDMVFI x32: 4frame [02:09, 37.17s/frame][A
+  LDMVFI x32: 5frame [02:51, 39.25s/frame][A
+  LDMVFI x32: 6frame [03:34, 40.52s/frame][A
+  LDMVFI x32: 7frame [04:17, 41.34s/frame][A
+  LDMVFI x32: 8frame [05:01, 41.88s/frame][A
+  LDMVFI x32: 9frame [05:44, 42.27s/frame][A
+  LDMVFI x32: 10frame [06:27, 42.53s/frame][A
+  LDMVFI x32: 11frame [07:11, 43.08s/frame][A
+  LDMVFI x32: 12frame [07:55, 43.35s/frame][A
+  LDMVFI x32: 13frame [08:38, 43.37s/frame][A
+  LDMVFI x32: 14frame [09:23, 43.58s/frame][A
+  LDMVFI x32: 15frame [10:06, 43.47s/frame][A
+  LDMVFI x32: 16frame [10:49, 43.53s/frame][A
+  LDMVFI x32: 17frame [11:33, 43.51s/frame][A
+  LDMVFI x32: 18frame [12:17, 43.59s/frame][A
+  LDMVFI x32: 19frame [13:00, 43.49s/frame][A
+  LDMVFI x32: 20frame [13:43, 43.37s/frame][A
+  LDMVFI x32: 21frame [14:27, 43.47s/frame][A
+  LDMVFI x32: 22frame [15:10, 43.52s/frame][A
+  LDMVFI x32: 23frame [15:54, 43.44s/frame][A
+  LDMVFI x32: 24frame [16:37, 43.47s/frame][A
+  LDMVFI x32: 25frame [17:20, 43.39s/frame][A
+  LDMVFI x32: 26frame [18:04, 43.34s/frame][A
+  LDMVFI x32: 27frame [18:47, 43.25s/frame][A
+  LDMVFI x32: 28frame [19:30, 43.33s/frame][A
+                                           [A07:31:09 [INFO]   ok  480x360  28 frames->865  peakVRAM=6530.6MB  1171.1s
+LDMVFI/MVBench:  13%|█▎        | 58/457 [7:59:48<75:18:27, 679.47s/clip]07:31:09 [INFO] [fpsabs_1fps] 8XXNK.mp4  1->16.6 fps (passes=5)
+
+  LDMVFI x32: 0frame [00:00, ?frame/s][A
+  LDMVFI x32: 1frame [00:00,  5.66frame/s][A
+  LDMVFI x32: 2frame [00:43, 25.38s/frame][A
+  LDMVFI x32: 3frame [01:26, 33.37s/frame][A
+  LDMVFI x32: 4frame [02:08, 37.03s/frame][A
+  LDMVFI x32: 5frame [02:51, 39.07s/frame][A
+  LDMVFI x32: 6frame [03:34, 40.39s/frame][A
+  LDMVFI x32: 7frame [04:17, 41.17s/frame][A
+  LDMVFI x32: 8frame [04:59, 41.70s/frame][A
+  LDMVFI x32: 9frame [05:42, 42.05s/frame][A
+  LDMVFI x32: 10frame [06:25, 42.28s/frame][A
+  LDMVFI x32: 11frame [07:08, 42.51s/frame][A
+  LDMVFI x32: 12frame [07:51, 42.73s/frame][A
+  LDMVFI x32: 13frame [08:34, 42.83s/frame][A
+  LDMVFI x32: 14frame [09:17, 42.86s/frame][A
+  LDMVFI x32: 15frame [10:00, 42.83s/frame][A
+  LDMVFI x32: 16frame [10:43, 42.85s/frame][A
+  LDMVFI x32: 17frame [11:26, 42.91s/frame][A
+  LDMVFI x32: 18frame [12:09, 42.91s/frame][A
+  LDMVFI x32: 19frame [12:52, 42.96s/frame][A
+  LDMVFI x32: 20frame [13:35, 43.08s/frame][A
+                                           [A07:44:45 [INFO]   ok  480x320  20 frames->609  peakVRAM=6530.6MB  816.4s
+LDMVFI/MVBench:  13%|█▎        | 59/457 [8:13:24<79:39:33, 720.54s/clip]07:44:45 [INFO] [fpsabs_1fps] 937EW.mp4  1->25.3 fps (passes=5)
+
+  LDMVFI x32: 0frame [00:00, ?frame/s][A
+  LDMVFI x32: 1frame [00:00,  5.91frame/s][A
+  LDMVFI x32: 2frame [00:43, 25.45s/frame][A
+  LDMVFI x32: 3frame [01:26, 33.48s/frame][A
+  LDMVFI x32: 4frame [02:09, 37.23s/frame][A
+  LDMVFI x32: 5frame [02:52, 39.32s/frame][A
+  LDMVFI x32: 6frame [03:35, 40.60s/frame][A
+  LDMVFI x32: 7frame [04:18, 41.41s/frame][A
+  LDMVFI x32: 8frame [05:01, 41.94s/frame][A
+  LDMVFI x32: 9frame [05:44, 42.28s/frame][A
+  LDMVFI x32: 10frame [06:27, 42.49s/frame][A
+  LDMVFI x32: 11frame [07:10, 42.67s/frame][A
+  LDMVFI x32: 12frame [07:53, 42.76s/frame][A
+  LDMVFI x32: 13frame [08:36, 42.82s/frame][A
+  LDMVFI x32: 14frame [09:19, 42.85s/frame][A
+  LDMVFI x32: 15frame [10:02, 42.96s/frame][A
+  LDMVFI x32: 16frame [10:45, 42.98s/frame][A
+  LDMVFI x32: 17frame [11:28, 42.95s/frame][A
+  LDMVFI x32: 18frame [12:11, 42.94s/frame][A
+  LDMVFI x32: 19frame [12:54, 42.89s/frame][A
+  LDMVFI x32: 20frame [13:37, 43.02s/frame][A
+  LDMVFI x32: 21frame [14:20, 42.95s/frame][A
+  LDMVFI x32: 22frame [15:03, 43.07s/frame][A
+  LDMVFI x32: 23frame [15:46, 43.08s/frame][A
+  LDMVFI x32: 24frame [16:30, 43.26s/frame][A
+  LDMVFI x32: 25frame [17:13, 43.20s/frame][A
+  LDMVFI x32: 26frame [17:56, 43.15s/frame][A
+  LDMVFI x32: 27frame [18:39, 43.02s/frame][A
+  LDMVFI x32: 28frame [19:22, 43.02s/frame][A
+  LDMVFI x32: 29frame [20:05, 43.03s/frame][A
+  LDMVFI x32: 30frame [20:48, 43.06s/frame][A
+  LDMVFI x32: 31frame [21:31, 43.03s/frame][A
+  LDMVFI x32: 32frame [22:14, 43.02s/frame][A
+                                           [A08:07:00 [INFO]   ok  360x480  32 frames->993  peakVRAM=6529.8MB  1335.0s
+LDMVFI/MVBench:  13%|█▎        | 60/457 [8:35:39<99:47:14, 904.87s/clip]08:07:00 [INFO] [fpsabs_1fps] 9BCZU.mp4  1->29.9 fps (passes=5)
+
+  LDMVFI x32: 0frame [00:00, ?frame/s][A
+  LDMVFI x32: 1frame [00:00,  5.71frame/s][A
+  LDMVFI x32: 2frame [00:42, 25.24s/frame][A
+  LDMVFI x32: 3frame [01:26, 33.42s/frame][A
+  LDMVFI x32: 4frame [02:09, 37.22s/frame][A
+  LDMVFI x32: 5frame [02:52, 39.39s/frame][A
+  LDMVFI x32: 6frame [03:35, 40.79s/frame][A
+  LDMVFI x32: 7frame [04:19, 41.76s/frame][A
+  LDMVFI x32: 8frame [05:03, 42.32s/frame][A
+  LDMVFI x32: 9frame [05:46, 42.63s/frame][A
+  LDMVFI x32: 10frame [06:29, 42.73s/frame][A
+  LDMVFI x32: 11frame [07:12, 42.88s/frame][A
+  LDMVFI x32: 12frame [07:56, 43.03s/frame][A
+  LDMVFI x32: 13frame [08:39, 43.21s/frame][A
+  LDMVFI x32: 14frame [09:22, 43.12s/frame][A
+  LDMVFI x32: 15frame [10:05, 43.07s/frame][A
+  LDMVFI x32: 16frame [10:48, 43.04s/frame][A
+  LDMVFI x32: 17frame [11:31, 43.05s/frame][A
+  LDMVFI x32: 18frame [12:14, 42.99s/frame][A
+  LDMVFI x32: 19frame [12:57, 42.99s/frame][A
+  LDMVFI x32: 20frame [13:40, 42.98s/frame][A
+  LDMVFI x32: 21frame [14:23, 42.94s/frame][A
+  LDMVFI x32: 22frame [15:06, 43.05s/frame][A
+  LDMVFI x32: 23frame [15:49, 43.13s/frame][A
+  LDMVFI x32: 24frame [16:33, 43.22s/frame][A
+  LDMVFI x32: 25frame [17:16, 43.25s/frame][A
+  LDMVFI x32: 26frame [17:59, 43.29s/frame][A
+  LDMVFI x32: 27frame [18:43, 43.33s/frame][A
+  LDMVFI x32: 28frame [19:26, 43.28s/frame][A
+  LDMVFI x32: 29frame [20:09, 43.20s/frame][A
+  LDMVFI x32: 30frame [20:53, 43.26s/frame][A
+  LDMVFI x32: 31frame [21:36, 43.39s/frame][A
+  LDMVFI x32: 32frame [22:20, 43.55s/frame][A
+  LDMVFI x32: 33frame [23:04, 43.74s/frame][A
+                                           [A08:30:05 [INFO]   ok  480x360  33 frames->1025  peakVRAM=6529.7MB  1385.2s
+LDMVFI/MVBench:  13%|█▎        | 61/457 [8:58:44<115:23:15, 1048.98s/clip]08:30:05 [INFO] [fpsabs_1fps] 9O0HH.mp4  1->30 fps (passes=5)
+
+  LDMVFI x32: 0frame [00:00, ?frame/s][A
+  LDMVFI x32: 1frame [00:00,  6.00frame/s][A
+  LDMVFI x32: 2frame [00:43, 25.46s/frame][A
+  LDMVFI x32: 3frame [01:26, 33.50s/frame][A
+  LDMVFI x32: 4frame [02:09, 37.16s/frame][A
+  LDMVFI x32: 5frame [02:52, 39.28s/frame][A
+  LDMVFI x32: 6frame [03:35, 40.56s/frame][A
+  LDMVFI x32: 7frame [04:18, 41.39s/frame][A
+  LDMVFI x32: 8frame [05:01, 41.93s/frame][A
+  LDMVFI x32: 9frame [05:44, 42.29s/frame][A
+  LDMVFI x32: 10frame [06:27, 42.53s/frame][A
+  LDMVFI x32: 11frame [07:10, 42.66s/frame][A
+  LDMVFI x32: 12frame [07:53, 42.79s/frame][A
+  LDMVFI x32: 13frame [08:36, 42.85s/frame][A
+  LDMVFI x32: 14frame [09:19, 42.85s/frame][A
+  LDMVFI x32: 15frame [10:02, 42.88s/frame][A
+  LDMVFI x32: 16frame [10:45, 42.88s/frame][A
+  LDMVFI x32: 17frame [11:28, 42.85s/frame][A
+  LDMVFI x32: 18frame [12:10, 42.86s/frame][A
+  LDMVFI x32: 19frame [12:54, 43.06s/frame][A
+  LDMVFI x32: 20frame [13:37, 43.19s/frame][A
+  LDMVFI x32: 21frame [14:21, 43.34s/frame][A
+  LDMVFI x32: 22frame [15:05, 43.49s/frame][A
+  LDMVFI x32: 23frame [15:49, 43.53s/frame][A
+  LDMVFI x32: 24frame [16:32, 43.51s/frame][A
+  LDMVFI x32: 25frame [17:15, 43.40s/frame][A
+  LDMVFI x32: 26frame [17:58, 43.29s/frame][A
+  LDMVFI x32: 27frame [18:41, 43.24s/frame][A
+  LDMVFI x32: 28frame [19:25, 43.26s/frame][A
+  LDMVFI x32: 29frame [20:08, 43.26s/frame][A
+  LDMVFI x32: 30frame [20:51, 43.11s/frame][A
+  LDMVFI x32: 31frame [21:35, 43.42s/frame][A
+  LDMVFI x32: 32frame [22:19, 43.74s/frame][A
+  LDMVFI x32: 33frame [23:04, 43.93s/frame][A
+  LDMVFI x32: 34frame [23:48, 43.99s/frame][A
+  LDMVFI x32: 35frame [24:32, 44.00s/frame][A
+  LDMVFI x32: 36frame [25:15, 43.86s/frame][A
+                                           [A08:55:21 [INFO]   ok  480x270  36 frames->1121  peakVRAM=6527.6MB  1516.4s
+LDMVFI/MVBench:  14%|█▎        | 62/457 [9:24:00<130:28:50, 1189.19s/clip]08:55:21 [INFO] [fpsabs_1fps] 9VF2C.mp4  1->30 fps (passes=5)
+
+  LDMVFI x32: 0frame [00:00, ?frame/s][A
+  LDMVFI x32: 1frame [00:00,  3.99frame/s][A
+  LDMVFI x32: 2frame [00:54, 31.97s/frame][A
+  LDMVFI x32: 3frame [01:49, 42.44s/frame][A
+  LDMVFI x32: 4frame [02:43, 47.17s/frame][A
+  LDMVFI x32: 5frame [03:37, 49.72s/frame][A
+  LDMVFI x32: 6frame [04:32, 51.20s/frame][A
+  LDMVFI x32: 7frame [05:26, 52.17s/frame][A
+  LDMVFI x32: 8frame [06:20, 52.87s/frame][A
+  LDMVFI x32: 9frame [07:14, 53.26s/frame][A
+  LDMVFI x32: 10frame [08:08, 53.43s/frame][A
+  LDMVFI x32: 11frame [09:02, 53.55s/frame][A
+  LDMVFI x32: 12frame [09:56, 53.66s/frame][A
+  LDMVFI x32: 13frame [10:50, 53.73s/frame][A
+  LDMVFI x32: 14frame [11:44, 53.91s/frame][A
+  LDMVFI x32: 15frame [12:38, 54.00s/frame][A
+  LDMVFI x32: 16frame [13:32, 54.05s/frame][A
+  LDMVFI x32: 17frame [14:26, 54.01s/frame][A
+  LDMVFI x32: 18frame [15:20, 53.95s/frame][A
+  LDMVFI x32: 19frame [16:14, 53.95s/frame][A
+  LDMVFI x32: 20frame [17:08, 54.06s/frame][A
+  LDMVFI x32: 21frame [18:02, 54.04s/frame][A
+  LDMVFI x32: 22frame [18:56, 54.06s/frame][A
+  LDMVFI x32: 23frame [19:50, 54.05s/frame][A
+  LDMVFI x32: 24frame [20:44, 54.02s/frame][A
+                                           [A09:16:07 [INFO]   ok  1280x720  24 frames->737  peakVRAM=7784.6MB  1245.6s
+LDMVFI/MVBench:  14%|█▍        | 63/457 [9:44:46<132:00:04, 1206.10s/clip]09:16:07 [INFO] [fpsabs_1fps] AZPOX.mp4  1->24 fps (passes=5)
+
+  LDMVFI x32: 0frame [00:00, ?frame/s][A
+  LDMVFI x32: 1frame [00:00,  6.11frame/s][A
+  LDMVFI x32: 2frame [00:45, 26.89s/frame][A
+  LDMVFI x32: 3frame [01:30, 35.23s/frame][A
+  LDMVFI x32: 4frame [02:15, 39.06s/frame][A
+  LDMVFI x32: 5frame [03:00, 41.20s/frame][A
+  LDMVFI x32: 6frame [03:45, 42.43s/frame][A
+  LDMVFI x32: 7frame [04:30, 43.17s/frame][A
+  LDMVFI x32: 8frame [05:15, 43.68s/frame][A
+  LDMVFI x32: 9frame [05:59, 43.99s/frame][A
+  LDMVFI x32: 10frame [06:44, 44.21s/frame][A
+  LDMVFI x32: 11frame [07:29, 44.45s/frame][A
+  LDMVFI x32: 12frame [08:14, 44.51s/frame][A
+  LDMVFI x32: 13frame [08:58, 44.53s/frame][A
+  LDMVFI x32: 14frame [09:43, 44.61s/frame][A
+  LDMVFI x32: 15frame [10:28, 44.77s/frame][A
+  LDMVFI x32: 16frame [11:13, 44.80s/frame][A
+  LDMVFI x32: 17frame [11:58, 44.77s/frame][A
+  LDMVFI x32: 18frame [12:43, 44.86s/frame][A
+  LDMVFI x32: 19frame [13:28, 44.86s/frame][A
+  LDMVFI x32: 20frame [14:13, 44.95s/frame][A
+  LDMVFI x32: 21frame [14:58, 44.94s/frame][A
+  LDMVFI x32: 22frame [15:42, 44.88s/frame][A
+  LDMVFI x32: 23frame [16:27, 44.89s/frame][A
+  LDMVFI x32: 24frame [17:12, 44.83s/frame][A
+  LDMVFI x32: 25frame [17:57, 44.81s/frame][A
+  LDMVFI x32: 26frame [18:42, 44.82s/frame][A
+  LDMVFI x32: 27frame [19:27, 44.86s/frame][A
+  LDMVFI x32: 28frame [20:12, 44.88s/frame][A
+  LDMVFI x32: 29frame [20:56, 44.84s/frame][A
+  LDMVFI x32: 30frame [21:41, 44.85s/frame][A
+  LDMVFI x32: 31frame [22:26, 44.94s/frame][A
+  LDMVFI x32: 32frame [23:11, 44.95s/frame][A
+  LDMVFI x32: 33frame [23:56, 45.01s/frame][A
+                                           [A09:40:04 [INFO]   ok  540x360  33 frames->1025  peakVRAM=6543.7MB  1437.4s
+LDMVFI/MVBench:  14%|█▍        | 64/457 [10:08:43<139:14:34, 1275.51s/clip]09:40:04 [INFO] [fpsabs_1fps] BE51K.mp4  1->21.4 fps (passes=5)
+
+  LDMVFI x32: 0frame [00:00, ?frame/s][A
+  LDMVFI x32: 1frame [00:00,  5.33frame/s][A
+  LDMVFI x32: 2frame [00:43, 25.38s/frame][A
+  LDMVFI x32: 3frame [01:26, 33.38s/frame][A
+  LDMVFI x32: 4frame [02:09, 37.17s/frame][A
+  LDMVFI x32: 5frame [02:52, 39.26s/frame][A
+  LDMVFI x32: 6frame [03:35, 40.52s/frame][A
+  LDMVFI x32: 7frame [04:18, 41.34s/frame][A
+  LDMVFI x32: 8frame [05:01, 41.98s/frame][A
+  LDMVFI x32: 9frame [05:44, 42.30s/frame][A
+  LDMVFI x32: 10frame [06:27, 42.49s/frame][A
+  LDMVFI x32: 11frame [07:10, 42.64s/frame][A
+  LDMVFI x32: 12frame [07:53, 42.80s/frame][A
+  LDMVFI x32: 13frame [08:36, 42.87s/frame][A
+  LDMVFI x32: 14frame [09:19, 42.92s/frame][A
+  LDMVFI x32: 15frame [10:02, 43.04s/frame][A
+  LDMVFI x32: 16frame [10:45, 43.01s/frame][A
+  LDMVFI x32: 17frame [11:29, 43.09s/frame][A
+  LDMVFI x32: 18frame [12:12, 43.17s/frame][A
+  LDMVFI x32: 19frame [12:55, 43.12s/frame][A
+  LDMVFI x32: 20frame [13:38, 43.06s/frame][A
+  LDMVFI x32: 21frame [14:21, 43.09s/frame][A
+  LDMVFI x32: 22frame [15:04, 43.06s/frame][A
+  LDMVFI x32: 23frame [15:47, 43.08s/frame][A
+  LDMVFI x32: 24frame [16:30, 43.01s/frame][A
+  LDMVFI x32: 25frame [17:13, 42.92s/frame][A
+  LDMVFI x32: 26frame [17:56, 42.96s/frame][A
+  LDMVFI x32: 27frame [18:39, 42.97s/frame][A
+  LDMVFI x32: 28frame [19:22, 43.03s/frame][A
+  LDMVFI x32: 29frame [20:05, 42.97s/frame][A
+  LDMVFI x32: 30frame [20:48, 42.93s/frame][A
+  LDMVFI x32: 31frame [21:30, 42.93s/frame][A
+                                           [A10:01:36 [INFO]   ok  270x480  31 frames->961  peakVRAM=6542.2MB  1291.4s
+LDMVFI/MVBench:  14%|█▍        | 65/457 [10:30:15<139:24:25, 1280.27s/clip]10:01:36 [INFO] [fpsabs_1fps] BI6Y4.mp4  1->29.9 fps (passes=5)
+
+  LDMVFI x32: 0frame [00:00, ?frame/s][A
+  LDMVFI x32: 1frame [00:00,  3.59frame/s][A
+  LDMVFI x32: 2frame [00:54, 31.97s/frame][A
+  LDMVFI x32: 3frame [01:48, 42.14s/frame][A
+  LDMVFI x32: 4frame [02:42, 46.92s/frame][A
+  LDMVFI x32: 5frame [03:37, 49.59s/frame][A
+  LDMVFI x32: 6frame [04:31, 51.12s/frame][A
+  LDMVFI x32: 7frame [05:25, 52.11s/frame][A
+  LDMVFI x32: 8frame [06:19, 52.71s/frame][A
+  LDMVFI x32: 9frame [07:13, 53.12s/frame][A
+  LDMVFI x32: 10frame [08:07, 53.43s/frame][A
+  LDMVFI x32: 11frame [09:01, 53.62s/frame][A
+  LDMVFI x32: 12frame [09:55, 53.75s/frame][A
+  LDMVFI x32: 13frame [10:49, 53.80s/frame][A
+  LDMVFI x32: 14frame [11:43, 53.86s/frame][A
+  LDMVFI x32: 15frame [12:37, 53.95s/frame][A
+  LDMVFI x32: 16frame [13:31, 53.98s/frame][A
+  LDMVFI x32: 17frame [14:25, 54.01s/frame][A
+  LDMVFI x32: 18frame [15:20, 54.18s/frame][A
+  LDMVFI x32: 19frame [16:14, 54.27s/frame][A
+  LDMVFI x32: 20frame [17:09, 54.32s/frame][A
+  LDMVFI x32: 21frame [18:03, 54.33s/frame][A
+  LDMVFI x32: 22frame [18:58, 54.37s/frame][A
+  LDMVFI x32: 23frame [19:52, 54.38s/frame][A
+  LDMVFI x32: 24frame [20:47, 54.43s/frame][A
+  LDMVFI x32: 25frame [21:41, 54.45s/frame][A
+  LDMVFI x32: 26frame [22:36, 54.46s/frame][A
+  LDMVFI x32: 27frame [23:30, 54.53s/frame][A
+  LDMVFI x32: 28frame [24:26, 54.76s/frame][A
+  LDMVFI x32: 29frame [25:21, 54.80s/frame][A
+  LDMVFI x32: 30frame [26:15, 54.76s/frame][A
+  LDMVFI x32: 31frame [27:10, 54.69s/frame][A
+  LDMVFI x32: 32frame [28:04, 54.66s/frame][A
+  LDMVFI x32: 33frame [28:59, 54.62s/frame][A
+  LDMVFI x32: 34frame [29:53, 54.45s/frame][A
+                                           [A10:31:30 [INFO]   ok  1280x720  34 frames->1057  peakVRAM=7785.0MB  1794.1s
+LDMVFI/MVBench:  14%|█▍        | 66/457 [11:00:09<155:47:39, 1434.42s/clip]10:31:30 [INFO] [fpsabs_1fps] C_KT_16_1059_1115.mp4  1->30 fps (passes=5)
+
+  LDMVFI x32: 0frame [00:00, ?frame/s][A
+  LDMVFI x32: 1frame [00:00,  2.73frame/s][A
+  LDMVFI x32: 2frame [01:01, 36.28s/frame][A
+  LDMVFI x32: 3frame [02:03, 47.73s/frame][A
+  LDMVFI x32: 4frame [03:04, 53.08s/frame][A
+  LDMVFI x32: 5frame [04:05, 56.05s/frame][A
+  LDMVFI x32: 6frame [05:07, 57.86s/frame][A
+  LDMVFI x32: 7frame [06:08, 58.97s/frame][A
+  LDMVFI x32: 8frame [07:09, 59.71s/frame][A
+  LDMVFI x32: 9frame [08:10, 60.18s/frame][A
+  LDMVFI x32: 10frame [09:12, 60.60s/frame][A
+  LDMVFI x32: 11frame [10:13, 60.81s/frame][A
+  LDMVFI x32: 12frame [11:15, 60.96s/frame][A
+  LDMVFI x32: 13frame [12:16, 61.17s/frame][A
+  LDMVFI x32: 14frame [13:17, 61.21s/frame][A
+  LDMVFI x32: 15frame [14:19, 61.24s/frame][A
+  LDMVFI x32: 16frame [15:20, 61.25s/frame][A
+                                           [A10:46:51 [INFO]   ok  1420x1068  16 frames->481  peakVRAM=9230.7MB  921.4s
+LDMVFI/MVBench:  15%|█▍        | 67/457 [11:15:30<138:43:17, 1280.51s/clip]10:46:51 [INFO] [fpsabs_1fps] C_KT_17_3643_3725.mp4  1->30 fps (passes=5)
+
+  LDMVFI x32: 0frame [00:00, ?frame/s][A
+  LDMVFI x32: 1frame [00:00,  3.32frame/s][A
+  LDMVFI x32: 2frame [01:01, 36.37s/frame][A
+  LDMVFI x32: 3frame [02:03, 47.84s/frame][A
+  LDMVFI x32: 4frame [03:04, 53.25s/frame][A
+  LDMVFI x32: 5frame [04:06, 56.13s/frame][A
+  LDMVFI x32: 6frame [05:07, 57.86s/frame][A
+  LDMVFI x32: 7frame [06:09, 59.08s/frame][A
+  LDMVFI x32: 8frame [07:10, 59.78s/frame][A
+  LDMVFI x32: 9frame [08:11, 60.30s/frame][A
+  LDMVFI x32: 10frame [09:13, 60.64s/frame][A
+  LDMVFI x32: 11frame [10:14, 60.92s/frame][A
+  LDMVFI x32: 12frame [11:16, 61.08s/frame][A
+  LDMVFI x32: 13frame [12:17, 61.24s/frame][A
+  LDMVFI x32: 14frame [13:19, 61.32s/frame][A
+  LDMVFI x32: 15frame [14:20, 61.41s/frame][A
+  LDMVFI x32: 16frame [15:22, 61.52s/frame][A
+  LDMVFI x32: 17frame [16:24, 61.54s/frame][A
+  LDMVFI x32: 18frame [17:25, 61.57s/frame][A
+  LDMVFI x32: 19frame [18:27, 61.56s/frame][A
+  LDMVFI x32: 20frame [19:28, 61.56s/frame][A
+  LDMVFI x32: 21frame [20:30, 61.50s/frame][A
+  LDMVFI x32: 22frame [21:31, 61.44s/frame][A
+  LDMVFI x32: 23frame [22:33, 61.44s/frame][A
+  LDMVFI x32: 24frame [23:34, 61.45s/frame][A
+  LDMVFI x32: 25frame [24:35, 61.45s/frame][A
+  LDMVFI x32: 26frame [25:37, 61.41s/frame][A
+  LDMVFI x32: 27frame [26:38, 61.43s/frame][A
+  LDMVFI x32: 28frame [27:40, 61.43s/frame][A
+  LDMVFI x32: 29frame [28:41, 61.46s/frame][A
+  LDMVFI x32: 30frame [29:43, 61.61s/frame][A
+  LDMVFI x32: 31frame [30:45, 61.58s/frame][A
+  LDMVFI x32: 32frame [31:46, 61.56s/frame][A
+  LDMVFI x32: 33frame [32:48, 61.61s/frame][A
+  LDMVFI x32: 34frame [33:50, 61.64s/frame][A
+  LDMVFI x32: 35frame [34:51, 61.61s/frame][A
+  LDMVFI x32: 36frame [35:53, 61.60s/frame][A
+  LDMVFI x32: 37frame [36:54, 61.58s/frame][A
+  LDMVFI x32: 38frame [37:56, 61.60s/frame][A
+  LDMVFI x32: 39frame [38:57, 61.55s/frame][A
+  LDMVFI x32: 40frame [39:59, 61.55s/frame][A
+  LDMVFI x32: 41frame [41:01, 61.68s/frame][A
+  LDMVFI x32: 42frame [42:02, 61.62s/frame][A
+                                           [A11:28:55 [INFO]   ok  1420x1068  42 frames->1313  peakVRAM=9229.8MB  2523.6s
+LDMVFI/MVBench:  15%|█▍        | 68/457 [11:57:34<178:39:50, 1653.45s/clip]11:28:55 [INFO] [fpsabs_1fps] C_KT_18_7649_7708.mp4  1->30 fps (passes=5)
+
+  LDMVFI x32: 0frame [00:00, ?frame/s][A
+  LDMVFI x32: 1frame [00:00,  3.17frame/s][A
+  LDMVFI x32: 2frame [01:01, 36.29s/frame][A
+  LDMVFI x32: 3frame [02:03, 47.86s/frame][A
+  LDMVFI x32: 4frame [03:05, 53.46s/frame][A
+  LDMVFI x32: 5frame [04:07, 56.48s/frame][A
+  LDMVFI x32: 6frame [05:09, 58.30s/frame][A
+  LDMVFI x32: 7frame [06:10, 59.46s/frame][A
+  LDMVFI x32: 8frame [07:12, 60.19s/frame][A
+  LDMVFI x32: 9frame [08:14, 60.65s/frame][A
+  LDMVFI x32: 10frame [09:15, 60.94s/frame][A
+  LDMVFI x32: 11frame [10:17, 61.19s/frame][A
+  LDMVFI x32: 12frame [11:19, 61.48s/frame][A
+  LDMVFI x32: 13frame [12:21, 61.53s/frame][A
+  LDMVFI x32: 14frame [13:22, 61.43s/frame][A
+  LDMVFI x32: 15frame [14:23, 61.30s/frame][A
+  LDMVFI x32: 16frame [15:24, 61.27s/frame][A
+  LDMVFI x32: 17frame [16:26, 61.23s/frame][A
+  LDMVFI x32: 18frame [17:27, 61.22s/frame][A
+  LDMVFI x32: 19frame [18:28, 61.20s/frame][A
+                                           [A11:47:24 [INFO]   ok  1420x1068  19 frames->577  peakVRAM=9224.9MB  1109.2s
+LDMVFI/MVBench:  15%|█▌        | 69/457 [12:16:03<160:36:25, 1490.17s/clip]11:47:24 [INFO] [fpsabs_1fps] C_KT_20_5555_5631.mp4  1->30 fps (passes=5)
+
+  LDMVFI x32: 0frame [00:00, ?frame/s][A
+  LDMVFI x32: 1frame [00:00,  3.21frame/s][A
+  LDMVFI x32: 2frame [01:01, 36.16s/frame][A
+  LDMVFI x32: 3frame [02:03, 47.75s/frame][A
+  LDMVFI x32: 4frame [03:05, 53.34s/frame][A
+  LDMVFI x32: 5frame [04:07, 56.48s/frame][A
+  LDMVFI x32: 6frame [05:09, 58.37s/frame][A
+  LDMVFI x32: 7frame [06:10, 59.42s/frame][A
+  LDMVFI x32: 8frame [07:12, 60.11s/frame][A
+  LDMVFI x32: 9frame [08:13, 60.48s/frame][A
+  LDMVFI x32: 10frame [09:15, 60.80s/frame][A
+  LDMVFI x32: 11frame [10:16, 60.89s/frame][A
+  LDMVFI x32: 12frame [11:17, 61.04s/frame][A
+  LDMVFI x32: 13frame [12:18, 61.12s/frame][A
+  LDMVFI x32: 14frame [13:19, 61.12s/frame][A
+  LDMVFI x32: 15frame [14:21, 61.18s/frame][A
+  LDMVFI x32: 16frame [15:22, 61.20s/frame][A
+  LDMVFI x32: 17frame [16:24, 61.32s/frame][A
+  LDMVFI x32: 18frame [17:25, 61.47s/frame][A
+  LDMVFI x32: 19frame [18:27, 61.52s/frame][A
+  LDMVFI x32: 20frame [19:28, 61.47s/frame][A
+  LDMVFI x32: 21frame [20:30, 61.50s/frame][A
+  LDMVFI x32: 22frame [21:31, 61.37s/frame][A
+  LDMVFI x32: 23frame [22:32, 61.27s/frame][A
+  LDMVFI x32: 24frame [23:33, 61.24s/frame][A
+  LDMVFI x32: 25frame [24:34, 61.22s/frame][A
+  LDMVFI x32: 26frame [25:36, 61.19s/frame][A
+  LDMVFI x32: 27frame [26:37, 61.16s/frame][A
+  LDMVFI x32: 28frame [27:38, 61.16s/frame][A
+  LDMVFI x32: 29frame [28:39, 61.16s/frame][A
+  LDMVFI x32: 30frame [29:40, 61.12s/frame][A
+  LDMVFI x32: 31frame [30:41, 61.09s/frame][A
+  LDMVFI x32: 32frame [31:42, 61.09s/frame][A
+  LDMVFI x32: 33frame [32:43, 61.02s/frame][A
+  LDMVFI x32: 34frame [33:44, 61.04s/frame][A
+  LDMVFI x32: 35frame [34:45, 61.06s/frame][A
+  LDMVFI x32: 36frame [35:46, 61.12s/frame][A
+                                           [A12:23:12 [INFO]   ok  1420x1068  36 frames->1121  peakVRAM=9227.0MB  2147.8s
+LDMVFI/MVBench:  15%|█▌        | 70/457 [12:51:51<181:24:05, 1687.46s/clip]12:23:12 [INFO] [fpsabs_1fps] C_KT_21_1852_1925.mp4  1->30 fps (passes=5)
+
+  LDMVFI x32: 0frame [00:00, ?frame/s][A
+  LDMVFI x32: 1frame [00:00,  3.27frame/s][A
+  LDMVFI x32: 2frame [01:01, 36.13s/frame][A
+  LDMVFI x32: 3frame [02:02, 47.48s/frame][A
+  LDMVFI x32: 4frame [03:03, 52.85s/frame][A
+  LDMVFI x32: 5frame [04:04, 55.82s/frame][A
+  LDMVFI x32: 6frame [05:05, 57.64s/frame][A
+  LDMVFI x32: 7frame [06:07, 58.81s/frame][A
+  LDMVFI x32: 8frame [07:08, 59.52s/frame][A
+  LDMVFI x32: 9frame [08:09, 60.02s/frame][A
+  LDMVFI x32: 10frame [09:10, 60.37s/frame][A
+  LDMVFI x32: 11frame [10:11, 60.60s/frame][A
+  LDMVFI x32: 12frame [11:12, 60.82s/frame][A
+  LDMVFI x32: 13frame [12:13, 60.93s/frame][A
+  LDMVFI x32: 14frame [13:15, 61.00s/frame][A
+  LDMVFI x32: 15frame [14:16, 61.01s/frame][A
+  LDMVFI x32: 16frame [15:17, 61.08s/frame][A
+  LDMVFI x32: 17frame [16:18, 61.09s/frame][A
+  LDMVFI x32: 18frame [17:19, 61.07s/frame][A
+  LDMVFI x32: 19frame [18:20, 61.07s/frame][A
+  LDMVFI x32: 20frame [19:22, 61.16s/frame][A
+  LDMVFI x32: 21frame [20:23, 61.11s/frame][A
+  LDMVFI x32: 22frame [21:23, 61.06s/frame][A
+  LDMVFI x32: 23frame [22:25, 61.14s/frame][A
+  LDMVFI x32: 24frame [23:26, 61.17s/frame][A
+  LDMVFI x32: 25frame [24:27, 61.21s/frame][A
+  LDMVFI x32: 26frame [25:29, 61.24s/frame][A
+  LDMVFI x32: 27frame [26:30, 61.19s/frame][A
+  LDMVFI x32: 28frame [27:32, 61.42s/frame][A
+  LDMVFI x32: 29frame [28:33, 61.43s/frame][A
+  LDMVFI x32: 30frame [29:35, 61.48s/frame][A
+  LDMVFI x32: 31frame [30:36, 61.42s/frame][A
+  LDMVFI x32: 32frame [31:37, 61.42s/frame][A
+  LDMVFI x32: 33frame [32:39, 61.56s/frame][A
+                                           [A12:55:53 [INFO]   ok  1420x1068  33 frames->1025  peakVRAM=9228.8MB  1960.6s
+LDMVFI/MVBench:  16%|█▌        | 71/457 [13:24:32<189:43:13, 1769.41s/clip]12:55:53 [INFO] [fpsabs_1fps] C_KT_23_3426_3515.mp4  1->30 fps (passes=5)
+
+  LDMVFI x32: 0frame [00:00, ?frame/s][A
+  LDMVFI x32: 1frame [00:00,  3.10frame/s][A
+  LDMVFI x32: 2frame [01:02, 36.44s/frame][A
+  LDMVFI x32: 3frame [02:03, 47.72s/frame][A
+  LDMVFI x32: 4frame [03:04, 53.18s/frame][A
+  LDMVFI x32: 5frame [04:06, 56.17s/frame][A
+  LDMVFI x32: 6frame [05:07, 57.88s/frame][A
+  LDMVFI x32: 7frame [06:08, 58.99s/frame][A
+  LDMVFI x32: 8frame [07:09, 59.68s/frame][A
+  LDMVFI x32: 9frame [08:11, 60.16s/frame][A
+  LDMVFI x32: 10frame [09:12, 60.49s/frame][A
+  LDMVFI x32: 11frame [10:13, 60.81s/frame][A
+  LDMVFI x32: 12frame [11:15, 60.94s/frame][A
+  LDMVFI x32: 13frame [12:16, 61.05s/frame][A
+  LDMVFI x32: 14frame [13:17, 61.19s/frame][A
+  LDMVFI x32: 15frame [14:19, 61.21s/frame][A
+  LDMVFI x32: 16frame [15:20, 61.22s/frame][A
+  LDMVFI x32: 17frame [16:21, 61.22s/frame][A
+  LDMVFI x32: 18frame [17:22, 61.23s/frame][A
+  LDMVFI x32: 19frame [18:24, 61.22s/frame][A
+  LDMVFI x32: 20frame [19:25, 61.26s/frame][A
+  LDMVFI x32: 21frame [20:26, 61.33s/frame][A
+  LDMVFI x32: 22frame [21:28, 61.34s/frame][A
+  LDMVFI x32: 23frame [22:29, 61.36s/frame][A
+  LDMVFI x32: 24frame [23:30, 61.35s/frame][A
+  LDMVFI x32: 25frame [24:32, 61.31s/frame][A
+  LDMVFI x32: 26frame [25:33, 61.33s/frame][A
+  LDMVFI x32: 27frame [26:34, 61.30s/frame][A
+  LDMVFI x32: 28frame [27:35, 61.24s/frame][A
+  LDMVFI x32: 29frame [28:37, 61.24s/frame][A
+  LDMVFI x32: 30frame [29:38, 61.24s/frame][A
+  LDMVFI x32: 31frame [30:39, 61.24s/frame][A
+  LDMVFI x32: 32frame [31:40, 61.21s/frame][A
+  LDMVFI x32: 33frame [32:41, 61.20s/frame][A
+  LDMVFI x32: 34frame [33:43, 61.20s/frame][A
+  LDMVFI x32: 35frame [34:44, 61.20s/frame][A
+  LDMVFI x32: 36frame [35:45, 61.21s/frame][A
+  LDMVFI x32: 37frame [36:46, 61.24s/frame][A
+  LDMVFI x32: 38frame [37:48, 61.33s/frame][A
+  LDMVFI x32: 39frame [38:49, 61.28s/frame][A
+  LDMVFI x32: 40frame [39:50, 61.26s/frame][A
+  LDMVFI x32: 41frame [40:52, 61.33s/frame][A
+  LDMVFI x32: 42frame [41:53, 61.28s/frame][A
+  LDMVFI x32: 43frame [42:55, 61.36s/frame][A
+  LDMVFI x32: 44frame [43:56, 61.36s/frame][A
+  LDMVFI x32: 45frame [44:57, 61.38s/frame][A
+  LDMVFI x32: 46frame [45:58, 61.31s/frame][A
+  LDMVFI x32: 47frame [47:00, 61.33s/frame][A
+  LDMVFI x32: 48frame [48:01, 61.28s/frame][A
+  LDMVFI x32: 49frame [49:02, 61.28s/frame][A
+                                           [A13:44:56 [INFO]   ok  1420x1068  49 frames->1537  peakVRAM=9226.8MB  2943.6s
+LDMVFI/MVBench:  16%|█▌        | 72/457 [14:13:35<226:54:00, 2121.66s/clip]13:44:56 [INFO] [fpsabs_1fps] C_KT_24_3028_3048.mp4  1->30 fps (passes=5)
+
+  LDMVFI x32: 0frame [00:00, ?frame/s][A
+  LDMVFI x32: 1frame [00:00,  3.03frame/s][A
+  LDMVFI x32: 2frame [01:02, 36.47s/frame][A
+  LDMVFI x32: 3frame [02:03, 47.70s/frame][A
+  LDMVFI x32: 4frame [03:04, 53.15s/frame][A
+  LDMVFI x32: 5frame [04:05, 56.05s/frame][A
+  LDMVFI x32: 6frame [05:06, 57.77s/frame][A
+  LDMVFI x32: 7frame [06:08, 58.89s/frame][A
+  LDMVFI x32: 8frame [07:09, 59.67s/frame][A
+  LDMVFI x32: 9frame [08:10, 60.21s/frame][A
+  LDMVFI x32: 10frame [09:12, 60.59s/frame][A
+  LDMVFI x32: 11frame [10:13, 60.82s/frame][A
+  LDMVFI x32: 12frame [11:14, 60.94s/frame][A
+  LDMVFI x32: 13frame [12:16, 61.01s/frame][A
+  LDMVFI x32: 14frame [13:17, 61.11s/frame][A
+  LDMVFI x32: 15frame [14:18, 61.19s/frame][A
+  LDMVFI x32: 16frame [15:20, 61.22s/frame][A
+  LDMVFI x32: 17frame [16:21, 61.22s/frame][A
+  LDMVFI x32: 18frame [17:22, 61.21s/frame][A
+  LDMVFI x32: 19frame [18:23, 61.24s/frame][A
+  LDMVFI x32: 20frame [19:25, 61.27s/frame][A
+                                           [A14:04:22 [INFO]   ok  1420x1068  20 frames->609  peakVRAM=9224.6MB  1166.0s
+LDMVFI/MVBench:  16%|█▌        | 73/457 [14:33:01<195:43:42, 1834.95s/clip]14:04:22 [INFO] [fpsabs_1fps] C_KT_97_0730_0903.mp4  1->30 fps (passes=5)
+
+  LDMVFI x32: 0frame [00:00, ?frame/s][A
+  LDMVFI x32: 1frame [00:00,  2.42frame/s][A
+  LDMVFI x32: 2frame [01:12, 42.52s/frame][A
+  LDMVFI x32: 3frame [02:24, 55.97s/frame][A
+  LDMVFI x32: 4frame [03:36, 62.30s/frame][A
+  LDMVFI x32: 5frame [04:48, 65.79s/frame][A
+  LDMVFI x32: 6frame [06:00, 67.95s/frame][A
+  LDMVFI x32: 7frame [07:12, 69.27s/frame][A
+  LDMVFI x32: 8frame [08:24, 70.14s/frame][A
+  LDMVFI x32: 9frame [09:36, 70.71s/frame][A
+  LDMVFI x32: 10frame [10:48, 71.11s/frame][A
+  LDMVFI x32: 11frame [12:00, 71.39s/frame][A
+  LDMVFI x32: 12frame [13:12, 71.57s/frame][A
+  LDMVFI x32: 13frame [14:24, 71.69s/frame][A
+  LDMVFI x32: 14frame [15:36, 71.80s/frame][A
+  LDMVFI x32: 15frame [16:48, 71.84s/frame][A
+  LDMVFI x32: 16frame [18:00, 71.87s/frame][A
+  LDMVFI x32: 17frame [19:12, 71.89s/frame][A
+  LDMVFI x32: 18frame [20:24, 71.92s/frame][A
+  LDMVFI x32: 19frame [21:36, 71.93s/frame][A
+  LDMVFI x32: 20frame [22:48, 71.94s/frame][A
+  LDMVFI x32: 21frame [24:00, 71.95s/frame][A
+  LDMVFI x32: 22frame [25:12, 71.94s/frame][A
+  LDMVFI x32: 23frame [26:24, 71.94s/frame][A
+  LDMVFI x32: 24frame [27:35, 71.93s/frame][A
+  LDMVFI x32: 25frame [28:47, 71.91s/frame][A
+  LDMVFI x32: 26frame [29:59, 71.91s/frame][A
+  LDMVFI x32: 27frame [31:11, 71.90s/frame][A
+  LDMVFI x32: 28frame [32:23, 71.89s/frame][A
+  LDMVFI x32: 29frame [33:35, 71.91s/frame][A
+  LDMVFI x32: 30frame [34:47, 71.92s/frame][A
+  LDMVFI x32: 31frame [35:59, 71.91s/frame][A
+  LDMVFI x32: 32frame [37:11, 71.91s/frame][A
+  LDMVFI x32: 33frame [38:23, 71.90s/frame][A
+  LDMVFI x32: 34frame [39:34, 71.91s/frame][A
+  LDMVFI x32: 35frame [40:46, 71.91s/frame][A
+  LDMVFI x32: 36frame [41:58, 71.92s/frame][A
+  LDMVFI x32: 37frame [43:10, 71.93s/frame][A
+  LDMVFI x32: 38frame [44:22, 71.93s/frame][A
+  LDMVFI x32: 39frame [45:34, 71.93s/frame][A
+  LDMVFI x32: 40frame [46:46, 71.93s/frame][A
+  LDMVFI x32: 41frame [47:58, 71.95s/frame][A
+  LDMVFI x32: 42frame [49:10, 71.95s/frame][A
+  LDMVFI x32: 43frame [50:22, 71.94s/frame][A
+  LDMVFI x32: 44frame [51:34, 71.95s/frame][A
+  LDMVFI x32: 45frame [52:46, 71.93s/frame][A
+  LDMVFI x32: 46frame [53:58, 71.95s/frame][A
+  LDMVFI x32: 47frame [55:10, 71.94s/frame][A
+  LDMVFI x32: 48frame [56:22, 71.95s/frame][A
+  LDMVFI x32: 49frame [57:34, 71.92s/frame][A
+  LDMVFI x32: 50frame [58:45, 71.93s/frame][A
+  LDMVFI x32: 51frame [59:57, 71.93s/frame][A
+  LDMVFI x32: 52frame [1:01:09, 71.92s/frame][A
+  LDMVFI x32: 53frame [1:02:21, 71.90s/frame][A
+  LDMVFI x32: 54frame [1:03:33, 71.91s/frame][A
+  LDMVFI x32: 55frame [1:04:45, 71.92s/frame][A
+  LDMVFI x32: 56frame [1:05:57, 71.91s/frame][A
+  LDMVFI x32: 57frame [1:07:09, 71.91s/frame][A
+  LDMVFI x32: 58frame [1:08:21, 71.92s/frame][A
+  LDMVFI x32: 59frame [1:09:33, 71.92s/frame][A
+  LDMVFI x32: 60frame [1:10:45, 71.92s/frame][A
+  LDMVFI x32: 61frame [1:11:57, 71.92s/frame][A
+  LDMVFI x32: 62frame [1:13:08, 71.92s/frame][A
+  LDMVFI x32: 63frame [1:14:20, 71.92s/frame][A
+  LDMVFI x32: 64frame [1:15:32, 71.93s/frame][A
+  LDMVFI x32: 65frame [1:16:44, 71.93s/frame][A
+  LDMVFI x32: 66frame [1:17:56, 71.94s/frame][A
+  LDMVFI x32: 67frame [1:19:08, 71.92s/frame][A
+  LDMVFI x32: 68frame [1:20:20, 71.91s/frame][A
+  LDMVFI x32: 69frame [1:21:32, 71.94s/frame][A
+  LDMVFI x32: 70frame [1:22:44, 71.94s/frame][A
+  LDMVFI x32: 71frame [1:23:56, 71.95s/frame][A
+  LDMVFI x32: 72frame [1:25:08, 71.94s/frame][A
+  LDMVFI x32: 73frame [1:26:20, 71.96s/frame][A
+  LDMVFI x32: 74frame [1:27:32, 71.97s/frame][A
+  LDMVFI x32: 75frame [1:28:44, 71.97s/frame][A
+  LDMVFI x32: 76frame [1:29:56, 71.99s/frame][A
+  LDMVFI x32: 77frame [1:31:08, 71.99s/frame][A
+  LDMVFI x32: 78frame [1:32:20, 71.98s/frame][A
+  LDMVFI x32: 79frame [1:33:32, 71.98s/frame][A
+  LDMVFI x32: 80frame [1:34:44, 71.98s/frame][A
+  LDMVFI x32: 81frame [1:35:56, 71.99s/frame][A
+  LDMVFI x32: 82frame [1:37:08, 71.99s/frame][A
+  LDMVFI x32: 83frame [1:38:20, 72.00s/frame][A
+  LDMVFI x32: 84frame [1:39:32, 72.00s/frame][A
+  LDMVFI x32: 85frame [1:40:44, 72.00s/frame][A
+  LDMVFI x32: 86frame [1:41:56, 71.99s/frame][A
+  LDMVFI x32: 87frame [1:43:08, 71.99s/frame][A
+  LDMVFI x32: 88frame [1:44:20, 71.99s/frame][A
+  LDMVFI x32: 89frame [1:45:32, 71.98s/frame][A
+  LDMVFI x32: 90frame [1:46:44, 72.00s/frame][A
+  LDMVFI x32: 91frame [1:47:56, 71.99s/frame][A
+  LDMVFI x32: 92frame [1:49:08, 71.99s/frame][A
+  LDMVFI x32: 93frame [1:50:20, 71.97s/frame][A
+                                             [A15:54:43 [INFO]   ok  1920x1080  93 frames->2945  peakVRAM=10669.4MB  6621.1s
+LDMVFI/MVBench:  16%|█▌        | 74/457 [16:23:22<347:58:39, 3270.81s/clip]15:54:43 [INFO] [fpsabs_1fps] DPLMM.mp4  1->13.9 fps (passes=4)
+
+  LDMVFI x16: 0frame [00:00, ?frame/s][A
+  LDMVFI x16: 1frame [00:00,  6.00frame/s][A
+  LDMVFI x16: 2frame [00:21, 12.38s/frame][A
+  LDMVFI x16: 3frame [00:41, 16.20s/frame][A
+  LDMVFI x16: 4frame [01:02, 18.04s/frame][A
+  LDMVFI x16: 5frame [01:23, 19.03s/frame][A
+  LDMVFI x16: 6frame [01:44, 19.66s/frame][A
+  LDMVFI x16: 7frame [02:05, 20.14s/frame][A
+  LDMVFI x16: 8frame [02:26, 20.42s/frame][A
